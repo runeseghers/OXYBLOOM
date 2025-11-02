@@ -1,7 +1,9 @@
 # Projecttitel
 *Omschrijving van je concept in 1 zin* 
 
-*Projectteam: Naam 1; Naam 2*
+🛠️ Built by Naam 1 & Naam 2   
+🔥 Supervised by prof. Bas Baccarne & Yannick Christiaens ([project overview](https://github.com/basbaccarne/human-centered-design))    
+🌱 Grown at Ghent University, Industrial Design Engineering    
 
 Datum   
 
