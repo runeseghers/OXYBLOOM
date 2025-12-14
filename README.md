@@ -52,9 +52,9 @@ Licht toe op welke manier je AI gebruikte in dit project.
   * [Rapport](https://docs.google.com/document/d/1lkF2mxv8E-GvEGbEEImv3dyBfMGQf3W1utyAzGHfSRQ/edit?tab=t.0)
 
 ### Definition
-* User testing wave 1 (N=x)
-  * [Protocol](url)
-  * [Rapport](url)
+* User testing wave 1 (N=13)
+  * [Protocol](https://docs.google.com/document/d/1rY86oE0Vs1P8iOJ6PyYzX7_pxgFzCAlSUU5zqiSWN3I/edit?tab=t.0)
+  * [Rapport](https://docs.google.com/document/d/1wBb8zgVL7p_F-QvWJVQwW2Svkrl49Ys-igBUbI4e8e8/edit?tab=t.0)
 * User testing wave 2 (N=x)
   * [Protocol](url)
   * [Rapport](url)
