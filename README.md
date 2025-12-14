@@ -1,7 +1,7 @@
 # Projecttitel
 *Omschrijving van je concept in 1 zin, e.g. Zablurb, een slimme stofzuiger die eenzaamheid tegengaat bij alleenstaande senioren.* 
 
-🛠️ Built by ``Naam 1`` & ``Naam 2``   
+🛠️ Built by ``Dré Devaere`` & ``Rune Seghers``   
 🔥 Supervised by ``prof. dr. Bas Baccarne``, ``Yannick Christiaens`` & ``Wouter Devriese``    
 🌱 Grown at ``Ghent University`` 🏛️ ``Industrial Design Engineering`` ([project overview](https://github.com/basbaccarne/human-centered-design))       
 
