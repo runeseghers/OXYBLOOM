@@ -41,12 +41,16 @@ Licht toe op welke manier je AI gebruikte in dit project.
 ## Bijlagen
 ### Discovery
 * Literatuuronderzoek (N=x)
-  * [Protocol](url)
-  * [Rapport](url)
+  * [Rapport](https://docs.google.com/document/d/1AfcCo7FvvEoZ-1zk95RXVjzMou38a-mL8L6_zgns-Gg/edit?tab=t.0)
 * Interviews (N=x)
-  * [Protocol](url)
-  * [Rapport](url)
-    
+  * [Protocol](https://docs.google.com/document/d/12qbczfWnEImfsNoVpZ4aLVHFY0JWGxJDZ43AeHY9-mw/edit?tab=t.0#heading=h.bomqbvbcsevu)
+  * [Rapport](https://docs.google.com/document/d/1SwhVlLS8_lIYlqKu6CdZsSIWJLKw36k-8GklZlpGox8/edit?usp=sharing)
+* Benchmarking (N=x)
+  * [Rapport](https://docs.google.com/document/d/12xce8BJE52bgFbQwACKA-BeoK-U8daDStCAenrfK3ME/edit?tab=t.0).
+* Enquête (N=x)
+  * [Protocol]()
+  * [Rapport](https://docs.google.com/document/d/1lkF2mxv8E-GvEGbEEImv3dyBfMGQf3W1utyAzGHfSRQ/edit?tab=t.0)
+
 ### Definition
 * User testing wave 1 (N=x)
   * [Protocol](url)
