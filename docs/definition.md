@@ -1,18 +1,3 @@
-## Definition
-Max. 1000 woorden.    
-[!] Algmeen: Maak voldoende gebruik van schematische/grafische weergaves en tabellen.
-### Doestellingen
-Wat wilde je bereiken in deze fase?    
-Welke deelvragen moesten hiervoor beantwoord worden?
-### Materiaal & methoden
-Hoe onderzocht je dit? Wees volledig.  
-Leg uit en toon welke prototypes gemaakt werden en hoe deze helpen om de onderzoeksvragen te beantwoorden (benoemen wat je aftoetst & link naar design requirements).   
-Leg uit welke testen werden uitgevoerd.
-### Resultaten
-Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
-### Conclusies & implicaties
-Definieer de belangrijkste designbeslissingen.
-
 # Wave 1 – Onderzoeksfase
 Analyse van kartonnen prototypes
 
@@ -101,3 +86,67 @@ De bloem is het meest geschikte prototype om ventilatiegedrag op een subtiele, i
 
 ### Takeaways voor de tweede wave
 In de tweede wave wordt onderzocht of het toevoegen van beweging aan de bladeren van de bloem het ontwerp speelser maakt en daardoor de acceptatie bij kinderen vergroot. Door subtiele, continue beweging te integreren, wordt het doel beoogd om de bloem levendiger te maken, zodat de gebruikerservaring natuurlijker en intuïtiever aanvoelt. De focus ligt op het versterken van de aantrekkelijkheid van de bloem, zonder afbreuk te doen aan de esthetische eenvoud en rust die gewenst zijn in het ontwerp.
+
+# Wave 2 – Analyse openbare oplaadfunctie en beloningssysteem en bewegende bladeren
+## Probleemstelling
+
+In deze iteratie is onderzocht hoe een openbare oplaadfunctie en verschillende beloningssystemen kunnen worden geïntegreerd in de bloem die luchtkwaliteit visualiseert.
+De uitdaging was om deze functies zodanig te ontwerpen dat ze het kernprincipe — intuïtieve feedback over luchtkwaliteit en het stimuleren van ventilatie — versterken in plaats van verstoren.
+Ook werd gekeken of de constante beweging van de bladeren het concept speelser maakten maar nog steeds dezelfde rust uitstraalt.
+
+## Risicoanalyse
+
+### Oplaadpoort
+De oplaadfunctie verhoogt het gebruiksgemak, maar er bestaat een risico dat gebruikers de bloem vooral als powerbank gaan gebruiken. Hierdoor kan de focus op gezond ventilatiegedrag afnemen. Daarom is het belangrijk dat de oplaadpoort wordt gekoppeld aan luchtkwaliteit, zodat opladen een beloning is voor goed gedrag en de kernfunctie behouden blijft.
+
+### Kleur van de bloempot
+Het vrijspelen van nieuwe kleuren maakt ventileren visueel aantrekkelijk. Te veel beschikbare kleuren kunnen echter het overzicht verminderen of de esthetiek beïnvloeden. Een gebalanceerd kleurenpalet houdt de functie motiverend en intuïtief.
+
+### Lengte van de stengel
+De groei van de stengel visualiseert streaks en voortgang. Dit geeft directe feedback op ventilatiegedrag. De groei moet duidelijk, maar subtiel zijn, zodat de bloem natuurlijk oogt en de kernfunctie niet wordt overschaduwd.
+
+### Wallet
+De wallet toont theoretische besparingen door efficiënt ventileren. Hoewel het geld niet uitgegeven kan worden, werkt het als motiverende feedback. Het is belangrijk dat gebruikers begrijpen dat het gaat om inzicht en motivatie.
+
+## Oplossingsrichtingen
+### Oplaadfunctie koppelen aan luchtkwaliteit
+De laadpoort wordt alleen geactiveerd wanneer de luchtkwaliteit “goed” is.
+Alternatief: betere luchtkwaliteit → hogere laadsnelheid.
+Opladen wordt zo een beloning voor juist gedrag.
+
+### Streak-systeem & visuele groei van de stengel
+Gebruikers bouwen streaks op door maximaal te ventileren.
+Naarmate de streak stijgt, groeit de stengel van de bloem, wat gezondheid en voortgang op een natuurlijke manier visualiseert.
+
+### Kleuren vrijspelen
+Standaardkleuren verlichten de bloempot.
+Bij betere luchtkwaliteit worden nieuwe kleuren vrijgespeeld voor de verlichting, wat personalisatie mogelijk maakt zonder af te leiden.
+
+### Wallet met theoretische besparing
+De wallet toont hoeveel geld gebruikers hebben bespaard door efficiënt te ventileren.
+Besparing kan worden besteed aan nieuwe kleuren of personalisatie van het LED-scherm (bijv. “Bloem van [naam gebruiker]”).
+
+### Bewegende bladeren
+Er is gekeken of de “ademende” bloem, met bewegende bladeren, het ontwerp speelser maakt.
+Dit werd positief ontvangen en zal worden meegenomen naar de volgende iteratie.
+
+## Resultaten
+
+Uit interviews met vijf gebruikers blijkt dat de openbare oplaadfunctie niet ideaal is. Verschillende deelnemers gaven aan dat ze na een tijdje meer geïnteresseerd raakten in opladen dan in energie besparen.
+Voorbeeldquote:
+
+“Ik zou de plant denk ik meer zien als oplaadstation dan een apparaat dat de luchtkwaliteit verbetert.”
+
+Daarom is besloten om de bloem autonoom van stroom te voorzien via zonnepanelen en een interne batterij. Dit houdt het ontwerp esthetisch aantrekkelijk, zonder kabels, en behoudt de nadruk op goed ventilatiegedrag.
+
+De overige beloningssystemen werden juist positief ontvangen:
+Streak-systeem & stengelgroei: “Het is leuk om te zien hoe hij groeit als je goed ventileert.”
+Vrijspelen van kleuren: creëert motivatie en personalisatie.
+Wallet: biedt inzicht in theoretische besparingen en versterkt motivatie.
+
+## Conclusies & implicaties
+
+De openbare oplaadfunctie wordt niet meegenomen naar de volgende iteratie; in plaats daarvan krijgt de bloem een autonome energievoorziening.
+Streak-systeem, stengelgroei, kleuren vrijspelen en wallet blijven behouden als beloningsmechanismen.
+De bewegende bladeren worden meegenomen om de bloem speelser en aantrekkelijker te maken, vooral voor kinderen.
+Het ontwerp blijft gericht op intuïtieve feedback, esthetiek en acceptatie in de woning, met behoud van focus op het stimuleren van goed ventilatiegedrag.
