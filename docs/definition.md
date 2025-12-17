@@ -28,6 +28,7 @@ Een kartonnen tablet met interfaces uitgewerkt in Figma Make.
 Aftoetsing: navigatie, duidelijkheid van informatie en schermstructuur
 
 👉 Hier kan je foto’s van de drie prototypes toevoegen.
+## Prototype 1: Bloem
 ## Prototype 2: Parkiet
 <p align="left">
   <img src="../img/IMG_1298.jpeg" width="32%">
@@ -35,6 +36,7 @@ Aftoetsing: navigatie, duidelijkheid van informatie en schermstructuur
   <img src="../img/IMG_1312.jpeg" width="32%">
 </p>
 
+## Prototype 3: Tablet
 ## Testmethode
 Steekproef: 11 volwassenen + 2 kinderen
 
