@@ -3,7 +3,7 @@ Analyse van kartonnen prototypes
 
 ## Doelstellingen
 <p align="left">
-  <img src="../img/IMG_1425.HEIC" width="32%">
+  <img src="../img/storyboard.jpg" width="50%">
 </p>
 Hoofddoel:
 In deze fase wilden we onderzoeken welk fysiek of digitaal concept het meest intuïtieve signaal geeft om gebruikers aan te zetten tot het ventileren van een binnenruimte.
