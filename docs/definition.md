@@ -24,7 +24,7 @@ Een parkiet op een stokje die rechtop staat bij goede lucht en naar beneden hang
 Aftoetsing: kracht van symboliek (gezonde vs. zieke vogel)
 
 Prototype 3 – Tablet (digitale interface)
-Een kartonnen tablet met interfaces uitgewerkt in Figma Make.
+Een tablet met interfaces uitgewerkt in Figma Make.
 Aftoetsing: navigatie, duidelijkheid van informatie en schermstructuur
 
 👉 Hier kan je foto’s van de drie prototypes toevoegen.
