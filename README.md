@@ -8,13 +8,12 @@
 *Dag/Maand/Jaar van de laatste update*   
 
 ## Samenvatting
-Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:
+Veel mensen ventileren hun huis niet op de juiste manier, of doen dit te weinig, vaak uit onwetendheid. Dit kan leiden tot een onnodig energieverbruik, slechtere luchtkwaliteit en vochtproblemen. Om inzicht te krijgen in dit probleem hebben we een enquête afgenomen bij ongeveer 100 respondenten. Daaruit bleek dat 50% van de deelnemers zich niet bewust is van het verband tussen duurzaamheid en correcte ventilatie. Dit wijst duidelijk op een kennis- en gedragskloof: veel mensen weten niet wanneer en hoe ze hun woning optimaal kunnen ventileren.
 
-- Wat is het probleem?
-- Hoe heb je dit onderzocht?
-- Wat is jouw oplossing?
-- Hoe lost jouw oplossing het probleem op?
-- Hero sketch/render/image, vb.
+Onze oplossing is een innovatief product dat gebruikers begeleidt bij het ventileren op de juiste momenten en op de juiste manier. Het product geeft aan wanneer het beste moment is om te ventileren, op basis van het binnen- en buitenklimaat. Door dit hulpmiddel te gebruiken kunnen bewoners efficiënter ventileren, waardoor ze minder energie hoeven te verbruiken om bijvoorbeeld te verwarmen. Daarnaast draagt correcte ventilatie bij aan een gezonder binnenklimaat: vochtproblemen en schimmelvorming worden beperkt, en de lucht in huis blijft frisser.
+
+Op deze manier helpt onze oplossing niet alleen het energieverbruik te verminderen, maar verbetert het ook het wooncomfort en de gezondheid van de bewoners. Door bewust ventilatiegedrag te stimuleren, sluiten we de kennis- en gedragskloof en zorgen we voor een duurzamere en gezondere leefomgeving.
+
 <p align="center">
   <img src="img/hero_example.png" width="100%">
 </p>
