@@ -79,7 +79,6 @@ De tablet scoort het laagst door visuele drukte en “schermmoeheid”.
 | Parkiet   | 4/13 (2 kinderen, 2 mannen) |
 | Tablet    | 3/13 (3 mannen, 1 vrouw) |
 
-Bij de voorkeur voor gebruik in de woning scoorde de bloem het hoogst met 6 van de 13 stemmen, allemaal van vrouwen. Dit laat zien dat het ontwerp vooral bij vrouwelijke gebruikers goed in de smaak valt. De parkiet kreeg 4 stemmen, verdeeld over 2 kinderen en 2 mannen, wat aangeeft dat dit concept meer aanspreekt bij mannen en kinderen, maar minder bij vrouwen. De tablet scoorde het laagst met 3 stemmen, vooral van mannen, wat bevestigt dat het digitale, visueel drukke karakter minder breed geaccepteerd wordt. Samengevat blijkt de bloem favoriet bij vrouwen, de parkiet bij kinderen en mannen, en de tablet heeft de minste algemene voorkeur.
 
 ## Conclusies & Implicaties (belangrijkste designbeslissingen)
 
