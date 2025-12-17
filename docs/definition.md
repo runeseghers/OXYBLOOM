@@ -30,7 +30,7 @@ Prototype 3 – Tablet (digitale interface)
 Een tablet met interfaces uitgewerkt in Figma Make.
 Aftoetsing: navigatie, duidelijkheid van informatie en schermstructuur
 
-👉 Hier kan je foto’s van de drie prototypes toevoegen.
+
 ## Prototype 1: Bloem
 <p align="left">
   <img src="../img/OXYBLOOM%20(1).jpg" width="32%">
