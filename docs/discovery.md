@@ -11,3 +11,31 @@ Leg uit welke onderzoeksmethoden werden uitgevoerd en hoe dit werd aangepakt (li
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
 ### Conclusies & implicaties
 Definieer de belangrijkste designbeslissingen
+
+
+# Discovery
+## Doelstellingen
+
+- Inzicht krijgen in de relatie tussen energieverbruik, ventilatiegedrag en vochtproblematiek.
+- Begrijpen hoe mensen vandaag omgaan met luchtkwaliteit en duurzaamheid in huis.
+- Achterhalen welke drempels (kennis, gedrag, prijs, complexiteit) duurzaam ventileren in de weg staan.
+- Bestaande oplossingen analyseren en gaten in de markt blootleggen.
+- Verworven informatie gaan combineren tot een eerste concept.
+
+## Materiaal & methoden
+
+### Literatuuronderzoek
+
+
+
+
+
+### Interviews
+
+
+### Benchmarking
+
+
+### Enquête
+
+De enquête was anoniem en leverde een representatieve spreiding van woonsituaties op.
