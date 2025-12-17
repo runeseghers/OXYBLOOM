@@ -34,6 +34,7 @@ Aftoetsing: navigatie, duidelijkheid van informatie en schermstructuur
   <img src="../img/IMG_1308.jpeg" width="32%">
   <img src="../img/IMG_1312.jpeg" width="32%">
 </p>
+
 ## Testmethode
 Steekproef: 11 volwassenen + 2 kinderen
 
