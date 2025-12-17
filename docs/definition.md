@@ -30,9 +30,9 @@ Aftoetsing: navigatie, duidelijkheid van informatie en schermstructuur
 👉 Hier kan je foto’s van de drie prototypes toevoegen.
 ## Prototype 2: Parkiet
 <p align="left">
-  <img src="Parkiet Achterkant" width="32%">
-  <img src="Parkiet Gezond" width="32%">
-  <img src="Prkiet niet gezond" width="32%">
+  <img src="../img/IMG_1298.jpeg" width="32%">
+  <img src="../img/IMG_1308.jpeg" width="32%">
+  <img src="../img/IMG_1312.jpeg" width="32%">
 </p>
 ## Testmethode
 Steekproef: 11 volwassenen + 2 kinderen
