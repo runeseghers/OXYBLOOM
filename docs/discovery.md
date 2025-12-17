@@ -31,6 +31,7 @@ Definieer de belangrijkste designbeslissingen
 
 
 ### Interviews
+Voor de interviews werden 2 type respondenten geïnterviewd: experts en gewone gebruikers. Tijdens de interviews werden vragen gesteld die beide aanspareken en ook enkele die expliciet voor de experts waren. Deze vragen tasten naar: algemene visie op duurzaamheid, concrete ewoonten, kennis over luchtkwaliteit en duurzame producten. In het [Protocool](https://docs.google.com/document/d/12qbczfWnEImfsNoVpZ4aLVHFY0JWGxJDZ43AeHY9-mw/edit?tab=t.0) is een verder overzicht te vinden van hoe de interviews verlopen zijn.
 
 
 ### Benchmarking
@@ -38,8 +39,29 @@ Voor de benchmarking werden 10 bestaande producten onderzocht op het gebied van 
 
 ### Enquête
 De enquëte is gelanceerd om een duidelijk beeld te krijgen van hoe mensen omgaan met ventilatie en energieverbruik. De vragen bespraken vooral hoe mensen staan tenopzichte van het ventileren en of zij de link tussen energie en ventileren konden leggen.
+Een overzicht van de vregen is te vinden in de [enquête](https://docs.google.com/forms/d/e/1FAIpQLSccWiVOp48grHZ2cQGmuoxTeAmDsEP0Rcj8K9Pg0Ig58J9OUA/viewform?usp=header).
 
 ## Resultaten
+### Interviews
+Uit de inetviews zijn enkele cruciale punten naar boven gekomen deze worden hieronder besproken.
+##### 1. De Probleemstelling: Onzichtbaarheid
+Gebruikers herkennen een slechte luchtkwaliteit momenteel pas wanneer er fysieke symptomen zijn, zoals damp op de ruiten, een muffe geur of zelfs schimmelvorming. Hoewel men weet dat factoren zoals koken, wasmiddelen en het aantal aanwezige mensen de lucht beïnvloeden, ontbreekt het aan een tijdige waarschuwing.
+
+#### 2. De Oplossing: Ons Product
+Het concept van een sierobject (de bloem) wordt positief ontvangen, mits het aan specifieke voorwaarden voldoet.
+
+Bestaande meetapparatuur (bijv. in rusthuizen) wordt als "niet gezellig" ervaren. Ons product moet hier het verschil maken door een mooi design te combineren met functionaliteit. De voorkeur gaat uit naar visuele signalen zoals het veranderen van kleur of het openen/sluiten van de bloemblaadjes, eventueel aangevuld met een app of subtiel geluid. Men verwacht dat het product daadwerkelijk aanzet tot duurzamer gedrag, zoals gerichter ventileren om energie te besparen in plaats van de verwarming onnodig hoog te zetten.
+
+#### 3. Technische Parameters & Regelgeving
+Experts en gebruikers wijzen op de volgende noodzakelijke metingen voor een effectief ontwerp.
+
+De belangrijkste graadmeter, waarbij een streefwaarde van < 900 ppm geldt en actie nodig is boven de 1200 ppm. Cruciaal voor gezondheid en gebouwbehoud; de ideale zone ligt tussen de 40% en 60%. Aanvullende suggesties zijn sensoren voor rook, gas en het zuurstofgehalte.
+
+#### 4. Kritische Randvoorwaarden
+Uit de interviews komen drie duidelijke barrières naar voren die het succes van het ontwerp bepalen.
+
+Als de prijs te hoog is, kiest de consument eerder voor automatische ventilatie of neemt men de gok. Duurzaamheid wordt vaak gezien als "luxe moeten afstaan". Ons product moet laten zien dat besparen juist comfort (gezonde lucht) oplevert. Ondanks het mooie uiterlijk moet de werking perfect zijn om de gebruiker te blijven boeien.
+
 ### Benchmarking
 Van alle verschillende criteria werd een overzichtelijke tabel gemaakt deze is hieronder te vinden:
 | Product | Prijs | Sensoren | Feedback | Energie-link | Unieke Feature |
@@ -69,13 +91,15 @@ Voor het ontwerp van ons product nemen we de beste elementen uit de huidige mark
 
 Vernieuwing en Toevoegingen
 
-Om de tekortkomingen van de huidige markt op te lossen, voegen we de volgende unieke aspecten toe:
+Om de tekortkomingen van de huidige markt p te lossen, voegen we de volgende unieke aspecten toe:
 In plaats van een scherm krijgt ons product bewegende elementen die de luchtkwaliteit en energie-status tastbaar maken. Ook stimuleren we gedrag door buurt-doelen en collectieve impact zichtbaar te maken. Het product werkt volledig zelfstandig zonder verplichte app-afhankelijkheid, wat de drempel voor ouderen en minder technisch aangelegden verlaagt. De gebruiker leert op een begrijpelijke manier hoe vochtbeheersing direct leidt tot lagere stookkosten.
 
 Te vermijden valkuilen
 
 Om inclusief en effectief te blijven, wijkt ons product bewust af van gangbare marktstandaarden:
 De prijs blijft strikt onder de €150 om energiearmoede tegen te gaan. We Ook vermijden we complexe grafieken of abonnementen. In plaats van passieve data biedt ons product een duidelijke aanzetting tot actie.
+
+Verdere informatie over de benchmarking is te vinden in het [rapport](https://docs.google.com/document/d/12xce8BJE52bgFbQwACKA-BeoK-U8daDStCAenrfK3ME/edit?tab=t.0).
 
 ### Enquête
 Uit de enquête kwamen enkele opvallende resultaten, de drie belangrijkste worden hieronder kort besproken.
@@ -103,5 +127,5 @@ Bijna de helft van de mensen is zich er niet van bewust dat goed ventileren juis
 
 Een ruime meerderheid van 79,8% staat open voor de oplossing, en meer dan een kwart (28,8%) zou het zeker gebruiken. Tegelijkertijd geeft 51% aan dat betaalbaarheid een belangrijke factor is. Slechts 20,2% van de respondenten zou het waarschijnlijk of zeker niet gebruiken.
 
-Verder zijn er nog andere vragen gesteld deze resultaten zijn terug te vinden in het [Rapport](https://docs.google.com/document/d/1lkF2mxv8E-GvEGbEEImv3dyBfMGQf3W1utyAzGHfSRQ/edit?tab=t.0).
+Verder zijn er nog andere vragen gesteld deze resultaten zijn terug te vinden in het [rapport](https://docs.google.com/document/d/1lkF2mxv8E-GvEGbEEImv3dyBfMGQf3W1utyAzGHfSRQ/edit?tab=t.0).
 
