@@ -43,6 +43,10 @@ Aftoetsing: navigatie, duidelijkheid van informatie en schermstructuur
 </p>
 
 ## Prototype 3: Tablet
+<p align="left">
+  <img src="../img/OXYBLOOM%20(4).jpg" width="32%">
+</p>
+
 ## Testmethode
 Steekproef: 11 volwassenen + 2 kinderen
 
