@@ -101,10 +101,12 @@ In de tweede wave wordt onderzocht of het toevoegen van beweging aan de bladeren
 
 # Wave 2 – Analyse openbare oplaadfunctie en beloningssysteem en bewegende bladeren
 ## Probleemstelling
+STORYBOARD
+Hieruit konden opnieuw een reeks onderzoeksvragen gevonden worden:
+- Kan een oplaadfunctie geïntegreerd worden in het product om zichzelf en anderen van energie te voorzien?
+- Kan een beloningssysteem de gebruiker meer motiveren om te verluchten?
+- Zal een bloem die meer speels is kinderen meer interesseren en motiveren en nog steeds rust uitstralen?
 
-In deze iteratie is onderzocht hoe een openbare oplaadfunctie en verschillende beloningssystemen kunnen worden geïntegreerd in de bloem die luchtkwaliteit visualiseert.
-De uitdaging was om deze functies zodanig te ontwerpen dat ze het kernprincipe — intuïtieve feedback over luchtkwaliteit en het stimuleren van ventilatie — versterken in plaats van verstoren.
-Ook werd gekeken of de constante beweging van de bladeren het concept speelser maakten maar nog steeds dezelfde rust uitstraalt.
 
 ## Risicoanalyse
 
