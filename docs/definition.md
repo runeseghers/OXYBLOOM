@@ -44,7 +44,7 @@ Aftoetsing: navigatie, duidelijkheid van informatie en schermstructuur
 
 ## Prototype 3: Tablet
 <p align="left">
-  <img src="../img/OXYBLOOM%20(4).jpg" width="32%">
+  <img src="../img/OXYBLOOM%20(5).jpg" width="100%">
 </p>
 
 ## Testmethode
