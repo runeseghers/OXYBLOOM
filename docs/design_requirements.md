@@ -16,7 +16,6 @@
 
 
 |**Deelaspect**|
-
 |2.1|De bloem moet een melding geven op een app wanneer het tijd is om te verluchtren|[Interviews](https://docs.google.com/document/d/1SwhVlLS8_lIYlqKu6CdZsSIWJLKw36k-8GklZlpGox8/edit?usp=sharing)|❌|
 |2.2|De bloem moet een geluidje afspelen wanneer het tijd is om te verluchten.|[Interviews](https://docs.google.com/document/d/1SwhVlLS8_lIYlqKu6CdZsSIWJLKw36k-8GklZlpGox8/edit?usp=sharing)|✅|
 |2.3|De bloem moet van kleur veranderen wanneer het tijd is om te verluchten.|[Interviews](https://docs.google.com/document/d/1SwhVlLS8_lIYlqKu6CdZsSIWJLKw36k-8GklZlpGox8/edit?usp=sharing)|✅|
