@@ -85,16 +85,13 @@ De tablet scoort het laagst door visuele drukte en “schermmoeheid”.
 ### Kiezen voor de bloem als hoofdconcept
 De bloem combineert esthetiek, begrijpelijkheid en acceptatie het beste, en heeft daardoor de grootste kans op langdurig gebruik in huis.
 
-### Informatie subtiel presenteren
-Bij een gesloten bloem is informatie niet direct zichtbaar. Daarom moet relevante informatie extern of op een impliciete manier worden weergegeven, zodat het ontwerp overzichtelijk blijft.
-
 ### Kindvriendelijk ontwerp
 Kinderen hebben meer moeite om de bloem te begrijpen. Door het ontwerp speelser te maken, bijvoorbeeld met zachte, continue bewegingen zoals “ademende” bladeren, wordt het concept ook voor hen aantrekkelijker en duidelijker.
 
 ### Geen extra scherm als hoofdoplossing
 Een tablet kan informatie duidelijk overbrengen, maar staat haaks op de wens voor rust en harmonie in huis. Vrouwen en kinderen vinden een extra scherm te druk, te technisch en visueel belastend. Dit resulteert in de laagste totale bereidheid tot actie (4,5/7), ondanks dat mannen het datavisualisatie en beloningssysteem waarderen.
 
-### Parkiet versus tablet
+
 De parkiet scoort bij mannen en kinderen juist hoog op bereidheid tot actie (6,4 en 7,0), maar de meerderheid, vooral vrouwen, ervaart het als te speels of kinderlijk. De lagere esthetische acceptatie bij deze groep kan ertoe leiden dat men het minder snel in huis plaatst.
 
 ### Conclusie:
