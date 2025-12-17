@@ -69,3 +69,5 @@ Bijna de helft van de mensen is zich er niet van bewust dat goed ventileren juis
 
 Een ruime meerderheid van 79,8% staat open voor de oplossing, en meer dan een kwart (28,8%) zou het zeker gebruiken. Tegelijkertijd geeft 51% aan dat betaalbaarheid een belangrijke factor is. Slechts 20,2% van de respondenten zou het waarschijnlijk of zeker niet gebruiken.
 
+Verder zijn er nog andere vragen gesteld deze resultaten zijn terug te vinden in het [Rapport](https://docs.google.com/document/d/1lkF2mxv8E-GvEGbEEImv3dyBfMGQf3W1utyAzGHfSRQ/edit?tab=t.0).
+
