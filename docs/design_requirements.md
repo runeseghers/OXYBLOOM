@@ -1,6 +1,6 @@
 ## Overzicht van Design Requirements
 || **Status** || ❌ niet voldaan || ⚠️ gedeeltelijk voldaan || ✅ voldaan ||
-|ID|Design Requirement|Source|Status|
+|ID|Design Requirement Discovery|Source|Status|
 |:---|:---|:---|:---:|
 |**Algemeen**|
 |1|Het product moet vochtigheid kunnen meten.|[Literatuuronderzoek](https://docs.google.com/document/d/1AfcCo7FvvEoZ-1zk95RXVjzMou38a-mL8L6_zgns-Gg/edit?tab=t.0)|✅|
@@ -17,3 +17,11 @@
 |2.4|De bloem moet bewegen wanneer het tijd is om te verluchten.|[Interviews](https://docs.google.com/document/d/1SwhVlLS8_lIYlqKu6CdZsSIWJLKw36k-8GklZlpGox8/edit?usp=sharing)|✅|
 
 
+|ID|Design Requirement Definition|Source|Status|
+|:---|:---|:---|:---:|
+|**Algemeen**|
+|1|het moet een bloem zijn als metafoor.|[Literatuuronderzoek](https://docs.google.com/document/d/1AfcCo7FvvEoZ-1zk95RXVjzMou38a-mL8L6_zgns-Gg/edit?tab=t.0)|✅|
+|2|Er moet een beloningssysteem zijn . |[Literatuuronderzoek](https://docs.google.com/document/d/1AfcCo7FvvEoZ-1zk95RXVjzMou38a-mL8L6_zgns-Gg/edit?tab=t.0)|⚠️|
+|3|Het product moet speels zijn .|[Interviews](https://docs.google.com/document/d/1SwhVlLS8_lIYlqKu6CdZsSIWJLKw36k-8GklZlpGox8/edit?usp=sharing)|✅|
+verluchten.|[Interviews](https://docs.google.com/document/d/1SwhVlLS8_lIYlqKu6CdZsSIWJLKw36k-8GklZlpGox8/edit?usp=sharing)|✅|
+|2.4|De bloem moet bewegen wanneer het tijd is om te verluchten.|[Interviews](https://docs.google.com/document/d/1SwhVlLS8_lIYlqKu6CdZsSIWJLKw36k-8GklZlpGox8/edit?usp=sharing)|✅|
