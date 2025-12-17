@@ -62,6 +62,8 @@ Uit de interviews komen drie duidelijke barrières naar voren die het succes van
 
 Als de prijs te hoog is, kiest de consument eerder voor automatische ventilatie of neemt men de gok. Duurzaamheid wordt vaak gezien als "luxe moeten afstaan". Ons product moet laten zien dat besparen juist comfort (gezonde lucht) oplevert. Ondanks het mooie uiterlijk moet de werking perfect zijn om de gebruiker te blijven boeien.
 
+Verdere informatie over de interviews is te vinden in het [rapport](https://docs.google.com/document/d/1SwhVlLS8_lIYlqKu6CdZsSIWJLKw36k-8GklZlpGox8/edit?tab=t.0).
+
 ### Benchmarking
 Van alle verschillende criteria werd een overzichtelijke tabel gemaakt deze is hieronder te vinden:
 | Product | Prijs | Sensoren | Feedback | Energie-link | Unieke Feature |
