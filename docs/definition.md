@@ -51,7 +51,7 @@ Aftoetsing: navigatie, duidelijkheid van informatie en schermstructuur
 
 ## Testmethode
 Steekproef: 11 volwassenen + 2 kinderen
-De respondenten maakten achtereenvolgens kennis met één willekeurig prototype. Na elk prototype kregen ze een lijst met vragen en gaven ze scores. Dit proces werd herhaald voor de overige prototypes.
+De respondenten maakten achtereenvolgens kennis met één willekeurig prototype. Na elk prototype kregen ze een lijst met vragen en gaven ze scores. Dit proces werd herhaald voor de overige prototypes. En op het einde werd gevraagd welk protoype ze als voorkeur zouden kiezen voor in hun woning.
 Beoordeling van:
 - Duidelijkheid van het signaal
 - Bereidheid om actie te ondernemen
@@ -82,17 +82,16 @@ De tablet scoort het laagst door visuele drukte en “schermmoeheid”.
 
 ## Conclusies & Implicaties (belangrijkste designbeslissingen)
 
-### Kiezen voor de bloem als hoofdconcept
 De bloem combineert esthetiek, begrijpelijkheid en acceptatie het beste, en heeft daardoor de grootste kans op langdurig gebruik in huis.
 
 ### Kindvriendelijk ontwerp
-Kinderen hebben meer moeite om de bloem te begrijpen. Door het ontwerp speelser te maken, bijvoorbeeld met zachte, continue bewegingen zoals “ademende” bladeren, wordt het concept ook voor hen aantrekkelijker en duidelijker.
+Kinderen hebben meer moeite om de bloem te begrijpen en zijn minder bereid om iets te doen wanneer de bloem zich sluit dan bij de parkiet dus door het ontwerp speelser te maken, bijvoorbeeld met zachte, continue bewegingen zoals “ademende” bladeren, wordt het concept ook voor hen aantrekkelijker en zou dit kunnen helpen om het ontwerp meer kindvriendelijker te maken.
 
 ### Geen extra scherm als hoofdoplossing
-Een tablet kan informatie duidelijk overbrengen, maar staat haaks op de wens voor rust en harmonie in huis. Vrouwen en kinderen vinden een extra scherm te druk, te technisch en visueel belastend. Dit resulteert in de laagste totale bereidheid tot actie (4,5/7), ondanks dat mannen het datavisualisatie en beloningssysteem waarderen.
+Een tablet kan informatie duidelijk overbrengen, maar staat haaks op de wens voor rust en harmonie in huis. Vrouwen vinden een extra scherm te druk, te technisch en visueel belastend, kinderen vonden het eerst leuk maar verveelde snel. Dit resulteert in de laagste totale bereidheid tot actie (4,5/7), ondanks dat mannen het datavisualisatie en beloningssysteem waarderen.
 
 
-De parkiet scoort bij mannen en kinderen juist hoog op bereidheid tot actie (6,4 en 7,0), maar de meerderheid, vooral vrouwen, ervaart het als te speels of kinderlijk. De lagere esthetische acceptatie bij deze groep kan ertoe leiden dat men het minder snel in huis plaatst.
+De parkiet scoort bij mannen en kinderen juist hoog op bereidheid tot actie (6,4 en 7,0) en dat is omdat het diertje speels is en empathie opwekt, maar de meerderheid, vooral vrouwen, ervaart het als te speels of kinderlijk. De lagere esthetische acceptatie bij deze groep kan ertoe leiden dat men het minder snel in huis plaatst.
 
 ### Conclusie:
 De bloem is het meest geschikte prototype om ventilatiegedrag op een subtiele, intuïtieve en esthetisch aanvaardbare manier te stimuleren. Wave 2 zal focussen op het verfijnen van dit concept.
