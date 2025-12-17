@@ -29,6 +29,12 @@ Aftoetsing: navigatie, duidelijkheid van informatie en schermstructuur
 
 👉 Hier kan je foto’s van de drie prototypes toevoegen.
 ## Prototype 1: Bloem
+<p align="left">
+  <img src="../img/OXYBLOOM%20(1).jpg" width="32%">
+  <img src="../img/OXYBLOOM%20(2).jpg" width="32%">
+  <img src="../img/OXYBLOOM%20(3).jpg" width="32%">
+</p>
+
 ## Prototype 2: Parkiet
 <p align="left">
   <img src="../img/IMG_1298.jpeg" width="32%">
