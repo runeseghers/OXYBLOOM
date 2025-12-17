@@ -38,4 +38,3 @@ Definieer de belangrijkste designbeslissingen
 
 ### Enquête
 
-De enquête was anoniem en leverde een representatieve spreiding van woonsituaties op.
