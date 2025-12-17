@@ -1,9 +1,21 @@
-## Bill of materials
-- Welk materiaal heb je nodig voor de laatste versie van je prototype?
-- Maak voor componenten een overzicht met links naar aankooppagina en pricing
-- Wat hebben anderen nodig om dit te maken (zie vb. instructables)?
-Pot: 
-Blaadjes:
+
+Pot: PLA
+Blaadjes: PLA met epoxy
 Elektronica:
-Stengel:
+- LED's
+- Vochtsensor
+- CO2-sensor
+- Temperatuursensor
+- Arduino
+- Cervo-motor
+- Display (Curved)
+- Drukknoppen
+- Draaiknoppen
+- Oplaadbare batterij
+- Zonnepanelen
+- RGB lamp
+Stengel: PLA
+Overig:
+- Draadjes
+- Rubberen voetjes
 
