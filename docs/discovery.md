@@ -38,9 +38,6 @@ Definieer de belangrijkste designbeslissingen
 
 ### Enquête
 De enquëte is gelanceerd om een duidelijk beeld te krijgen van hoe mensen omgaan met ventilatie en energieverbruik. De vragen bespraken vooral hoe mensen staan tenopzichte van het ventileren en of zij de link tussen energie en ventileren konden leggen.
-Ik heb deze enquête gelanceerd om een duidelijk beeld te krijgen van hoe mensen omgaan met ventilatie en energieverbruik in huis. De resultaten zijn veelzeggend: 76,9% van de deelnemers maakt zich zorgen over de hoogte van de energierekening. Toch blijkt dat bijna de helft – 48,1% – niet wist dat kort en krachtig luchten energiezuiniger is dan constant ventileren of helemaal niet luchten.
-Uit een andere grafiek blijkt dat 36,5% van de respondenten kampt met vochtproblemen, zoals schimmel of beslagen ramen. Dit bevestigt dat er een duidelijke kloof is tussen kennis en gedrag. Maar er is ook goed nieuws: maar liefst 80% staat open voor een eenvoudige tool die aangeeft wanneer het ideale moment is om te luchten.
-Met deze inzichten kunnen we een slimme, toegankelijke oplossing ontwikkelen die niet alleen het binnenklimaat verbetert, maar ook zorgt voor een lagere energierekening.
 
 ## Resultaten
 ### Enquête
