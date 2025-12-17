@@ -1,7 +1,10 @@
+## Bill Of Materials
 
-Pot: PLA
-Blaadjes: PLA met epoxy
-Elektronica:
+### Pot: PLA
+
+### Blaadjes: PLA met epoxy
+
+### Elektronica:
 - LED's
 - Vochtsensor
 - CO2-sensor
@@ -13,9 +16,10 @@ Elektronica:
 - Draaiknoppen
 - Oplaadbare batterij
 - Zonnepanelen
-- RGB lamp
-Stengel: PLA
-Overig:
+- RGB lamp 
+### Stengel: PLA
+
+### Overig:
 - Draadjes
 - Rubberen voetjes
 
