@@ -17,15 +17,15 @@ Uit het storyboard werden de onderzoeksvragen opgesteld:
 ## Materiaal & Methoden
 Prototypes (karton & low-fidelity)
 
-Prototype 1 – Bloem (mechanische beweging)
+Prototype 1 
 Een bloemvormig kartonnen prototype dat open- en dichtgaat via een touwmechanisme. De beweging symboliseert de luchtkwaliteit.
 Aftoetsing: intuïtieve betekenis van organische beweging
 
-Prototype 2 – Parkiet (symbolische houding)
+Prototype 2 
 Een parkiet op een stokje die rechtop staat bij goede lucht en naar beneden hangt bij slechte luchtkwaliteit.
 Aftoetsing: kracht van symboliek (gezonde vs. zieke vogel)
 
-Prototype 3 – Tablet (digitale interface)
+Prototype 3
 Een tablet met interfaces uitgewerkt in Figma Make.
 Aftoetsing: navigatie, duidelijkheid van informatie en schermstructuur
 
