@@ -46,5 +46,13 @@ Met deze inzichten kunnen we een slimme, toegankelijke oplossing ontwikkelen die
 ### Enquête
 Uit de enquête kwamen enkele opvallende resultaten, de drie belangrijkste worden hieronder kort besproken.
 #### 1. Welke problemen ondervinden mensen in hun huis?
+
+<p align="left">
+  <img src="../img/Problemen.jpg" width="100%">
+</p>
+
 Opvallend is dat 36,5% van de respondenten aangeeft last te hebben van minstens één vochtprobleem. Het meest voorkomende probleem zijn beslagen ramen, dat door 25% van de deelnemers wordt ervaren. Schimmel komt voor bij 13,5% van de respondenten, wat een serieus gezondheidsrisico vormt. Daarentegen wordt de muffe geur nauwelijks gerapporteerd, slechts door 2,9% van de ondervraagden.
+
+#### 2. Zijn mensen op de hoogte van het feit dat een vochtig huis meer energie kost om te verwarmen?
+#### 3. Zouden mensen een eenvoudig apparaatje kopen om hun te helpen?
 
