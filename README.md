@@ -19,9 +19,12 @@ Op deze manier helpt onze oplossing niet alleen het energieverbruik te verminder
 </p>
 
 ## Introductie
-Max 300 woorden.
-Kader je project. Introduceer het probleem en jouw doelstellingen (inclusief boundary conditions).
-Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/category/apa-stijl/)). Zoals bijvoorbeeld (Thomas & Ritter, 2022) [^1] .
+Veel mensen ventileren hun huis niet correct of doen dit te weinig, vaak uit onwetendheid. Dit kan leiden tot een slechtere luchtkwaliteit, vochtproblemen en onnodig energieverbruik, vooral in goed geïsoleerde woningen. Uit een enquête onder ongeveer 100 respondenten bleek dat 50% van de deelnemers zich niet bewust is van het verband tussen duurzaamheid en correcte ventilatie. Dit laat zien dat er een duidelijke kennis- en gedragskloof bestaat: veel bewoners weten niet wanneer en hoe ze hun woning optimaal kunnen ventileren.
+
+Het doel van dit project is een product te ontwerpen dat bewoners actief ondersteunt bij ventileren. Het apparaat meet continu het binnenklimaat, zoals temperatuur, luchtvochtigheid en CO₂-niveau, en combineert deze gegevens met weersinformatie van buiten. Op basis hiervan geeft het product signalen wanneer de luchtkwaliteit binnen niet goed is en het dus het beste moment is om ramen of ventilatiesystemen te openen. Gebruikers kunnen het systeem bovendien personaliseren: ze kunnen bijvoorbeeld kleuraanpassingen waardoor het product niet alleen functioneel, maar ook visueel aantrekkelijk wordt.
+
+Het product werkt energiebesparend en draagt bij aan een gezonder binnenklimaat. Door efficiënter te ventileren, hoeft minder energie te worden gebruikt om de woning te verwarmen of te koelen. Bovendien helpt het vochtproblemen en schimmelvorming te voorkomen, waardoor de luchtkwaliteit verbetert en de woning comfortabeler en gezonder wordt.
+
 
 ## Inhoudstafel
 
