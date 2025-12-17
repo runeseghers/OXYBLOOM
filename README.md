@@ -40,24 +40,24 @@ Licht toe op welke manier je AI gebruikte in dit project.
 
 ## Bijlagen
 ### Discovery
-* Literatuuronderzoek (N=x)
+* Literatuuronderzoek (N=11)
   * [Rapport](https://docs.google.com/document/d/1AfcCo7FvvEoZ-1zk95RXVjzMou38a-mL8L6_zgns-Gg/edit?tab=t.0)
-* Interviews (N=x)
+* Interviews (N=3)
   * [Protocol](https://docs.google.com/document/d/12qbczfWnEImfsNoVpZ4aLVHFY0JWGxJDZ43AeHY9-mw/edit?tab=t.0#heading=h.bomqbvbcsevu)
   * [Rapport](https://docs.google.com/document/d/1SwhVlLS8_lIYlqKu6CdZsSIWJLKw36k-8GklZlpGox8/edit?usp=sharing)
-* Benchmarking (N=x)
+* Benchmarking (N=10)
   * [Rapport](https://docs.google.com/document/d/12xce8BJE52bgFbQwACKA-BeoK-U8daDStCAenrfK3ME/edit?tab=t.0).
-* Enquête (N=x)
-  * [Protocol]()
+* Enquête (N=104)
+  * [Enquête](https://docs.google.com/forms/d/e/1FAIpQLSccWiVOp48grHZ2cQGmuoxTeAmDsEP0Rcj8K9Pg0Ig58J9OUA/viewform)
   * [Rapport](https://docs.google.com/document/d/1lkF2mxv8E-GvEGbEEImv3dyBfMGQf3W1utyAzGHfSRQ/edit?tab=t.0)
 
 ### Definition
 * User testing wave 1 (N=13)
   * [Protocol](https://docs.google.com/document/d/1rY86oE0Vs1P8iOJ6PyYzX7_pxgFzCAlSUU5zqiSWN3I/edit?tab=t.0)
   * [Rapport](https://docs.google.com/document/d/1wBb8zgVL7p_F-QvWJVQwW2Svkrl49Ys-igBUbI4e8e8/edit?tab=t.0)
-* User testing wave 2 (N=x)
+* User testing wave 2 (N=5)
   * [Protocol](url)
-  * [Rapport](url)
+  * [Rapport](https://docs.google.com/document/d/1fPvEVBDay3pfUAcs47p9CDcH445wIs4vGXjvJl6ddqQ/edit?tab=t.0#heading=h.91kt9wm5brsg)
 
 ## Licentie
 > :warning: voeg jullie namen toe in de documenten hieronder en delete dan dit lijntje   
