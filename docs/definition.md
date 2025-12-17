@@ -7,9 +7,8 @@ In deze fase wilden we onderzoeken welk fysiek of digitaal concept het meest int
 <p align="left">
   <img src="../img/storyboard.jpg" width="50%">
 </p>
+Uit het storyboard werden de onderzoeksvragen opgesteld:
 
-
-Onderzoeksvragen:
 - Welke vorm van visuele feedback wordt het snelst begrepen?
 - Welk prototype lokt de grootste bereidheid tot actie uit?
 - Welk concept is esthetisch aanvaardbaar om in een woning te plaatsen?
@@ -52,10 +51,7 @@ Aftoetsing: navigatie, duidelijkheid van informatie en schermstructuur
 
 ## Testmethode
 Steekproef: 11 volwassenen + 2 kinderen
-
-Procedure:
-Uitleg dat de prototypes luchtkwaliteit visualiseren
-
+De respondenten maakten achtereenvolgens kennis met één willekeurig prototype. Na elk prototype kregen ze een lijst met vragen en gaven ze scores. Dit proces werd herhaald voor de overige prototypes.
 Beoordeling van:
 - Duidelijkheid van het signaal
 - Bereidheid om actie te ondernemen
