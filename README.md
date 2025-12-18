@@ -72,4 +72,25 @@ This repository contains both software and design materials created as part of a
 You are free to reuse and build upon this work, both commercially and non-commercially, as long as proper attribution is given to the original authors.
 
 ## Bronnen
- [^1]: Thomas, T., & Ritter, A. (2022). Wandering & sundowning in dementia. _Practical Neurology, 21_(3), 36–44.
+### Benchmarking:
+Airthings. (2025). *Wave Plus radon & air quality monitor*. Geraadpleegd op 25 oktober 2025, van https://www.airthings.com/wave-plus
+ 
+Awair. (2025). *Awair Glow air quality monitor*. Geraadpleegd op 25 oktober 2025, van https://www.getawair.com/glow
+ 
+Blueair. (2025). *Blue Pure air purifier series*. Geraadpleegd op 25 oktober 2025, van https://www.blueair.com/nl
+ 
+Eve Systems. (2025). *Eve Room indoor air quality monitor*. Geraadpleegd op 25 oktober 2025, van https://www.evehome.com/nl/eve-room
+ 
+Foobot. (2025). *Foobot air quality monitor*. Geraadpleegd op 25 oktober 2025, van https://www.foobot.com
+ 
+IKEA. (2025). *VINDSTYRKA air quality sensor*. Geraadpleegd op 25 oktober 2025, van https://www.ikea.com/nl/en/p/vindstyrka-air-quality-sensor-30515989/
+ 
+Kaiterra. (2025). *Laser Egg air quality monitor*. Geraadpleegd op 25 oktober 2025, van https://www.kaiterra.com/laseregg
+ 
+Netatmo. (2025). *Healthy Home Coach indoor air quality monitor*. Geraadpleegd op 25 oktober 2025, van https://www.netatmo.com/nl-nl/weather/healthcoach
+ 
+Tado°. (2025). *Smart thermostat and room sensors*. Geraadpleegd op 25 oktober 2025, van https://www.tado.com/nl-nl
+ 
+uHoo. (2025). *uHoo smart air monitor*. Geraadpleegd op 25 oktober 2025, van https://uhooair.com/nl/
+
+
