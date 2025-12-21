@@ -29,7 +29,7 @@ De literatuurstudie werd uitgevoerd met Google Scholar en Consensus met de zoekt
 - “fuel poverty behavior”
 
 ### Interviews
-Voor de interviews werden 2 experten en 1 gebruiker geïnterviewd. De vragen gingen over: algemene visie op duurzaamheid, concrete ewoonten, kennis over luchtkwaliteit en duurzame producten. In het [Protocool](https://docs.google.com/document/d/12qbczfWnEImfsNoVpZ4aLVHFY0JWGxJDZ43AeHY9-mw/edit?tab=t.0) is een verder overzicht te vinden van hoe de interviews verlopen zijn.
+Voor de interviews werden 2 experten en 1 gebruiker geïnterviewd. De vragen gingen over: algemene visie op duurzaamheid, concrete ewoonten, kennis over luchtkwaliteit en duurzame producten, dit kan je zien in het [Protocol](https://docs.google.com/document/d/12qbczfWnEImfsNoVpZ4aLVHFY0JWGxJDZ43AeHY9-mw/edit?tab=t.0).
 
 ### Benchmarking
 Voor de benchmarking werden 10 bestaande producten onderzocht op het gebied van luchtkwaliteit en slimme ventilatie. Het doel van deze benchmarking was om inzicht te krijgen in huidige oplossingen en nieuwe oplossingsmogelijkheden te identificeren voor het nieuwe concept. Voor ieder product werd gekeken naar: de prijs, wat ze meten, hoe ze feedback geven, of er een energielink is en of er een unieke feature is.
