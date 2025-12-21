@@ -105,12 +105,12 @@ Na brainstorming over belongssystemen en andere manieren om gebruikers meer te k
 - Kan een oplaadfunctie geïntegreerd worden in het product om zichzelf en anderen van energie te voorzien?
 - Welk beloningssysteem kan de gebruiker meer motiveren om te verluchten?
 - Zal een bloem die meer speels is kinderen meer interesseren en motiveren, maar nog steeds rust uitstralen?
-- Wat moet er allemaal op de interface komen van de bloem en/of app.
+- Wat moet er allemaal op de interface komen van de bloem en/of app en hoe zal de gebruiker de bloem kunnen aanpassen naar persoonlijke voorkeuren.
 
 
 
 ## Oplaadfunctie
-Om de gebruiker extra te motiveren worden zonnepaneeltjes op in de bladeren verwerkt en er wordt een batterij toegevoegd. Wanneer de bloem open staat en de luchtkwaliteit is dus goed zal de bloem energie opwekken om zichzelf te voorien van stroom. Omdat er een overschot aan stroom zou kunnen zijn, kan er een oplaadfunctie toegevoegd worden. De oplaadfunctie verhoogt het gebruiksgemak, maar er bestaat een risico dat gebruikers de bloem vooral als powerbank gaan gebruiken. Hierdoor kan de focus op gezond ventilatiegedrag afnemen. Daarom is het belangrijk dat de oplaadpoort wordt gekoppeld aan luchtkwaliteit, zodat opladen een beloning is voor goed gedrag en de kernfunctie behouden blijft.
+Om de gebruiker extra te motiveren worden zonnepaneeltjes op in de bladeren verwerkt en er wordt een batterij toegevoegd. Wanneer de bloem open staat en de luchtkwaliteit is dus goed zal de bloem energie opwekken om zichzelf te voorien van stroom. Omdat er een overschot aan stroom zou kunnen zijn, kan er een oplaadfunctie toegevoegd worden. De oplaadfunctie verhoogt het gebruiksgemak, maar er bestaat een risico dat gebruikers de bloem vooral als powerbank gaan gebruiken. Hierdoor kan de focus op gezond ventilatiegedrag afnemen. Daarom is het belangrijk dat de oplaadpoort wordt gekoppeld aan luchtkwaliteit, zodat opladen een beloning is voor goed gedrag en de kernfunctie behouden blijft. De oplaad functie werd voorgesteld aan verschillende respondenten(n=6).
 
 ## Beloningssystemen
 - Wallet
@@ -125,32 +125,28 @@ Met het geld dat bespaard wordt worden er bloemetjes aangemaakt. Met deze bloeme
 
 Wanneer een volledige dag niet buiten de grenzen van goede luchtkwaliteit wordt geweken zal een streak ontstaan en zal de stengel van de bloem langzaam groeien. De groei van de stengel visualiseert voortgang en maakt de bloem levendiger. Dit geeft directe feedback op ventilatiegedrag. De groei moet duidelijk, maar subtiel zijn, zodat de bloem natuurlijk oogt en de kernfunctie niet wordt overschaduwd.
 
+- Interface
 
-## Oplossingsrichtingen
-### Oplaadfunctie koppelen aan luchtkwaliteit
-De laadpoort wordt alleen geactiveerd wanneer de luchtkwaliteit “goed” is.
-Alternatief: betere luchtkwaliteit → hogere laadsnelheid.
-Opladen wordt zo een beloning voor juist gedrag.
+Omdat de bloem niet enkel afhankelijk mag zijn van het schermpje dat wordt geïntegreerd zullen knoppen op de bloem moeten komen zoals: aan/uit knop, helderheid knop, ... . Er zal dus ook een interface moeten komen op dat schermpje en/of een app. Dus we hebben mat Figma Make een interface gamaakt.
 
-### Streak-systeem & visuele groei van de stengel
-Gebruikers bouwen streaks op door maximaal te ventileren.
-Naarmate de streak stijgt, groeit de stengel van de bloem, wat gezondheid en voortgang op een natuurlijke manier visualiseert.
+<p align="left">
+  <img src="../img/IMG_1298.jpeg" width="32%">
+</p>
+Hierin is te zien hoeveel geld je al hebt bespaardmet een grafiek, in welke status de bloem zich bevind aan de hand van je streak, hoeveel bloemetjes je al verdient hebt, welke kleuren je al beschikbaar zijn en welke je kan unlocken en een weetje in verband met i.v.m. gezondheid, luchtkwaliteit, beter isoleren, ... . 
 
-### Kleuren vrijspelen
-Standaardkleuren verlichten de bloempot.
-Bij betere luchtkwaliteit worden nieuwe kleuren vrijgespeeld voor de verlichting, wat personalisatie mogelijk maakt zonder af te leiden.
+Om de interfaces en belonigssystemen te onderzoeken werden ze voorgesteld aan verschillende respondenten(n=6).
 
-### Wallet met theoretische besparing
-De wallet toont hoeveel geld gebruikers hebben bespaard door efficiënt te ventileren.
-Besparing kan worden besteed aan nieuwe kleuren of personalisatie van het LED-scherm (bijv. “Bloem van [naam gebruiker]”).
+## Bewegende bladeren 
 
-### Bewegende bladeren
-Er is gekeken of de “ademende” bloem, met bewegende bladeren, het ontwerp speelser maakt.
-Dit werd positief ontvangen en zal worden meegenomen naar de volgende iteratie.
+Door de bladeren van de bloem te laten bewegen alsof de bloem ademd kan het als speelser ervaren worden maar het moet rust blijven uitstralen. Om dit te testen werd simpelweg naast ons bestaand prototype een Solar Flip Flap Flower(LINK!!!) geplaatst als visualisatie van wat ons prototype zou kunnen doen. En dit werd bevraagd aan de gebruikers.
+
+<p align="left">
+  <img src="../img/IMG_1298.jpeg" width="32%">
+</p>
 
 ## Resultaten
-
-Uit interviews met vijf gebruikers blijkt dat de openbare oplaadfunctie niet ideaal is. Verschillende deelnemers gaven aan dat ze na een tijdje meer geïnteresseerd raakten in opladen dan in energie besparen.
+### Oplaadfunctie 
+Uit interviews met verschillende respondenten blijkt dat de openbare oplaadfunctie niet ideaal is. Verschillende deelnemers gaven aan dat ze na een tijdje meer geïnteresseerd raakten in opladen dan in energie besparen.
 Voorbeeldquote:
 
 “Ik zou de plant denk ik meer zien als oplaadstation dan een apparaat dat de luchtkwaliteit verbetert.”
