@@ -5,7 +5,7 @@ Analyse van kartonnen prototypes
 Hoofddoel:
 In deze fase wilden we onderzoeken welk fysiek of digitaal concept het meest intuïtieve signaal geeft om gebruikers aan te zetten tot het ventileren van een binnenruimte.
 
-Bij start van wave 1 werd eerst een storyboard gemaakt.
+Bij de start van wave 1 werd eerst een storyboard gemaakt.
 <p align="left">
   <img src="../img/storyboard.jpg" width="50%">
 </p>
@@ -50,7 +50,7 @@ Aftoetsing: navigatie, duidelijkheid van informatie en schermstructuur
 
 ## Testmethode
 Steekproef: 11 volwassenen + 2 kinderen
-De respondenten maakten achtereenvolgens kennis met één willekeurig prototype. Na elk prototype kregen ze een lijst met vragen en gaven ze scores. En op het einde werd gevraagd welk protoype ze als voorkeur zouden kiezen voor in hun woning.
+De respondenten maakten achtereenvolgens kennis met één willekeurig prototype. Na elk prototype kregen ze een lijst met vragen en gaven ze scores. En op het einde werd gevraagd welk prototype ze als voorkeur zouden kiezen voor in hun woning.
 Beoordeling van:
 - Duidelijkheid van het signaal
 - Bereidheid om actie te ondernemen
@@ -76,7 +76,7 @@ De tablet scoort het laagst door visuele drukte en schermmoeheid " weer een sche
 |-----------|------------------------|
 | Bloem     | 6/13 (Alle 6 vrouwen)  |
 | Parkiet   | 4/13 (2 kinderen, 2 mannen) |
-| Tablet    | 3/13 (3 mannen, 1 vrouw) |
+| Tablet    | 4/13 (3 mannen, 1 vrouw) |
 
 
 ## Conclusies & Implicaties (belangrijkste designbeslissingen)
@@ -84,7 +84,7 @@ De tablet scoort het laagst door visuele drukte en schermmoeheid " weer een sche
 De bloem combineert esthetiek, begrijpelijkheid en acceptatie het beste, en heeft daardoor de grootste kans op langdurig gebruik in huis.
 
 ### Kindvriendelijk ontwerp
-Kinderen hebben meer moeite om de bloem te begrijpen en zijn minder bereid om iets te doen wanneer de bloem zich sluit dan bij de parkiet dus door het ontwerp speelser te maken, bijvoorbeeld met zachte, continue bewegingen zoals “ademende” bladeren, wordt het concept ook voor hen aantrekkelijker en zou dit kunnen helpen om het ontwerp meer kindvriendelijker te maken.
+Kinderen hebben meer moeite om de bloem te begrijpen en zijn minder bereid om iets te doen wanneer de bloem zich sluit dan bij de parkiet dus door het ontwerp speelser te maken, bijvoorbeeld met zachte, continue bewegingen zoals “ademende” bladeren, wordt het concept ook voor hen aantrekkelijker en zou dit kunnen helpen om het ontwerp meer kindvriendelijk te maken.
 
 ### Geen extra scherm als hoofdoplossing
 Een tablet kan informatie duidelijk overbrengen, maar staat haaks op de wens voor rust en harmonie in huis. Gebruikers vinden een extra scherm te druk, te technisch en visueel belastend, kinderen vonden het eerst leuk, maar het verveelde snel. Dit resulteert in de laagste totale bereidheid tot actie (4,5/7), ondanks dat sommige gebruikers de datavisualisatie en beloningssysteem waarderen.
@@ -100,7 +100,7 @@ In de tweede wave wordt onderzocht of het toevoegen van beweging aan de bladeren
 
 # Wave 2 – Analyse openbare oplaadfunctie, beloningssysteem en bewegende bladeren
 ## Probleemstelling
-Na brainstorming over belongssystemen en andere manieren om gebruikers meer te kunnen motiveren hebben we volgende onderzoeksvragen kunnen opstellen:
+Na brainstorming over beloningssystemen en andere manieren om gebruikers meer te kunnen motiveren hebben we volgende onderzoeksvragen kunnen opstellen:
 
 - Kan een oplaadfunctie geïntegreerd worden in het product om zichzelf en anderen van energie te voorzien?
 - Welk beloningssysteem kan de gebruiker meer motiveren om te verluchten?
@@ -110,7 +110,7 @@ Na brainstorming over belongssystemen en andere manieren om gebruikers meer te k
 
 
 ## Oplaadfunctie
-Om de gebruiker extra te motiveren worden zonnepaneeltjes op in de bladeren verwerkt en er wordt een batterij toegevoegd. Wanneer de bloem open staat en de luchtkwaliteit is dus goed zal de bloem energie opwekken om zichzelf te voorien van stroom. Omdat er een overschot aan stroom zou kunnen zijn, kan er een oplaadfunctie toegevoegd worden. De oplaadfunctie verhoogt het gebruiksgemak, maar er bestaat een risico dat gebruikers de bloem vooral als powerbank gaan gebruiken. Hierdoor kan de focus op gezond ventilatiegedrag afnemen. Daarom is het belangrijk dat de oplaadpoort wordt gekoppeld aan luchtkwaliteit, zodat opladen een beloning is voor goed gedrag en de kernfunctie behouden blijft. De oplaad functie werd voorgesteld aan verschillende respondenten(n=6).
+Om de gebruiker extra te motiveren worden zonnepaneeltjes op in de bladeren verwerkt en er wordt een batterij toegevoegd. Wanneer de bloem open staat en de luchtkwaliteit is dus goed zal de bloem energie opwekken om zichzelf te voorzien van stroom. Omdat er een overschot aan stroom zou kunnen zijn, kan er een oplaadfunctie toegevoegd worden. De oplaadfunctie verhoogt het gebruiksgemak, maar er bestaat een risico dat gebruikers de bloem vooral als powerbank gaan gebruiken. Hierdoor kan de focus op gezond ventilatiegedrag afnemen. Daarom is het belangrijk dat de oplaadpoort wordt gekoppeld aan luchtkwaliteit, zodat opladen een beloning is voor goed gedrag en de kernfunctie behouden blijft. De oplaad functie werd voorgesteld aan verschillende respondenten(n=6).
 
 ## Beloningssystemen
 - Wallet
@@ -134,13 +134,13 @@ Omdat de bloem niet enkel afhankelijk mag zijn van het schermpje dat wordt geïn
   <img src="../img/Grafiek interface.png" width="32%"> 
   <img src="../img/kleuren pot interface.png" width="32%">
 </p>
-Hierin is te zien hoeveel geld je al hebt bespaardmet een grafiek, in welke status de bloem zich bevind aan de hand van je streak, hoeveel bloemetjes je al verdient hebt, welke kleuren je al beschikbaar zijn en welke je kan unlocken en een weetje in verband met i.v.m. gezondheid, luchtkwaliteit, beter isoleren, ... . 
+Hierin is te zien hoeveel geld je al hebt bespaard met een grafiek, in welke status de bloem zich bevind aan de hand van je streak, hoeveel bloemetjes je al verdient hebt, welke kleuren je al beschikbaar zijn en welke je kan unlocken en een weetje in verband met i.v.m. gezondheid, luchtkwaliteit, beter isoleren, ... . 
 Deze interface is enkel te zien op het schermpje van de bloem.
-Om de interfaces en belonigssystemen te onderzoeken werden ze voorgesteld aan verschillende respondenten(n=6).
+Om de interfaces en beloningssystemen te onderzoeken werden ze voorgesteld aan verschillende respondenten(n=6).
 
 ## Bewegende bladeren 
 
-Door de bladeren van de bloem te laten bewegen alsof de bloem ademd kan het als speelser ervaren worden maar het moet rust blijven uitstralen. Om dit te testen werd simpelweg naast ons bestaand prototype een Solar Flip Flap Flower(LINK!!!) geplaatst als visualisatie van wat ons prototype zou kunnen doen. En dit werd bevraagd aan de gebruikers.
+Door de bladeren van de bloem te laten bewegen alsof de bloem ademt kan het als speelser ervaren worden maar het moet rust blijven uitstralen. Om dit te testen werd simpelweg naast ons bestaand prototype een Solar Flip Flap Flower geplaatst als visualisatie van wat ons prototype zou kunnen doen. En dit werd bevraagd aan de gebruikers.
 
 <p align="left">
   <img src="../img/solar flower.png" width="32%">
@@ -150,7 +150,7 @@ Door de bladeren van de bloem te laten bewegen alsof de bloem ademd kan het als 
 
 ### Oplaadfunctie 
 
-Uit interviews met verschillende respondenten blijkt dat een zelf van stroomvoorzienende bloem wel een goed idee bleek te zijn. Dat bleek uit 1 van de antwoorden "Ja, ik zou het kopen om energie te besparen, het zou maar dom zijn moest het energie kosten om het te gebruiken.". Ook vond iemand het estetischer als er geen kabel naast hing. Bij de oplaad poort kwamen er twijfels: "Ik zou het eens gebruiken om te testen maar of ik het regelmatig zou gebruiken, ik denk het niet." en "Ik zou niet wachten om mijn gsm op te laden wanneer er genoeg energie is opgewekt, dan steek ik het maar in de prise.".
+Uit interviews met verschillende respondenten blijkt dat een zelf van stroomvoorzienende bloem wel een goed idee bleek te zijn. Dat bleek uit 1 van de antwoorden "Ja, ik zou het kopen om energie te besparen, het zou maar dom zijn moest het energie kosten om het te gebruiken.". Ook vond iemand het esthetischer als er geen kabel naast hing. Bij de oplaad poort kwamen er twijfels: "Ik zou het eens gebruiken om te testen maar of ik het regelmatig zou gebruiken, ik denk het niet." en "Ik zou niet wachten om mijn gsm op te laden wanneer er genoeg energie is opgewekt, dan steek ik het maar in de pries.".
 
 ### Beloningssystemen
 
@@ -160,7 +160,7 @@ Vrijspelen van kleuren: creëert motivatie en personalisatie.
 Wallet: biedt inzicht in theoretische besparingen en versterkt motivatie..
 
 ### Interface
-De meeste respondent vonden het een duidelijke interface en vonden de busturing op de bloem en niet op de interface goed alhoewel er iets naar bovenkwam namelijk bij 2 respondenten werd een ongemak vast gesteld. Namelijk als ze s'avonds in de zetel zaten en zo vonden het licht van de bloem te fel dan konden ze dit niet vanuit de zetel aanpassen.
+De meeste respondenten vonden het een duidelijke interface en vonden de besturing op de bloem en niet op de interface goed alhoewel er iets naar bovenkwam namelijk bij 2 respondenten werd een ongemak vast gesteld. Namelijk als ze s'avonds in de zetel zaten en zo vonden het licht van de bloem te fel dan konden ze dit niet vanuit de zetel aanpassen.
 
 ### Bewegende bladeren 
 De meerderheid van de respondenten zei dat ze de bewegende bladeren wel een leuke feature vonden. Het brengt de bloem meer tot leven en het blijft rust uitstralen.
