@@ -19,14 +19,11 @@ Uit het storyboard werden de onderzoeksvragen opgesteld:
 ## Materiaal & Methoden
 Prototypes (karton & low-fidelity)
 
-Prototype 1, een bloemvormig kartonnen prototype dat open- en dichtgaat via een touwmechanisme. De beweging symboliseert de luchtkwaliteit.
-Aftoetsing: intuïtieve betekenis van organische beweging
+1 een bloemvormig mechanisch prototype dat opent en sluit als metafoor voor luchtkwaliteit
 
-Prototype 2, een parkiet op een stokje die rechtop staat bij goede lucht en naar beneden hangt bij slechte luchtkwaliteit.
-Aftoetsing: kracht van symboliek (gezonde vs. zieke vogel)
+2 een parkiet die houding verandert bij slechte lucht
 
-Prototype 3, een tablet met interfaces uitgewerkt in Figma Make.
-Aftoetsing: navigatie, duidelijkheid van informatie en schermstructuur
+3 een digitale tabletinterface
 
 
 ## Prototype 1: Bloem
@@ -49,13 +46,10 @@ Aftoetsing: navigatie, duidelijkheid van informatie en schermstructuur
 </p>
 
 ## Testmethode
-Steekproef: 11 volwassenen + 2 kinderen
-De respondenten maakten achtereenvolgens kennis met één willekeurig prototype. Na elk prototype kregen ze een lijst met vragen en gaven ze scores. En op het einde werd gevraagd welk prototype ze als voorkeur zouden kiezen voor in hun woning.
-Beoordeling van:
-- Duidelijkheid van het signaal
-- Bereidheid om actie te ondernemen
-Score op schaal van 1–7
-- Rangschikking van voorkeur voor gebruik in eigen woning
+
+13 respondenten (11 volwassenen, 2 kinderen) evalueerden alle protoypes willekeurig om de beurt. 
+Per prototype werden scores (1–7) gegeven voor signaalduidelijkheid en bereidheid tot actie, 
+aangevuld met een voorkeur voor gebruik in de woning.
 
 ## Resultaten: Duidelijkheid & bereidheid tot actie
 
@@ -66,9 +60,7 @@ Score op schaal van 1–7
 | Kinderen(2) | 2.5 / 4.7 | 5.0 / 7.0 | 3.8 / 3.5 |
 | Totaal(13) | 5.4 / 6 | 5.7 / 5.2 | 4.4 / 4.5 |
 
-De bloem scoort het hoogst op bereidheid tot actie (gem. 6/7).
-De parkiet wordt vooral door mannen en kinderen als zeer duidelijk ervaren.
-De tablet scoort het laagst door visuele drukte en schermmoeheid " weer een scherm erbij :(".
+De bloem scoort het hoogst op bereidheid tot actie (gem. 6/7) en wordt vooral door vrouwen als voorkeursoplossing gekozen. De parkiet wordt door mannen en kinderen als zeer duidelijk en activerend ervaren, maar scoort lager op esthetische acceptatie. De tablet scoort het laagst op zowel duidelijkheid als bereidheid tot actie, voornamelijk door visuele drukte en schermmoeheid, ondanks de waardering voor de datavisualisatie en het beloningssysteem. Dit werd door respondenten samengevat met opmerkingen als “weer een scherm erbij”.
 
 ## Resultaten: Voorkeur voor gebruik in de woning
 
@@ -81,22 +73,14 @@ De tablet scoort het laagst door visuele drukte en schermmoeheid " weer een sche
 
 ## Conclusies & Implicaties (belangrijkste designbeslissingen)
 
-De bloem combineert esthetiek, begrijpelijkheid en acceptatie het beste, en heeft daardoor de grootste kans op langdurig gebruik in huis.
+De bloem combineert esthetiek, begrijpelijkheid en acceptatie het meest succesvol en heeft daardoor de grootste kans op langdurig gebruik in de woning. Voor kinderen blijkt de parkiet activerender, wat wijst op de noodzaak om het bloemconcept speelser te maken, bijvoorbeeld via subtiele, continue bewegingen zoals “ademende” bladeren.
 
-### Kindvriendelijk ontwerp
-Kinderen hebben meer moeite om de bloem te begrijpen en zijn minder bereid om iets te doen wanneer de bloem zich sluit dan bij de parkiet dus door het ontwerp speelser te maken, bijvoorbeeld met zachte, continue bewegingen zoals “ademende” bladeren, wordt het concept ook voor hen aantrekkelijker en zou dit kunnen helpen om het ontwerp meer kindvriendelijk te maken.
+Een scherm wordt niet als hoofdoplossing gezien: hoewel het extra informatie kan bieden en de datavisualisatie en beloningsmechanismen positief worden beoordeeld, ervaren gebruikers het als te druk en storend in de woonomgeving. De parkiet wekt empathie en motivatie op, maar wordt door een deel van de gebruikers als te speels of kinderlijk ervaren, wat de plaatsbaarheid in huis beperkt.
 
-### Geen extra scherm als hoofdoplossing
-Een tablet kan informatie duidelijk overbrengen, maar staat haaks op de wens voor rust en harmonie in huis. Gebruikers vinden een extra scherm te druk, te technisch en visueel belastend, kinderen vonden het eerst leuk, maar het verveelde snel. Dit resulteert in de laagste totale bereidheid tot actie (4,5/7), ondanks dat sommige gebruikers de datavisualisatie en beloningssysteem waarderen.
-
-
-De parkiet scoort bij mannen en kinderen juist hoog op bereidheid tot actie (6,4 en 7,0) en dat is omdat het diertje speels is en empathie opwekt, maar de meerderheid, vooral vrouwen, ervaart het als te speels of kinderlijk. De lagere esthetische acceptatie bij deze groep kan ertoe leiden dat men het minder snel in huis plaatst.
-
-### Conclusie:
-De bloem is het meest geschikte prototype om ventilatiegedrag op een subtiele, intuïtieve en esthetisch aanvaardbare manier te stimuleren. Wave 2 zal focussen op het verfijnen van dit concept.
 
 ### Takeaways voor de tweede wave
-In de tweede wave wordt onderzocht of het toevoegen van beweging aan de bladeren van de bloem het ontwerp speelser maakt en daardoor de acceptatie bij kinderen vergroot zonder dat de rust van de bloem verstoord wordt. Door subtiele, continue beweging te integreren, wordt het doel beoogd om de bloem levendiger te maken, zodat de gebruikerservaring natuurlijker en intuïtiever aanvoelt. Ook zou een scherm bij de bloem helpen om data weer te geven en een beloningsysteem te integreren, maar dit moet volledig apart kunnen functioneren zodat het geen must is om het te gebruiken. 
+
+Wave 2 focust op het verfijnen van het bloemconcept door subtiele bladbewegingen toe te voegen om de betrokkenheid van kinderen te vergroten, zonder dat de rust van de bloem verstoord wordt. Daarnaast kan een scherm bij de bloem ondersteuning bieden voor datavisualisatie en de integratie van een beloningssysteem, mits dit volledig los kan functioneren en geen vereiste is voor het gebruik. Digitale feedback blijft zo een optionele, aanvullende laag, zonder afbreuk te doen aan de esthetiek en de kernervaring.
 
 # Wave 2 – Analyse openbare oplaadfunctie, beloningssysteem en bewegende bladeren
 ## Probleemstelling
