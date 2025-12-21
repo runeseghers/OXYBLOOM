@@ -90,22 +90,14 @@ Desondanks kent het systeem tekortkomingen op het gebied van interface en belevi
 
 De hoge prijs (>€200) en complexe installatie maken het minder bereikbaar. De sterke afhankelijkheid van een smartphone en het gebruik van technische implicaties zijn barrières voor ouderen en minder technisch aangelegde mensen. Data zoals "3,7% besparing" is te abstract; er ontbreekt directe financiële feedback in euro’s. Het apparaat mist een emotionele connectie en fungeert puur als technisch hulpmiddel
   
-#### Design Implicaties voor ons product
-Op basis van de benchmarking-analyse zijn de volgende strategische ontwerpkeuzes geformuleerd voor ons product. Deze implicaties vertalen de sterktes en zwaktes van bestaande producten naar een nieuw, toegankelijk concept.
-
-Strategische Ontwerpkeuzes: Ons Product
+Mee te nemen ontwerpkeuzes
 
 Voor het ontwerp van ons product nemen we de beste elementen uit de huidige markt over. De betaalbaarheid en eenvoud van de IKEA Vindstyrka (onder €100) vormen de basis voor toegankelijkheid. Daarnaast implementeren we de intuïtieve kleurfeedback van systemen zoals Awair en Blueair, gecombineerd met de concrete energie-focus van Tado°, waarbij de nadruk ligt op de relatie tussen vochtigheid en besparing.
 
 Vernieuwing en Toevoegingen
 
-Om de tekortkomingen van de huidige markt p te lossen, voegen we de volgende unieke aspecten toe:
+Om de tekortkomingen van de huidige markt op te lossen, voegen we de volgende unieke aspecten toe:
 In plaats van een scherm krijgt ons product bewegende elementen die de luchtkwaliteit en energie-status tastbaar maken. Ook stimuleren we gedrag door buurt-doelen en collectieve impact zichtbaar te maken. Het product werkt volledig zelfstandig zonder verplichte app-afhankelijkheid, wat de drempel voor ouderen en minder technisch aangelegden verlaagt. De gebruiker leert op een begrijpelijke manier hoe vochtbeheersing direct leidt tot lagere stookkosten.
-
-Te vermijden valkuilen
-
-Om inclusief en effectief te blijven, wijkt ons product bewust af van gangbare marktstandaarden:
-De prijs blijft strikt onder de €150 om energiearmoede tegen te gaan. We Ook vermijden we complexe grafieken of abonnementen. In plaats van passieve data biedt ons product een duidelijke aanzetting tot actie.
 
 Verdere informatie over de benchmarking is te vinden in het [rapport](https://docs.google.com/document/d/12xce8BJE52bgFbQwACKA-BeoK-U8daDStCAenrfK3ME/edit?tab=t.0).
 
@@ -117,7 +109,7 @@ Uit de enquête kwamen enkele opvallende resultaten, de drie belangrijkste worde
   <img src="../img/survey 2 jpg.jpg" width="100%">
 </p>
 
-Opvallend is dat 36,5% van de respondenten aangeeft last te hebben van minstens één vochtprobleem. Het meest voorkomende probleem zijn beslagen ramen, dat door 25% van de deelnemers wordt ervaren. Schimmel komt voor bij 13,5% van de respondenten, wat een serieus gezondheidsrisico vormt. Daarentegen wordt de muffe geur nauwelijks gerapporteerd, slechts door 2,9% van de ondervraagden.
+Opvallend is dat 36,5% van de respondenten aangeeft last te hebben van minstens één vochtprobleem. Het meest voorkomende probleem zijn beslagen ramen, dat door 25% van de deelnemers wordt ervaren. Schimmel komt voor bij 13,5% van de respondenten, wat een serieus gezondheidsrisico vormt.
 
 #### 2. Zijn mensen op de hoogte van het feit dat een vochtig huis meer energie kost om te verwarmen?
 
@@ -138,5 +130,5 @@ Een ruime meerderheid van 79,8% staat open voor de oplossing, en meer dan een kw
 Verder zijn er nog andere vragen gesteld deze resultaten zijn terug te vinden in het [rapport](https://docs.google.com/document/d/1lkF2mxv8E-GvEGbEEImv3dyBfMGQf3W1utyAzGHfSRQ/edit?tab=t.0).
 
 
-##Conclusies & implicaties
+## Conclusies & implicaties
 Definieer de belangrijkste designbeslissingen
