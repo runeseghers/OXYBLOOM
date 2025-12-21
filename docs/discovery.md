@@ -131,4 +131,21 @@ Verder zijn er nog andere vragen gesteld deze resultaten zijn terug te vinden in
 
 
 ## Conclusies & implicaties
-Definieer de belangrijkste designbeslissingen
+1. Meten van vocht en CO₂, deze parameters zijn bepalend voor luchtkwaliteit, gezondheid en energieverbruik.
+
+2. Sturing van gedrag in plaats van automatisering, het product zet aan tot bewust ventileren zonder complexe of dure systemen.
+
+3. Betaalbaarheid als randvoorwaarde, een richtprijs onder €100 waarborgt toegankelijkheid voor een brede doelgroep.
+
+4. Stand-alone werking zonder app of scherm, het product is direct begrijpelijk en bruikbaar voor niet-technische gebruikers.
+
+5. Visuele en fysieke feedback, kleur en beweging maken onzichtbare luchtkwaliteit intuïtief leesbaar.
+
+6. Vormgeving als esthetisch object, een sierobject verhoogt acceptatie en langdurig gebruik in de leefruimte.
+
+7. Energiecommunicatie via comfort en gezondheid, besparing wordt gekoppeld aan welzijn in plaats van abstracte cijfers.
+
+8. Begrijpelijke energieterugkoppeling, de relatie tussen vochtbeheersing en stookkosten wordt helder gecommuniceerd.
+
+9. Ontwerp voor kwetsbare gebruikers, eenvoud en inclusiviteit staan centraal in bediening en interpretatie.
+
