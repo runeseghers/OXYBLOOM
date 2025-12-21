@@ -19,11 +19,11 @@ Uit het storyboard werden de onderzoeksvragen opgesteld:
 ## Materiaal & Methoden
 Prototypes (karton & low-fidelity)
 
-1 een bloemvormig mechanisch prototype dat opent en sluit als metafoor voor luchtkwaliteit
+1. Een bloemvormig mechanisch prototype dat opent en sluit als metafoor voor luchtkwaliteit
 
-2 een parkiet die houding verandert bij slechte lucht
+2. Een parkiet die houding verandert bij slechte lucht
 
-3 een digitale tabletinterface
+3. Een digitale tabletinterface
 
 
 ## Prototype 1: Bloem
@@ -47,7 +47,7 @@ Prototypes (karton & low-fidelity)
 
 ## Testmethode
 
-13 respondenten (11 volwassenen, 2 kinderen) evalueerden alle protoypes willekeurig om de beurt. 
+13 respondenten (11 volwassenen, 2 kinderen) evalueerden alle prototypes willekeurig om de beurt. 
 Per prototype werden scores (1–7) gegeven voor signaalduidelijkheid en bereidheid tot actie, 
 aangevuld met een voorkeur voor gebruik in de woning.
 
@@ -111,14 +111,14 @@ Wanneer een volledige dag niet buiten de grenzen van goede luchtkwaliteit wordt 
 
 - Interface
 
-Omdat de bloem niet enkel afhankelijk mag zijn van het schermpje dat wordt geïntegreerd zullen knoppen op de bloem moeten komen zoals: aan/uit knop, helderheid knop, ... . Er zal dus ook een interface moeten komen op dat schermpje en/of een app. Dus we hebben mat Figma Make een interface gamaakt.
+Omdat de bloem niet enkel afhankelijk mag zijn van het schermpje dat wordt geïntegreerd zullen knoppen op de bloem moeten komen zoals: aan/uit knop, helderheid knop, ... . Er zal dus ook een interface moeten komen op dat schermpje en/of een app. Dus we hebben met Figma Make een interface gemaakt.
 
 <p align="left">
   <img src="../img/hoofd Interface.png" width="32%">
   <img src="../img/Grafiek interface.png" width="32%"> 
   <img src="../img/kleuren pot interface.png" width="32%">
 </p>
-Hierin is te zien hoeveel geld je al hebt bespaard met een grafiek, in welke status de bloem zich bevind aan de hand van je streak, hoeveel bloemetjes je al verdient hebt, welke kleuren je al beschikbaar zijn en welke je kan unlocken en een weetje in verband met i.v.m. gezondheid, luchtkwaliteit, beter isoleren, ... . 
+Hierin is te zien hoeveel geld je al hebt bespaard met een grafiek, in welke status de bloem zich bevind aan de hand van je streak, hoeveel bloemetjes je al verdient hebt, welke kleuren je al beschikbaar zijn en welke je kan unlocken en een weetje i.v.m. gezondheid, luchtkwaliteit, beter isoleren, ... . 
 Deze interface is enkel te zien op het schermpje van de bloem.
 Om de interfaces en beloningssystemen te onderzoeken werden ze voorgesteld aan verschillende respondenten(n=6).
 
