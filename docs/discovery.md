@@ -139,3 +139,6 @@ Een ruime meerderheid van 79,8% staat open voor de oplossing, en meer dan een kw
 
 Verder zijn er nog andere vragen gesteld deze resultaten zijn terug te vinden in het [rapport](https://docs.google.com/document/d/1lkF2mxv8E-GvEGbEEImv3dyBfMGQf3W1utyAzGHfSRQ/edit?tab=t.0).
 
+
+##Conclusies & implicaties
+Definieer de belangrijkste designbeslissingen
