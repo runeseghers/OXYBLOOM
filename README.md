@@ -15,7 +15,7 @@ Onze oplossing is een innovatief product dat gebruikers begeleidt bij het ventil
 Op deze manier helpt onze oplossing niet alleen het energieverbruik te verminderen, maar verbetert het ook het wooncomfort en de gezondheid van de bewoners. Door bewust ventilatiegedrag te stimuleren, sluiten we de kennis- en gedragskloof en zorgen we voor een duurzamere en gezondere leefomgeving.
 
 <p align="center">
-  <img src="img/hero_example.png" width="100%">
+  <img src="img/render bloem jpeg.jpg" width="100%">
 </p>
 
 ## Introductie
