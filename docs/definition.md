@@ -98,28 +98,33 @@ De bloem is het meest geschikte prototype om ventilatiegedrag op een subtiele, i
 ### Takeaways voor de tweede wave
 In de tweede wave wordt onderzocht of het toevoegen van beweging aan de bladeren van de bloem het ontwerp speelser maakt en daardoor de acceptatie bij kinderen vergroot zonder dat de rust van de bloem verstoord wordt. Door subtiele, continue beweging te integreren, wordt het doel beoogd om de bloem levendiger te maken, zodat de gebruikerservaring natuurlijker en intuïtiever aanvoelt. Ook zou een scherm bij de bloem helpen om data weer te geven en een beloningsysteem te integreren, maar dit moet volledig apart kunnen functioneren zodat het geen must is om het te gebruiken. 
 
-# Wave 2 – Analyse openbare oplaadfunctie en beloningssysteem en bewegende bladeren
+# Wave 2 – Analyse openbare oplaadfunctie, beloningssysteem en bewegende bladeren
 ## Probleemstelling
-STORYBOARD
-Hieruit konden opnieuw een reeks onderzoeksvragen gevonden worden:
+Na brainstorming over belongssystemen en andere manieren om gebruikers meer te kunnen motiveren hebben we volgende onderzoeksvragen kunnen opstellen:
+
 - Kan een oplaadfunctie geïntegreerd worden in het product om zichzelf en anderen van energie te voorzien?
-- Kan een beloningssysteem de gebruiker meer motiveren om te verluchten?
-- Zal een bloem die meer speels is kinderen meer interesseren en motiveren en nog steeds rust uitstralen?
+- Welk beloningssysteem kan de gebruiker meer motiveren om te verluchten?
+- Zal een bloem die meer speels is kinderen meer interesseren en motiveren, maar nog steeds rust uitstralen?
+- Wat moet er allemaal op de interface komen van de bloem en/of app.
 
 
-## Risicoanalyse
 
-### Oplaadpoort
-De oplaadfunctie verhoogt het gebruiksgemak, maar er bestaat een risico dat gebruikers de bloem vooral als powerbank gaan gebruiken. Hierdoor kan de focus op gezond ventilatiegedrag afnemen. Daarom is het belangrijk dat de oplaadpoort wordt gekoppeld aan luchtkwaliteit, zodat opladen een beloning is voor goed gedrag en de kernfunctie behouden blijft.
+## Oplaadfunctie
+Om de gebruiker extra te motiveren worden zonnepaneeltjes op in de bladeren verwerkt en er wordt een batterij toegevoegd. Wanneer de bloem open staat en de luchtkwaliteit is dus goed zal de bloem energie opwekken om zichzelf te voorien van stroom. Omdat er een overschot aan stroom zou kunnen zijn, kan er een oplaadfunctie toegevoegd worden. De oplaadfunctie verhoogt het gebruiksgemak, maar er bestaat een risico dat gebruikers de bloem vooral als powerbank gaan gebruiken. Hierdoor kan de focus op gezond ventilatiegedrag afnemen. Daarom is het belangrijk dat de oplaadpoort wordt gekoppeld aan luchtkwaliteit, zodat opladen een beloning is voor goed gedrag en de kernfunctie behouden blijft.
 
-### Kleur van de bloempot
-Het vrijspelen van nieuwe kleuren maakt ventileren visueel aantrekkelijk. Te veel beschikbare kleuren kunnen echter het overzicht verminderen of de esthetiek beïnvloeden. Een gebalanceerd kleurenpalet houdt de functie motiverend en intuïtief.
+## Beloningssystemen
+- Wallet
 
-### Lengte van de stengel
-De groei van de stengel visualiseert streaks en voortgang. Dit geeft directe feedback op ventilatiegedrag. De groei moet duidelijk, maar subtiel zijn, zodat de bloem natuurlijk oogt en de kernfunctie niet wordt overschaduwd.
+De wallet toont hoeveel je bespaart aan energie in de vorm van geld. Hoewel het geld niet uitgegeven kan worden, werkt het als motiverende feedback.Het kan de gebruiker meer inzicht geven en motivatie.
 
-### Wallet
-De wallet toont theoretische besparingen door efficiënt ventileren. Hoewel het geld niet uitgegeven kan worden, werkt het als motiverende feedback. Het is belangrijk dat gebruikers begrijpen dat het gaat om inzicht en motivatie.
+- Bloemetjes
+
+Met het geld dat bespaard wordt worden er bloemetjes aangemaakt. Met deze bloemetjes kan je een nieuwe kleur unlocken en die kleur kan je inzetten als verlichting voor de bloempot. Het vrijspelen van nieuwe kleuren maakt ventileren visueel aantrekkelijk. Te veel beschikbare kleuren kunnen echter het overzicht verminderen of de esthetiek beïnvloeden. Een gebalanceerd kleurenpalet houdt de functie motiverend en intuïtief.
+
+- Streak
+
+Wanneer een volledige dag niet buiten de grenzen van goede luchtkwaliteit wordt geweken zal een streak ontstaan en zal de stengel van de bloem langzaam groeien. De groei van de stengel visualiseert voortgang en maakt de bloem levendiger. Dit geeft directe feedback op ventilatiegedrag. De groei moet duidelijk, maar subtiel zijn, zodat de bloem natuurlijk oogt en de kernfunctie niet wordt overschaduwd.
+
 
 ## Oplossingsrichtingen
 ### Oplaadfunctie koppelen aan luchtkwaliteit
