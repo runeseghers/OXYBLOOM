@@ -25,10 +25,9 @@ Definieer de belangrijkste designbeslissingen
 ## Materiaal & methoden
 
 ### Literatuuronderzoek
-
-
-
-
+De literatuurstudie werd uitgevoerd met Google Scholar en Consensus met de zoektermen:
+- “energy poverty Europe”
+- “fuel poverty behavior”
 
 ### Interviews
 Voor de interviews werden 2 type respondenten geïnterviewd: experts en gewone gebruikers. Tijdens de interviews werden vragen gesteld die beide aanspareken en ook enkele die expliciet voor de experts waren. Deze vragen tasten naar: algemene visie op duurzaamheid, concrete ewoonten, kennis over luchtkwaliteit en duurzame producten. In het [Protocool](https://docs.google.com/document/d/12qbczfWnEImfsNoVpZ4aLVHFY0JWGxJDZ43AeHY9-mw/edit?tab=t.0) is een verder overzicht te vinden van hoe de interviews verlopen zijn.
@@ -42,6 +41,15 @@ De enquëte is gelanceerd om een duidelijk beeld te krijgen van hoe mensen omgaa
 Een overzicht van de vregen is te vinden in de [enquête](https://docs.google.com/forms/d/e/1FAIpQLSccWiVOp48grHZ2cQGmuoxTeAmDsEP0Rcj8K9Pg0Ig58J9OUA/viewform?usp=header).
 
 ## Resultaten
+### Literatuuronderzoek
+Uit het literatuuronderzoek zijn enkele kernbevindingen gehaald deze worden hier kort uitgelegd. Verdere uitleg is te vinden in het [rapport](https://docs.google.com/document/d/1AfcCo7FvvEoZ-1zk95RXVjzMou38a-mL8L6_zgns-Gg/edit?tab=t.0).
+#### Kernbevindingen
+Hoge luchtvochtigheid verhoogt het energieverbruik, omdat vochtige lucht meer energie vraagt om te verwarmen. Door gerichte ventilatie kan het energieverbruik sterk dalen. In België is gecontroleerde ventilatie nog beperkt ingeburgerd, vooral bij kwetsbare huishoudens. Dit versterkt het probleem van energie-armoede.
+Energie-armoede heeft niet alleen financiële, maar ook duidelijke gezondheids- en welzijnsgevolgen, zoals luchtwegklachten en mentale stress.
+
+#### Conclusie
+Energie-armoede is een probleem waarin vocht, ventilatie en gezondheid nauw met elkaar verbonden zijn. Dit benadrukt de nood aan toegankelijke en betaalbare oplossingen.
+
 ### Interviews
 Uit de inetviews zijn enkele cruciale punten naar boven gekomen deze worden hieronder besproken.
 ##### 1. De Probleemstelling: Onzichtbaarheid
