@@ -92,8 +92,7 @@ Voor het ontwerp van ons product nemen we de beste elementen uit de huidige mark
 
 Vernieuwing en Toevoegingen
 
-Om de tekortkomingen van de huidige markt op te lossen, voegen we de volgende unieke aspecten toe:
-In plaats van een scherm krijgt ons product bewegende elementen die de luchtkwaliteit en energie-status tastbaar maken. Ook stimuleren we gedrag door buurt-doelen en collectieve impact zichtbaar te maken. Het product werkt volledig zelfstandig zonder verplichte app-afhankelijkheid, wat de drempel voor ouderen en minder technisch aangelegden verlaagt. De gebruiker leert op een begrijpelijke manier hoe vochtbeheersing direct leidt tot lagere stookkosten.
+In plaats van een scherm krijgt ons product bewegende elementen die de luchtkwaliteit visueel maakt. Het product werkt volledig zelfstandig zonder verplichte app-afhankelijkheid, wat de drempel voor ouderen en minder technisch aangelegden verlaagt. De gebruiker leert op een begrijpelijke manier hoe vochtbeheersing direct leidt tot lagere stookkosten.
 
 Verdere informatie over de benchmarking is te vinden in het [rapport](https://docs.google.com/document/d/12xce8BJE52bgFbQwACKA-BeoK-U8daDStCAenrfK3ME/edit?tab=t.0).
 
