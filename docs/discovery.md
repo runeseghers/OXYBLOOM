@@ -50,12 +50,15 @@ Energie-armoede heeft niet alleen financiële, maar ook duidelijke gezondheids- 
 Energie-armoede is een probleem waarin vocht, ventilatie en gezondheid nauw met elkaar verbonden zijn. Dit benadrukt de nood aan toegankelijke en betaalbare oplossingen.
 
 ### Interviews
-Uit de inetviews zijn enkele cruciale punten naar boven gekomen deze worden hieronder besproken.
-##### 1. De Probleemstelling: Onzichtbaarheid
+Uit de interviews zijn enkele cruciale punten naar boven gekomen deze worden hieronder besproken.
+#### 1. De Probleemstelling: Onzichtbaarheid
 Gebruikers herkennen een slechte luchtkwaliteit momenteel pas wanneer er fysieke symptomen zijn, zoals damp op de ruiten, een muffe geur of zelfs schimmelvorming. Hoewel men weet dat factoren zoals koken, wasmiddelen en het aantal aanwezige mensen de lucht beïnvloeden, ontbreekt het aan een tijdige waarschuwing.
 
 #### 2. De Oplossing: Ons Product
 Het concept van een sierobject (de bloem) wordt positief ontvangen, mits het aan specifieke voorwaarden voldoet.
+
+Als de prijs te hoog is, kiest de consument eerder voor automatische ventilatie of neemt men de gok. Duurzaamheid wordt vaak gezien als "luxe moeten afstaan". Ons product moet laten zien dat besparen juist comfort (gezonde lucht) oplevert. Ondanks het mooie uiterlijk moet de werking perfect zijn om de gebruiker te blijven boeien.
+
 
 Bestaande meetapparatuur (bijv. in rusthuizen) wordt als "niet gezellig" ervaren. Ons product moet hier het verschil maken door een mooi design te combineren met functionaliteit. De voorkeur gaat uit naar visuele signalen zoals het veranderen van kleur of het openen/sluiten van de bloemblaadjes, eventueel aangevuld met een app of subtiel geluid. Men verwacht dat het product daadwerkelijk aanzet tot duurzamer gedrag, zoals gerichter ventileren om energie te besparen in plaats van de verwarming onnodig hoog te zetten.
 
@@ -64,10 +67,6 @@ Experts en gebruikers wijzen op de volgende noodzakelijke metingen voor een effe
 
 De belangrijkste graadmeter, waarbij een streefwaarde van < 900 ppm geldt en actie nodig is boven de 1200 ppm. Cruciaal voor gezondheid en gebouwbehoud; de ideale zone ligt tussen de 40% en 60%. Aanvullende suggesties zijn sensoren voor rook, gas en het zuurstofgehalte.
 
-#### 4. Kritische Randvoorwaarden
-Uit de interviews komen drie duidelijke barrières naar voren die het succes van het ontwerp bepalen.
-
-Als de prijs te hoog is, kiest de consument eerder voor automatische ventilatie of neemt men de gok. Duurzaamheid wordt vaak gezien als "luxe moeten afstaan". Ons product moet laten zien dat besparen juist comfort (gezonde lucht) oplevert. Ondanks het mooie uiterlijk moet de werking perfect zijn om de gebruiker te blijven boeien.
 
 Verdere informatie over de interviews is te vinden in het [rapport](https://docs.google.com/document/d/1SwhVlLS8_lIYlqKu6CdZsSIWJLKw36k-8GklZlpGox8/edit?tab=t.0).
 
