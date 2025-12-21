@@ -17,7 +17,6 @@ Definieer de belangrijkste designbeslissingen
 ## Doelstellingen
 
 - Inzicht krijgen in de relatie tussen energieverbruik, ventilatiegedrag en vochtproblematiek.
-- Begrijpen hoe mensen vandaag omgaan met luchtkwaliteit en duurzaamheid in huis.
 - Achterhalen welke drempels (kennis, gedrag, prijs, complexiteit) duurzaam ventileren in de weg staan.
 - Bestaande oplossingen analyseren en gaten in de markt blootleggen.
 - Verworven informatie gaan combineren tot een eerste concept.
@@ -30,7 +29,7 @@ De literatuurstudie werd uitgevoerd met Google Scholar en Consensus met de zoekt
 - “fuel poverty behavior”
 
 ### Interviews
-Voor de interviews werden 2 experten en 1 gebruiker geïnterviewd.De experts kregen extra vragen die enkel zij konden beantwoorden met hun kennis. De vragen gingen over: algemene visie op duurzaamheid, concrete ewoonten, kennis over luchtkwaliteit en duurzame producten. In het [Protocool](https://docs.google.com/document/d/12qbczfWnEImfsNoVpZ4aLVHFY0JWGxJDZ43AeHY9-mw/edit?tab=t.0) is een verder overzicht te vinden van hoe de interviews verlopen zijn.
+Voor de interviews werden 2 experten en 1 gebruiker geïnterviewd. De vragen gingen over: algemene visie op duurzaamheid, concrete ewoonten, kennis over luchtkwaliteit en duurzame producten. In het [Protocool](https://docs.google.com/document/d/12qbczfWnEImfsNoVpZ4aLVHFY0JWGxJDZ43AeHY9-mw/edit?tab=t.0) is een verder overzicht te vinden van hoe de interviews verlopen zijn.
 
 ### Benchmarking
 Voor de benchmarking werden 10 bestaande producten onderzocht op het gebied van luchtkwaliteit en slimme ventilatie. Het doel van deze benchmarking was om inzicht te krijgen in huidige oplossingen en nieuwe oplossingsmogelijkheden te identificeren voor het nieuwe concept. Voor ieder product werd gekeken naar: de prijs, wat ze meten, hoe ze feedback geven, of er een energielink is en of er een unieke feature is.
@@ -41,10 +40,11 @@ Een overzicht van de vregen is te vinden in de [enquête](https://docs.google.co
 
 ## Resultaten
 ### Literatuuronderzoek
-Uit het literatuuronderzoek zijn enkele kernbevindingen gehaald deze worden hier kort uitgelegd. Verdere uitleg is te vinden in het [rapport](https://docs.google.com/document/d/1AfcCo7FvvEoZ-1zk95RXVjzMou38a-mL8L6_zgns-Gg/edit?tab=t.0).
+Uit het literatuuronderzoek zijn enkele kernbevindingen gehaald. Verdere uitleg is te vinden in het [rapport](https://docs.google.com/document/d/1AfcCo7FvvEoZ-1zk95RXVjzMou38a-mL8L6_zgns-Gg/edit?tab=t.0).
 #### Kernbevindingen
-Hoge luchtvochtigheid verhoogt het energieverbruik, omdat vochtige lucht meer energie vraagt om te verwarmen. Door gerichte ventilatie kan het energieverbruik sterk dalen. In België is gecontroleerde ventilatie nog beperkt ingeburgerd, vooral bij kwetsbare huishoudens. Dit versterkt het probleem van energie-armoede.
-Energie-armoede heeft niet alleen financiële, maar ook duidelijke gezondheids- en welzijnsgevolgen, zoals luchtwegklachten en mentale stress.
+- Hoge luchtvochtigheid verhoogt het energieverbruik
+- Door gerichte ventilatie kan het energieverbruik sterk dalen
+- In België is gecontroleerde ventilatie nog beperkt ingeburgerd
 
 #### Conclusie
 Energie-armoede is een probleem waarin vocht, ventilatie en gezondheid nauw met elkaar verbonden zijn. Dit benadrukt de nood aan toegankelijke en betaalbare oplossingen.
@@ -52,21 +52,17 @@ Energie-armoede is een probleem waarin vocht, ventilatie en gezondheid nauw met 
 ### Interviews
 Uit de interviews zijn enkele cruciale punten naar boven gekomen deze worden hieronder besproken.
 #### 1. De Probleemstelling: Onzichtbaarheid
-Gebruikers herkennen een slechte luchtkwaliteit momenteel pas wanneer er fysieke symptomen zijn, zoals damp op de ruiten, een muffe geur of zelfs schimmelvorming. Hoewel men weet dat factoren zoals koken, wasmiddelen en het aantal aanwezige mensen de lucht beïnvloeden, ontbreekt het aan een tijdige waarschuwing.
+Gebruikers herkennen een slechte luchtkwaliteit momenteel pas wanneer er fysieke symptomen zijn, zoals bijvoorbeeld damp op de ruiten. Hoewel men weet dat factoren zoals koken en het aantal aanwezige mensen de lucht beïnvloeden, ontbreekt het aan een tijdige waarschuwing.
 
 #### 2. De Oplossing: Ons Product
 Het concept van een sierobject (de bloem) wordt positief ontvangen, mits het aan specifieke voorwaarden voldoet.
 
 Als de prijs te hoog is, kiest de consument eerder voor automatische ventilatie of neemt men de gok. Duurzaamheid wordt vaak gezien als "luxe moeten afstaan". Ons product moet laten zien dat besparen juist comfort (gezonde lucht) oplevert. Ondanks het mooie uiterlijk moet de werking perfect zijn om de gebruiker te blijven boeien.
 
-
 Bestaande meetapparatuur (bijv. in rusthuizen) wordt als "niet gezellig" ervaren. Ons product moet hier het verschil maken door een mooi design te combineren met functionaliteit. De voorkeur gaat uit naar visuele signalen zoals het veranderen van kleur of het openen/sluiten van de bloemblaadjes, eventueel aangevuld met een app of subtiel geluid. Men verwacht dat het product daadwerkelijk aanzet tot duurzamer gedrag, zoals gerichter ventileren om energie te besparen in plaats van de verwarming onnodig hoog te zetten.
 
 #### 3. Technische Parameters & Regelgeving
-Experts en gebruikers wijzen op de volgende noodzakelijke metingen voor een effectief ontwerp.
-
 De belangrijkste graadmeter, waarbij een streefwaarde van < 900 ppm geldt en actie nodig is boven de 1200 ppm. Cruciaal voor gezondheid en gebouwbehoud; de ideale zone ligt tussen de 40% en 60%. Aanvullende suggesties zijn sensoren voor rook, gas en het zuurstofgehalte.
-
 
 Verdere informatie over de interviews is te vinden in het [rapport](https://docs.google.com/document/d/1SwhVlLS8_lIYlqKu6CdZsSIWJLKw36k-8GklZlpGox8/edit?tab=t.0).
 
@@ -85,10 +81,10 @@ Van alle verschillende criteria werd een overzichtelijke tabel gemaakt deze is h
 | Foobot | €179 | PM2.5, VOC, temp, vocht | Kleurenlicht + app | Advies op maat | Persoonlijke aanbevelingen |
 | uHoo | €299 | Vocht, CO2, CO, PM2.5, PM1, PM10, NO2, O3, VOC, temp, luchtdruk | App | Geen | Meest uitgebreide sensor-set (9 in 1) |
 
-Uit de benchmarking-analyse komt de Tado° Smart Thermostaat naar voren als het enige product dat vochtigheid direct aan energieverbruik koppelt. Waar anderen enkel meten, geeft Tado° actief ventilatie-advies.
-Desondanks kent het systeem tekortkomingen op het gebied van interface en beleving:
+Uit de benchmarking-analyse komt de Tado° Smart Thermostaat naar voren als het enige product dat vochtigheid direct aan energieverbruik koppelt. 
+Desondanks kent het systeem tekortkomingen.
 
-De hoge prijs (>€200) en complexe installatie maken het minder bereikbaar. De sterke afhankelijkheid van een smartphone en het gebruik van technische implicaties zijn barrières voor ouderen en minder technisch aangelegde mensen. Data zoals "3,7% besparing" is te abstract; er ontbreekt directe financiële feedback in euro’s. Het apparaat mist een emotionele connectie en fungeert puur als technisch hulpmiddel
+De hoge prijs (>€200) en complexe installatie maken het minder bereikbaar. De sterke afhankelijkheid van een smartphone en het gebruik van technische implicaties zijn barrières voor ouderen en minder technisch aangelegde mensen. Data zoals "3,7% besparing" is te abstract; er ontbreekt directe financiële feedback in euro’s. 
   
 Mee te nemen ontwerpkeuzes
 
@@ -143,9 +139,7 @@ Verder zijn er nog andere vragen gesteld deze resultaten zijn terug te vinden in
 
 6. Vormgeving als esthetisch object, een sierobject verhoogt acceptatie en langdurig gebruik in de leefruimte.
 
-7. Energiecommunicatie via comfort en gezondheid, besparing wordt gekoppeld aan welzijn in plaats van abstracte cijfers.
+7. Begrijpelijke energieterugkoppeling, de relatie tussen vochtbeheersing en stookkosten wordt helder gecommuniceerd.
 
-8. Begrijpelijke energieterugkoppeling, de relatie tussen vochtbeheersing en stookkosten wordt helder gecommuniceerd.
-
-9. Ontwerp voor kwetsbare gebruikers, eenvoud en inclusiviteit staan centraal in bediening en interpretatie.
+8. Ontwerp voor kwetsbare gebruikers, eenvoud en inclusiviteit staan centraal in bediening en interpretatie.
 
