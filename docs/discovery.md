@@ -116,7 +116,7 @@ Uit de enquête kwamen enkele opvallende resultaten, de drie belangrijkste worde
 #### 1. Welke problemen ondervinden mensen in hun huis?
 
 <p align="left">
-  <img src="../img/Problemen.jpg" width="100%">
+  <img src="../img/survey 2 jpg.jpg" width="100%">
 </p>
 
 Opvallend is dat 36,5% van de respondenten aangeeft last te hebben van minstens één vochtprobleem. Het meest voorkomende probleem zijn beslagen ramen, dat door 25% van de deelnemers wordt ervaren. Schimmel komt voor bij 13,5% van de respondenten, wat een serieus gezondheidsrisico vormt. Daarentegen wordt de muffe geur nauwelijks gerapporteerd, slechts door 2,9% van de ondervraagden.
@@ -124,7 +124,7 @@ Opvallend is dat 36,5% van de respondenten aangeeft last te hebben van minstens 
 #### 2. Zijn mensen op de hoogte van het feit dat een vochtig huis meer energie kost om te verwarmen?
 
 <p align="left">
-  <img src="../img/Problemen.jpg" width="100%">
+  <img src="../img/Survey 2.png" width="100%">
 </p>
 
 Bijna de helft van de mensen is zich er niet van bewust dat goed ventileren juist energie bespaart in plaats van kost. Dit laat zien dat er een grote kennis- en gedragskloof bestaat rond duurzaam ventilatiegedrag.
@@ -132,7 +132,7 @@ Bijna de helft van de mensen is zich er niet van bewust dat goed ventileren juis
 #### 3. Zouden mensen een eenvoudig apparaatje kopen om hun te helpen?
 
 <p align="left">
-  <img src="../img/Problemen.jpg" width="100%">
+  <img src="../img/survey 1 jpg.jpg" width="100%">
 </p>
 
 Een ruime meerderheid van 79,8% staat open voor de oplossing, en meer dan een kwart (28,8%) zou het zeker gebruiken. Tegelijkertijd geeft 51% aan dat betaalbaarheid een belangrijke factor is. Slechts 20,2% van de respondenten zou het waarschijnlijk of zeker niet gebruiken.
