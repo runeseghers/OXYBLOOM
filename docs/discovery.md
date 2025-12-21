@@ -30,14 +30,13 @@ De literatuurstudie werd uitgevoerd met Google Scholar en Consensus met de zoekt
 - “fuel poverty behavior”
 
 ### Interviews
-Voor de interviews werden 2 type respondenten geïnterviewd: experts en gewone gebruikers. Tijdens de interviews werden vragen gesteld die beide aanspareken en ook enkele die expliciet voor de experts waren. Deze vragen tasten naar: algemene visie op duurzaamheid, concrete ewoonten, kennis over luchtkwaliteit en duurzame producten. In het [Protocool](https://docs.google.com/document/d/12qbczfWnEImfsNoVpZ4aLVHFY0JWGxJDZ43AeHY9-mw/edit?tab=t.0) is een verder overzicht te vinden van hoe de interviews verlopen zijn.
-
+Voor de interviews werden 2 experten en 1 gebruiker geïnterviewd.De experts kregen extra vragen die enkel zij konden beantwoorden met hun kennis. De vragen gingen over: algemene visie op duurzaamheid, concrete ewoonten, kennis over luchtkwaliteit en duurzame producten. In het [Protocool](https://docs.google.com/document/d/12qbczfWnEImfsNoVpZ4aLVHFY0JWGxJDZ43AeHY9-mw/edit?tab=t.0) is een verder overzicht te vinden van hoe de interviews verlopen zijn.
 
 ### Benchmarking
-Voor de benchmarking werden 10 bestaande producten onderzocht op het gebied van luchtkwaliteit en slimme ventilatie. Het doel van deze benchmarking was om inzicht te krijgen in huidige oplossingen en nieuwe oplossingsmogelijkheden te identificeren voor het nieuwe concept. Voor ieder product werd gekeken naar: de prijs, welk type sensoren ze hebben, hoe ze feedback geven, of er een energielink is en of er een unieke feature is.
+Voor de benchmarking werden 10 bestaande producten onderzocht op het gebied van luchtkwaliteit en slimme ventilatie. Het doel van deze benchmarking was om inzicht te krijgen in huidige oplossingen en nieuwe oplossingsmogelijkheden te identificeren voor het nieuwe concept. Voor ieder product werd gekeken naar: de prijs, wat ze meten, hoe ze feedback geven, of er een energielink is en of er een unieke feature is.
 
 ### Enquête
-De enquëte is gelanceerd om een duidelijk beeld te krijgen van hoe mensen omgaan met ventilatie en energieverbruik. De vragen bespraken vooral hoe mensen staan tenopzichte van het ventileren en of zij de link tussen energie en ventileren konden leggen.
+De enquëte is gelanceerd om een duidelijk beeld te krijgen van hoe mensen omgaan met ventilatie, energieverbruik, of het probleem wel echt een probleem is en als er interesse is in een oplossing.
 Een overzicht van de vregen is te vinden in de [enquête](https://docs.google.com/forms/d/e/1FAIpQLSccWiVOp48grHZ2cQGmuoxTeAmDsEP0Rcj8K9Pg0Ig58J9OUA/viewform?usp=header).
 
 ## Resultaten
