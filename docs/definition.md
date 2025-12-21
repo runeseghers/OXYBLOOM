@@ -133,7 +133,7 @@ Omdat de bloem niet enkel afhankelijk mag zijn van het schermpje dat wordt geïn
   <img src="../img/IMG_1298.jpeg" width="32%">
 </p>
 Hierin is te zien hoeveel geld je al hebt bespaardmet een grafiek, in welke status de bloem zich bevind aan de hand van je streak, hoeveel bloemetjes je al verdient hebt, welke kleuren je al beschikbaar zijn en welke je kan unlocken en een weetje in verband met i.v.m. gezondheid, luchtkwaliteit, beter isoleren, ... . 
-
+Deze interface is enkel te zien op het schermpje van de bloem.
 Om de interfaces en belonigssystemen te onderzoeken werden ze voorgesteld aan verschillende respondenten(n=6).
 
 ## Bewegende bladeren 
@@ -145,22 +145,31 @@ Door de bladeren van de bloem te laten bewegen alsof de bloem ademd kan het als 
 </p>
 
 ## Resultaten
+
 ### Oplaadfunctie 
-Uit interviews met verschillende respondenten blijkt dat de openbare oplaadfunctie niet ideaal is. Verschillende deelnemers gaven aan dat ze na een tijdje meer geïnteresseerd raakten in opladen dan in energie besparen.
-Voorbeeldquote:
 
-“Ik zou de plant denk ik meer zien als oplaadstation dan een apparaat dat de luchtkwaliteit verbetert.”
+Uit interviews met verschillende respondenten blijkt dat een zelf van stroomvoorzienende bloem wel een goed idee bleek te zijn. Dat bleek uit 1 van de antwoorden "Ja, ik zou het kopen om energie te besparen, het zou maar dom zijn moest het energie kosten om het te gebruiken.". Ook vond iemand het estetischer als er geen kabel naast hing. Bij de oplaad poort kwamen er twijfels: "Ik zou het eens gebruiken om te testen maar of ik het regelmatig zou gebruiken, ik denk het niet." en "Ik zou niet wachten om mijn gsm op te laden wanneer er genoeg energie is opgewekt, dan steek ik het maar in de prise.".
 
-Daarom is besloten om de bloem autonoom van stroom te voorzien via zonnepanelen en een interne batterij. Dit houdt het ontwerp esthetisch aantrekkelijk, zonder kabels, en behoudt de nadruk op goed ventilatiegedrag.
+### Beloningssystemen
 
-De overige beloningssystemen werden juist positief ontvangen:
-Streak-systeem & stengelgroei: “Het is leuk om te zien hoe hij groeit als je goed ventileert.”
+De beloningssystemen werden positief ontvangen: " Kzou het wel tof vinden als ik die pot eens regelmatig van kleur kan veranderen.".  
+Ook voor het streak-systeem & stengelgroei: “Het is  wel leuk om te zien hoe hij groeit als je goed ventileert.”
 Vrijspelen van kleuren: creëert motivatie en personalisatie.
-Wallet: biedt inzicht in theoretische besparingen en versterkt motivatie.
+Wallet: biedt inzicht in theoretische besparingen en versterkt motivatie..
+
+### Interface
+De meeste respondent vonden het een duidelijke interface en vonden de busturing op de bloem en niet op de interface goed alhoewel er iets naar bovenkwam namelijk bij 2 respondenten werd een ongemak vast gesteld. Namelijk als ze s'avonds in de zetel zaten en zo vonden het licht van de bloem te fel dan konden ze dit niet vanuit de zetel aanpassen.
+
+### Bewegende bladeren 
+De meerderheid van de respondenten zei dat ze de bewegende bladeren wel een leuke feature vonden. Het brengt de bloem meer tot leven en het blijft rust uitstralen.
+Het wordt ook door een kind als speelser ervaren.
 
 ## Conclusies & implicaties
 
-De openbare oplaadfunctie wordt niet meegenomen naar de volgende iteratie; in plaats daarvan krijgt de bloem een autonome energievoorziening.
+Om de bloem ook op afstand de kunnen bedienen wordt dezelfde interface als op het schermpje van de bloem op een app afgebeeld met daarbij een apart functie die kan dienen als afstandsbediening om de bloem aan/uit te zetten, het geluidsignaal aan/uit te zetten en de helderheid te kunnen aanpassen.
+
+Ook is besloten om de bloem autonoom van stroom te voorzien via zonnepanelen en een interne batterij. Dit houdt het ontwerp esthetisch aantrekkelijk, zonder kabels, en behoudt de nadruk op goed ventilatiegedrag. De oplaadfunctie wordt niet meegenomen naar de volgende iteratie.
+
 Streak-systeem, stengelgroei, kleuren vrijspelen en wallet blijven behouden als beloningsmechanismen.
-De bewegende bladeren worden meegenomen om de bloem speelser en aantrekkelijker te maken, vooral voor kinderen.
+De bewegende bladeren worden meegenomen om de bloem speelser en aantrekkelijker te maken.
 Het ontwerp blijft gericht op intuïtieve feedback, esthetiek en acceptatie in de woning, met behoud van focus op het stimuleren van goed ventilatiegedrag.
