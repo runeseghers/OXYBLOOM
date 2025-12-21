@@ -127,6 +127,7 @@ Verder zijn er nog andere vragen gesteld deze resultaten zijn terug te vinden in
 
 
 ## Conclusies & implicaties
+Alle aspecten die worden meegenomen in de verdere ontwikkeling van het product zijn:
 1. Meten van vocht en CO₂, deze parameters zijn bepalend voor luchtkwaliteit, gezondheid en energieverbruik.
 
 2. Sturing van gedrag in plaats van automatisering, het product zet aan tot bewust ventileren zonder complexe of dure systemen.
