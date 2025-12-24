@@ -128,3 +128,6 @@ Alle aspecten die worden meegenomen in de verdere ontwikkeling van het product z
 
 8. Ontwerp voor kwetsbare gebruikers, eenvoud en inclusiviteit staan centraal in bediening en interpretatie.
 
+
+De ontwerpbeslissingen zijn gericht op toegankelijkheid, eenvoud en gedragsverandering. Door luchtkwaliteit en energieverbruik op een visuele en begrijpelijke manier te koppelen, verlaagt het product de drempel om duurzaam te ventileren en draagt het bij aan zowel comfort als energiebesparing.
+
