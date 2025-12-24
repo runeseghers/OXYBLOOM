@@ -14,7 +14,7 @@ Uit het storyboard werden de onderzoeksvragen opgesteld:
 - Welke vorm van visuele feedback wordt het snelst begrepen?
 - Welk prototype lokt de grootste bereidheid tot actie uit?
 - Welk concept is esthetisch aanvaardbaar om in een woning te plaatsen?
-- Verschillen deze percepties tussen verschillende gebruikers?
+- Verschillen deze meningen tussen verschillende gebruikers?
 
 ## Materiaal & Methoden
 Prototypes (karton & low-fidelity)
