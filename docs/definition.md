@@ -144,7 +144,9 @@ Vrijspelen van kleuren: creëert motivatie en personalisatie.
 Wallet: biedt inzicht in theoretische besparingen en versterkt motivatie..
 
 ### Interface
-De meeste respondenten vonden het een duidelijke interface en vonden de besturing op de bloem en niet op de interface goed alhoewel er iets naar bovenkwam namelijk bij 2 respondenten werd een ongemak vast gesteld. Namelijk als ze s'avonds in de zetel zaten en zo vonden het licht van de bloem te fel dan konden ze dit niet vanuit de zetel aanpassen.
+De meeste respondenten vonden het een duidelijke interface en vonden de besturing op de bloem en niet op de interface goed alhoewel er iets naar bovenkwam namelijk bij 2 respondenten werd een ongemak vast gesteld. Als ze s'avonds in de zetel zaten en zo vonden het licht van de bloem te fel dan konden ze dit niet vanuit de zetel aanpassen. 
+
+Ook was 1 respondent deels kleurenblind en om de bloem ook voor mensen die kleurenblind zijn goed zichtbaar te maken, wordt voorzien dat de kleuren van het luchtkwaliteitsignaal (bijv. rood voor slechte lucht, groen voor goede lucht) aanpasbaar zijn. Gebruikers kunnen zo een kleurenschema kiezen dat voor hen intuïtief en duidelijk is, zonder dat de kernfeedback verloren gaat.
 
 ### Bewegende bladeren 
 De meerderheid van de respondenten zei dat ze de bewegende bladeren wel een leuke feature vonden. Het brengt de bloem meer tot leven en het blijft rust uitstralen.
@@ -152,7 +154,7 @@ Het wordt ook door een kind als speelser ervaren.
 
 ## Conclusies & implicaties
 
-Om de bloem ook op afstand de kunnen bedienen wordt dezelfde interface als op het schermpje van de bloem op een app afgebeeld met daarbij een apart functie die kan dienen als afstandsbediening om de bloem aan/uit te zetten, het geluidsignaal aan/uit te zetten en de helderheid te kunnen aanpassen.
+Om de bloem ook op afstand de kunnen bedienen wordt dezelfde interface als op het schermpje van de bloem op een app afgebeeld met daarbij een apart functie die kan dienen als afstandsbediening om de bloem aan/uit te zetten, het geluidsignaal aan/uit te zetten en de helderheid te kunnen aanpassen. En er wordt een kleuren schema voor kleurenblinden toegevoegd.
 
 Ook is besloten om de bloem autonoom van stroom te voorzien via zonnepanelen en een interne batterij. Dit houdt het ontwerp esthetisch aantrekkelijk, zonder kabels, en behoudt de nadruk op goed ventilatiegedrag. De oplaadfunctie wordt niet meegenomen naar de volgende iteratie.
 
