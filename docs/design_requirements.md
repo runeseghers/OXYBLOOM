@@ -24,8 +24,12 @@
 |2|Er moet een beloningssysteem zijn. |[Literatuuronderzoek](https://docs.google.com/document/d/1AfcCo7FvvEoZ-1zk95RXVjzMou38a-mL8L6_zgns-Gg/edit?tab=t.0)|⚠️|
 |3|Het product moet speels zijn.|[Interviews](https://docs.google.com/document/d/1SwhVlLS8_lIYlqKu6CdZsSIWJLKw36k-8GklZlpGox8/edit?usp=sharing)|✅|
 |4|Autonome stroomvoorziening via zonnepanelen en interne batterij.|[Interviews](https://docs.google.com/document/d/1SwhVlLS8_lIYlqKu6CdZsSIWJLKw36k-8GklZlpGox8/edit?usp=sharing)|✅|
+|5|Er moeten knoppen op de bloem komen: aan/uit, helderheid en geluidssignaal.|[Interviews](https://docs.google.com/document/d/1SwhVlLS8_lIYlqKu6CdZsSIWJLKw36k-8GklZlpGox8/edit?usp=sharing)|✅|
+|6|Er moeten een scherm op de bloem komen.|[Interviews](https://docs.google.com/document/d/1SwhVlLS8_lIYlqKu6CdZsSIWJLKw36k-8GklZlpGox8/edit?usp=sharing)|✅|
+|7|Er moeten een app komen.|[Interviews](https://docs.google.com/document/d/1SwhVlLS8_lIYlqKu6CdZsSIWJLKw36k-8GklZlpGox8/edit?usp=sharing)|✅|
 |**Deelaspect**|
 |3.1|De bloem moet bewegen wanneer het tijd is om te verluchten.|[Interviews](https://docs.google.com/document/d/1SwhVlLS8_lIYlqKu6CdZsSIWJLKw36k-8GklZlpGox8/edit?usp=sharing)|✅|
 |2.1|Streak-systeem: visualisatie van voortgang via stengelgroei.|[Interviews](https://docs.google.com/document/d/1SwhVlLS8_lIYlqKu6CdZsSIWJLKw36k-8GklZlpGox8/edit?usp=sharing)|✅|
 |2.2|Bloemetjes & kleuren vrijspelen: motivatie en personalisatie.|[Interviews](https://docs.google.com/document/d/1SwhVlLS8_lIYlqKu6CdZsSIWJLKw36k-8GklZlpGox8/edit?usp=sharing)|✅|
 |2.3|Wallet: inzicht in theoretische energie- of geldbesparing.|[Interviews](https://docs.google.com/document/d/1SwhVlLS8_lIYlqKu6CdZsSIWJLKw36k-8GklZlpGox8/edit?usp=sharing)|✅|
+|7.1|Op de app moet een beloningssysteem, streak, afstandsbediening, wallet met grafiek en verschillende kleuren ter beschikking komen.|[Interviews](https://docs.google.com/document/d/1SwhVlLS8_lIYlqKu6CdZsSIWJLKw36k-8GklZlpGox8/edit?usp=sharing)|✅|
