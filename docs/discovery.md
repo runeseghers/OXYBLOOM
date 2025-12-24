@@ -29,14 +29,14 @@ De literatuurstudie werd uitgevoerd met Google Scholar en Consensus met de zoekt
 - “fuel poverty behavior”
 
 ### Interviews
-Voor de interviews werden 2 experten en 1 gebruiker geïnterviewd. De vragen gingen over: algemene visie op duurzaamheid, concrete ewoonten, kennis over luchtkwaliteit en duurzame producten, dit kan je zien in het [Protocol](https://docs.google.com/document/d/12qbczfWnEImfsNoVpZ4aLVHFY0JWGxJDZ43AeHY9-mw/edit?tab=t.0).
+Voor de interviews werden 2 experten en 1 gebruiker geïnterviewd. De vragen gingen over: algemene visie op duurzaamheid, concrete gewoonten, kennis over luchtkwaliteit en duurzame producten, dit kan je zien in het [Protocol](https://docs.google.com/document/d/12qbczfWnEImfsNoVpZ4aLVHFY0JWGxJDZ43AeHY9-mw/edit?tab=t.0).
 
 ### Benchmarking
 Voor de benchmarking werden 10 bestaande producten onderzocht op het gebied van luchtkwaliteit en slimme ventilatie. Het doel van deze benchmarking was om inzicht te krijgen in huidige oplossingen en nieuwe oplossingsmogelijkheden te identificeren voor het nieuwe concept. Voor ieder product werd gekeken naar: de prijs, wat ze meten, hoe ze feedback geven, of er een energielink is en of er een unieke feature is.
 
 ### Enquête
-De enquëte is gelanceerd om een duidelijk beeld te krijgen van hoe mensen omgaan met ventilatie, energieverbruik, of het probleem wel echt een probleem is en als er interesse is in een oplossing.
-Een overzicht van de vregen is te vinden in de [enquête](https://docs.google.com/forms/d/e/1FAIpQLSccWiVOp48grHZ2cQGmuoxTeAmDsEP0Rcj8K9Pg0Ig58J9OUA/viewform?usp=header).
+De enquête is gelanceerd om een duidelijk beeld te krijgen van hoe mensen omgaan met ventilatie, energieverbruik, of het probleem wel echt een probleem is en of er interesse is in een oplossing.
+Een overzicht van de vragen is te vinden in de [enquête](https://docs.google.com/forms/d/e/1FAIpQLSccWiVOp48grHZ2cQGmuoxTeAmDsEP0Rcj8K9Pg0Ig58J9OUA/viewform?usp=header).
 
 ## Resultaten
 ### Literatuuronderzoek
@@ -50,7 +50,7 @@ Uit het literatuuronderzoek zijn enkele kernbevindingen gehaald. Verdere uitleg 
 Energie-armoede is een probleem waarin vocht, ventilatie en gezondheid nauw met elkaar verbonden zijn. Dit benadrukt de nood aan toegankelijke en betaalbare oplossingen.
 
 ### Interviews
-Uit de interviews zijn enkele cruciale punten naar boven gekomen deze worden hieronder besproken.
+Uit de interviews zijn enkele cruciale punten naar boven gekomen. Deze worden hieronder besproken.
 #### 1. De Probleemstelling: Onzichtbaarheid
 Gebruikers herkennen een slechte luchtkwaliteit momenteel pas wanneer er fysieke symptomen zijn, zoals bijvoorbeeld damp op de ruiten. Hoewel men weet dat factoren zoals koken en het aantal aanwezige mensen de lucht beïnvloeden, ontbreekt het aan een tijdige waarschuwing.
 
@@ -62,12 +62,12 @@ Als de prijs te hoog is, kiest de consument eerder voor automatische ventilatie 
 Bestaande meetapparatuur (bijv. in rusthuizen) wordt als "niet gezellig" ervaren. Ons product moet hier het verschil maken door een mooi design te combineren met functionaliteit. De voorkeur gaat uit naar visuele signalen zoals het veranderen van kleur of het openen/sluiten van de bloemblaadjes, eventueel aangevuld met een app of subtiel geluid. Men verwacht dat het product daadwerkelijk aanzet tot duurzamer gedrag, zoals gerichter ventileren om energie te besparen in plaats van de verwarming onnodig hoog te zetten.
 
 #### 3. Technische Parameters & Regelgeving
-De belangrijkste graadmeter, waarbij een streefwaarde van < 900 ppm geldt en actie nodig is boven de 1200 ppm. Cruciaal voor gezondheid en gebouwbehoud; de ideale zone ligt tussen de 40% en 60%. Aanvullende suggesties zijn sensoren voor rook, gas en het zuurstofgehalte.
+CO₂ is de belangrijkste graadmeter, waarbij een streefwaarde van < 900 ppm geldt en actie nodig is boven de 1200 ppm. Cruciaal voor gezondheid en gebouwbehoud; de ideale zone ligt tussen de 40% en 60%. Aanvullende suggesties zijn sensoren voor rook, gas en het zuurstofgehalte.
 
 Verdere informatie over de interviews is te vinden in het [rapport](https://docs.google.com/document/d/1SwhVlLS8_lIYlqKu6CdZsSIWJLKw36k-8GklZlpGox8/edit?tab=t.0).
 
 ### Benchmarking
-Van alle verschillende criteria werd een overzichtelijke tabel gemaakt deze is hieronder te vinden:
+Van alle verschillende criteria werd een overzichtelijke tabel gemaakt. Deze is hieronder te vinden:
 | Product | Prijs | Sensoren | Feedback | Energie-link | Unieke Feature |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | IKEA Vindstyrka | €49 | Vocht, PM2.5, temp | Display | Geen | Zeer betaalbaar |
@@ -92,7 +92,7 @@ Voor het ontwerp van ons product nemen we de beste elementen uit de huidige mark
 
 Vernieuwing en Toevoegingen
 
-In plaats van een scherm krijgt ons product bewegende elementen die de luchtkwaliteit visueel maakt. Het product werkt volledig zelfstandig zonder verplichte app-afhankelijkheid, wat de drempel voor ouderen en minder technisch aangelegden verlaagt. De gebruiker leert op een begrijpelijke manier hoe vochtbeheersing direct leidt tot lagere stookkosten.
+In plaats van een scherm krijgt ons product bewegende elementen die de luchtkwaliteit visueel maken. Het product werkt volledig zelfstandig zonder verplichte app-afhankelijkheid, wat de drempel voor ouderen en minder technisch aangelegden verlaagt. De gebruiker leert op een begrijpelijke manier hoe vochtbeheersing direct leidt tot lagere stookkosten.
 
 Verdere informatie over de benchmarking is te vinden in het [rapport](https://docs.google.com/document/d/12xce8BJE52bgFbQwACKA-BeoK-U8daDStCAenrfK3ME/edit?tab=t.0).
 
@@ -114,7 +114,7 @@ Opvallend is dat 36,5% van de respondenten aangeeft last te hebben van minstens 
 
 Bijna de helft van de mensen is zich er niet van bewust dat goed ventileren juist energie bespaart in plaats van kost. Dit laat zien dat er een grote kennis- en gedragskloof bestaat rond duurzaam ventilatiegedrag.
 
-#### 3. Zouden mensen een eenvoudig apparaatje kopen om hun te helpen?
+#### 3. Zouden mensen een eenvoudig apparaatje kopen om hen te helpen?
 
 <p align="left">
   <img src="../img/survey 1 jpg.jpg" width="100%">
@@ -122,7 +122,7 @@ Bijna de helft van de mensen is zich er niet van bewust dat goed ventileren juis
 
 Een ruime meerderheid van 79,8% staat open voor de oplossing, en meer dan een kwart (28,8%) zou het zeker gebruiken. Tegelijkertijd geeft 51% aan dat betaalbaarheid een belangrijke factor is. Slechts 20,2% van de respondenten zou het waarschijnlijk of zeker niet gebruiken.
 
-Verder zijn er nog andere vragen gesteld deze resultaten zijn terug te vinden in het [rapport](https://docs.google.com/document/d/1lkF2mxv8E-GvEGbEEImv3dyBfMGQf3W1utyAzGHfSRQ/edit?tab=t.0).
+Verder zijn er nog andere vragen gesteld. Deze resultaten zijn terug te vinden in het [rapport](https://docs.google.com/document/d/1lkF2mxv8E-GvEGbEEImv3dyBfMGQf3W1utyAzGHfSRQ/edit?tab=t.0).
 
 
 ## Conclusies & implicaties
