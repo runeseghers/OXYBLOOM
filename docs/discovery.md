@@ -41,7 +41,7 @@ Gebruikers herkennen een slechte luchtkwaliteit momenteel pas wanneer er fysieke
 #### 2. De Oplossing: Ons Product
 Het concept van een sierobject (de bloem) wordt positief ontvangen, mits het aan specifieke voorwaarden voldoet.
 
-Als de prijs te hoog is, kiest de consument eerder voor automatische ventilatie of neemt men de gok. Duurzaamheid wordt vaak gezien als "luxe moeten afstaan". Ons product moet laten zien dat besparen juist comfort (gezonde lucht) oplevert. Ondanks het mooie uiterlijk moet de werking perfect zijn om de gebruiker te blijven boeien.
+Als de prijs te hoog is, kiest de consument eerder voor automatische ventilatie of neemt men de gok. Duurzaamheid wordt vaak gezien als "luxe moeten afstaan". Ons product moet laten zien dat besparen juist comfort (gezonde lucht) oplevert. Ondanks het mooie uiterlijk moet de werking perfect zijn.
 
 Bestaande meetapparatuur (bijv. in rusthuizen) wordt als "niet gezellig" ervaren. Ons product moet hier het verschil maken door een mooi design te combineren met functionaliteit. De voorkeur gaat uit naar visuele signalen zoals het veranderen van kleur of het openen/sluiten van de bloemblaadjes, eventueel aangevuld met een app of subtiel geluid. Men verwacht dat het product daadwerkelijk aanzet tot duurzamer gedrag, zoals gerichter ventileren om energie te besparen in plaats van de verwarming onnodig hoog te zetten.
 
@@ -63,10 +63,7 @@ Van alle verschillende criteria werd een overzichtelijke tabel gemaakt. Deze is 
 | Foobot | €179 | PM2.5, VOC, temp, vocht | Kleurenlicht + app | Advies op maat | Persoonlijke aanbevelingen |
 | uHoo | €299 | Vocht, CO2, CO, PM2.5, PM1, PM10, NO2, O3, VOC, temp, luchtdruk | App | Geen | Meest uitgebreide sensor-set (9 in 1) |
 
-Uit de benchmarking-analyse komt de Tado° Smart Thermostaat naar voren als het enige product dat vochtigheid direct aan energieverbruik koppelt. 
-Desondanks kent het systeem tekortkomingen.
-
-De hoge prijs (>€200) en complexe installatie maken het minder bereikbaar. De sterke afhankelijkheid van een smartphone en het gebruik van technische implicaties zijn barrières voor ouderen en minder technisch aangelegde mensen. Data zoals "3,7% besparing" is te abstract; er ontbreekt directe financiële feedback in euro’s. 
+Hoewel Tado° als enige vocht direct aan energieverbruik koppelt, vormen prijs, installatie en complexiteit duidelijke drempels voor een brede doelgroep. (zie [rapport](https://docs.google.com/document/d/12xce8BJE52bgFbQwACKA-BeoK-U8daDStCAenrfK3ME/edit?tab=t.0))
   
 Mee te nemen ontwerpkeuzes
 
