@@ -29,7 +29,7 @@ De literatuurstudie werd uitgevoerd met Google Scholar en Consensus met de zoekt
 - “fuel poverty behavior”
 
 ### Interviews
-Voor de interviews werden 2 experten en 1 gebruiker geïnterviewd. De vragen gingen over: algemene visie op duurzaamheid, concrete gewoonten, kennis over luchtkwaliteit en duurzame producten, dit kan je zien in het [Protocol](https://docs.google.com/document/d/12qbczfWnEImfsNoVpZ4aLVHFY0JWGxJDZ43AeHY9-mw/edit?tab=t.0).
+Voor de interviews werden 2 experten en 1 gebruiker geïnterviewd. De vragen gingen over: algemene visie op duurzaamheid, concrete gewoonten, kennis over luchtkwaliteit en duurzame producten. Dit is te zien in het [Protocol](https://docs.google.com/document/d/12qbczfWnEImfsNoVpZ4aLVHFY0JWGxJDZ43AeHY9-mw/edit?tab=t.0).
 
 ### Benchmarking
 Voor de benchmarking werden 10 bestaande producten onderzocht op het gebied van luchtkwaliteit en slimme ventilatie. Het doel van deze benchmarking was om inzicht te krijgen in huidige oplossingen en nieuwe oplossingsmogelijkheden te identificeren voor het nieuwe concept. Voor ieder product werd gekeken naar: de prijs, wat ze meten, hoe ze feedback geven, of er een energielink is en of er een unieke feature is.
@@ -62,7 +62,7 @@ Als de prijs te hoog is, kiest de consument eerder voor automatische ventilatie 
 Bestaande meetapparatuur (bijv. in rusthuizen) wordt als "niet gezellig" ervaren. Ons product moet hier het verschil maken door een mooi design te combineren met functionaliteit. De voorkeur gaat uit naar visuele signalen zoals het veranderen van kleur of het openen/sluiten van de bloemblaadjes, eventueel aangevuld met een app of subtiel geluid. Men verwacht dat het product daadwerkelijk aanzet tot duurzamer gedrag, zoals gerichter ventileren om energie te besparen in plaats van de verwarming onnodig hoog te zetten.
 
 #### 3. Technische Parameters & Regelgeving
-CO₂ is de belangrijkste graadmeter, waarbij een streefwaarde van < 900 ppm geldt en actie nodig is boven de 1200 ppm. Cruciaal voor gezondheid en gebouwbehoud; de ideale zone ligt tussen de 40% en 60%. Aanvullende suggesties zijn sensoren voor rook, gas en het zuurstofgehalte.
+CO2 is de belangrijkste graadmeter, waarbij een streefwaarde van < 900 ppm geldt en actie nodig is boven de 1200 ppm. Dit is cruciaal voor gezondheid en gebouwbehoud; de ideale zone ligt tussen de 40% en 60%. Aanvullende suggesties zijn sensoren voor rook, gas en het zuurstofgehalte.
 
 Verdere informatie over de interviews is te vinden in het [rapport](https://docs.google.com/document/d/1SwhVlLS8_lIYlqKu6CdZsSIWJLKw36k-8GklZlpGox8/edit?tab=t.0).
 
@@ -104,7 +104,7 @@ Uit de enquête kwamen enkele opvallende resultaten, de drie belangrijkste worde
   <img src="../img/survey 2 jpg.jpg" width="100%">
 </p>
 
-Opvallend is dat 36,5% van de respondenten aangeeft last te hebben van minstens één vochtprobleem. Het meest voorkomende probleem zijn beslagen ramen, dat door 25% van de deelnemers wordt ervaren. Schimmel komt voor bij 13,5% van de respondenten, wat een serieus gezondheidsrisico vormt.
+Opvallend is dat 36,5% van de respondenten aangeeft last te hebben van minstens één vochtprobleem. Het meest voorkomende probleem is beslagen ramen, wat door 25% van de deelnemers wordt ervaren. Schimmel komt voor bij 13,5% van de respondenten, wat een serieus gezondheidsrisico vormt.
 
 #### 2. Zijn mensen op de hoogte van het feit dat een vochtig huis meer energie kost om te verwarmen?
 
