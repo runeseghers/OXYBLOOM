@@ -104,22 +104,5 @@ Verder zijn er nog andere vragen gesteld. (zie [rapport](https://docs.google.com
 
 ## Conclusies & implicaties
 Alle aspecten die worden meegenomen in de verdere ontwikkeling van het product zijn:
-1. Meten van vocht en CO₂, deze parameters zijn bepalend voor luchtkwaliteit, gezondheid en energieverbruik.
-
-2. Sturing van gedrag in plaats van automatisering, het product zet aan tot bewust ventileren zonder complexe of dure systemen.
-
-3. Betaalbaarheid als randvoorwaarde, een richtprijs onder €100 waarborgt toegankelijkheid voor een brede doelgroep.
-
-4. Stand-alone werking zonder app of scherm, het product is direct begrijpelijk en bruikbaar voor niet-technische gebruikers.
-
-5. Visuele en fysieke feedback, kleur en beweging maken onzichtbare luchtkwaliteit intuïtief leesbaar.
-
-6. Vormgeving als esthetisch object, een sierobject verhoogt acceptatie en langdurig gebruik in de leefruimte.
-
-7. Begrijpelijke energieterugkoppeling, de relatie tussen vochtbeheersing en stookkosten wordt helder gecommuniceerd.
-
-8. Ontwerp voor kwetsbare gebruikers, eenvoud en inclusiviteit staan centraal in bediening en interpretatie.
-
-
-De ontwerpbeslissingen zijn gericht op toegankelijkheid, eenvoud en gedragsverandering. Door luchtkwaliteit en energieverbruik op een visuele en begrijpelijke manier te koppelen, verlaagt het product de drempel om duurzaam te ventileren en draagt het bij aan zowel comfort als energiebesparing.
+Het product meet vocht en CO₂ om luchtkwaliteit, gezondheid en energieverbruik inzichtelijk te maken. Het stimuleert bewust ventileren zonder complexe systemen en blijft betaalbaar (<€100) en stand-alone bruikbaar. Visuele en fysieke feedback maakt luchtkwaliteit intuïtief leesbaar, terwijl het ontwerp esthetisch aantrekkelijk blijft. Eenvoud, inclusiviteit en duidelijke energieterugkoppeling verlagen de drempel voor duurzaam ventileren en dragen bij aan comfort en energiebesparing.
 
