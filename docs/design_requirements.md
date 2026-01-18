@@ -30,6 +30,7 @@
 |6|De bloem moet te bedienen zijn via een app en via de knoppen op de bloem zelf.|[Interviews](https://docs.google.com/document/d/1SwhVlLS8_lIYlqKu6CdZsSIWJLKw36k-8GklZlpGox8/edit?usp=sharing)|✅|
 |7|Er moet een scherm op de bloem komen.|[Interviews](https://docs.google.com/document/d/1SwhVlLS8_lIYlqKu6CdZsSIWJLKw36k-8GklZlpGox8/edit?usp=sharing)|✅|
 |8|Er moeten een app beschikbaar zijn.|[Interviews](https://docs.google.com/document/d/1SwhVlLS8_lIYlqKu6CdZsSIWJLKw36k-8GklZlpGox8/edit?usp=sharing)|✅|
+|9|Kleuren van het luchtkwaliteitsignaal aanpasbaar maken.|[Interviews](https://docs.google.com/document/d/1SwhVlLS8_lIYlqKu6CdZsSIWJLKw36k-8GklZlpGox8/edit?usp=sharing)|✅|
 |**Deelaspect**|
 |2.1|Streak-systeem: visualisatie van voortgang via stengelgroei.|[Interviews](https://docs.google.com/document/d/1SwhVlLS8_lIYlqKu6CdZsSIWJLKw36k-8GklZlpGox8/edit?usp=sharing)|✅|
 |2.2|Bloemetjes & kleuren vrijspelen: motivatie en personalisatie.|[Interviews](https://docs.google.com/document/d/1SwhVlLS8_lIYlqKu6CdZsSIWJLKw36k-8GklZlpGox8/edit?usp=sharing)|✅|
