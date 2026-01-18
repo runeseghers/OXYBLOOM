@@ -77,7 +77,7 @@ De bloem combineert esthetiek, begrijpelijkheid en acceptatie het meest succesvo
 
 Hoewel het scherm extra informatie kan bieden en de datavisualisatie en beloningsmechanismen positief worden beoordeeld, ervaren gebruikers het als te druk in de woonomgeving. De parkiet wekt empathie en motivatie op, maar wordt ook als te speels of kinderlijk ervaren.
 
-###Takeaways voor de tweede wave
+### Takeaways voor de tweede wave
 
 Wave 2 richt zich op het verfijnen van het bloemconcept door subtiele bladbewegingen toe te voegen om de betrokkenheid van kinderen te vergroten, zonder de rust van de bloem te verstoren. Daarnaast kan een scherm bij de bloem ondersteuning bieden voor datavisualisatie en de integratie van een beloningssysteem, mits dit volledig los kan functioneren en geen vereiste is voor het gebruik. 
 
