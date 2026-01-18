@@ -153,10 +153,9 @@ Het wordt ook door een kind als speelser ervaren.
 
 ## Conclusies & implicaties
 
-Om de bloem ook op afstand de kunnen bedienen wordt dezelfde interface als op het schermpje van de bloem op een app afgebeeld met daarbij een apart functie die kan dienen als afstandsbediening om de bloem aan/uit te zetten, het geluidsignaal aan/uit te zetten en de helderheid te kunnen aanpassen. En er wordt een kleuren schema voor kleurenblinden toegevoegd.
+Om de bloem ook op afstand de kunnen bedienen wordt dezelfde interface als op het schermpje van de bloem op een app afgebeeld met daarbij een apart functie die kan dienen als afstandsbediening. En er wordt een kleuren schema voor kleurenblinden toegevoegd.
 
-Ook is besloten om de bloem autonoom van stroom te voorzien via zonnepanelen en een interne batterij. Dit houdt het ontwerp esthetisch aantrekkelijk, zonder kabels, en behoudt de nadruk op goed ventilatiegedrag. De oplaadfunctie wordt niet meegenomen naar de volgende iteratie.
+Ook is besloten om de bloem autonoom van stroom te voorzien via zonnepanelen en een interne batterij. De oplaadfunctie wordt niet meegenomen naar de volgende iteratie.
 
 Streak-systeem, stengelgroei, kleuren vrijspelen en wallet blijven behouden als beloningsmechanismen.
 De bewegende bladeren worden meegenomen om de bloem speelser en aantrekkelijker te maken.
-Het ontwerp blijft gericht op intuïtieve feedback, esthetiek en acceptatie in de woning, met behoud van focus op het stimuleren van goed ventilatiegedrag.
