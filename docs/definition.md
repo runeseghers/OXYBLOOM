@@ -93,7 +93,7 @@ Na brainstorming over beloningssystemen en andere manieren om gebruikers meer te
 
 
 ## Oplaadfunctie
-Om de gebruiker extra te motiveren worden zonnepaneeltjes op in de bladeren verwerkt en er wordt een batterij toegevoegd. Wanneer de bloem open staat en de luchtkwaliteit is dus goed zal de bloem energie opwekken om zichzelf te voorzien van stroom. Omdat er een overschot aan stroom zou kunnen zijn, kan er een oplaadfunctie toegevoegd worden. De oplaadfunctie verhoogt het gebruiksgemak, maar er bestaat een risico dat gebruikers de bloem vooral als powerbank gaan gebruiken. Hierdoor kan de focus op gezond ventilatiegedrag afnemen. Daarom is het belangrijk dat de oplaadpoort wordt gekoppeld aan luchtkwaliteit, zodat opladen een beloning is voor goed gedrag en de kernfunctie behouden blijft. De oplaad functie werd voorgesteld aan verschillende respondenten(n=6).
+Om de gebruiker extra te motiveren worden zonnepaneeltjes op in de bladeren verwerkt en er wordt een batterij toegevoegd. Wanneer de bloem open staat zal de bloem energie opwekken om zichzelf te voorzien van stroom. Omdat er een overschot aan stroom zou kunnen zijn, kan er een oplaadfunctie toegevoegd worden, maar er bestaat een risico dat gebruikers de bloem vooral als powerbank gaan gebruiken. Hierdoor kan de focus op gezond ventilatiegedrag afnemen. De oplaad functie werd voorgesteld aan verschillende respondenten(n=6).
 
 ## Beloningssystemen
 - Wallet
@@ -106,7 +106,7 @@ Met het geld dat bespaard wordt worden er bloemetjes aangemaakt. Met deze bloeme
 
 - Streak
 
-Wanneer een volledige dag niet buiten de grenzen van goede luchtkwaliteit wordt geweken zal een streak ontstaan en zal de stengel van de bloem langzaam groeien. De groei van de stengel visualiseert voortgang en maakt de bloem levendiger. Dit geeft directe feedback op ventilatiegedrag. De groei moet duidelijk, maar subtiel zijn, zodat de bloem natuurlijk oogt en de kernfunctie niet wordt overschaduwd.
+Wanneer een volledige dag niet buiten de grenzen van goede luchtkwaliteit wordt geweken zal een streak ontstaan en zal de stengel van de bloem langzaam groeien. De groei van de stengel visualiseert voortgang en maakt de bloem levendiger. Dit geeft directe feedback op ventilatiegedrag.
 
 - Interface
 
@@ -137,7 +137,7 @@ Uit interviews met verschillende respondenten blijkt dat een zelf van stroomvoor
 
 ### Beloningssystemen
 
-De beloningssystemen werden positief ontvangen: " Kzou het wel tof vinden als ik die pot eens regelmatig van kleur kan veranderen.".  
+De beloningssystemen werden positief ontvangen: " Kzou het wel tof vinden als ik de kleur van die pot kan kiezen.".  
 Ook voor het streak-systeem & stengelgroei: “Het is  wel leuk om te zien hoe hij groeit als je goed ventileert.”
 Vrijspelen van kleuren: creëert motivatie en personalisatie.
 Wallet: biedt inzicht in theoretische besparingen en versterkt motivatie..
@@ -145,7 +145,7 @@ Wallet: biedt inzicht in theoretische besparingen en versterkt motivatie..
 ### Interface
 De meeste respondenten vonden het een duidelijke interface en vonden de besturing op de bloem en niet op de interface goed alhoewel er iets naar bovenkwam namelijk bij 2 respondenten werd een ongemak vast gesteld. Als ze s'avonds in de zetel zaten en zo vonden het licht van de bloem te fel dan konden ze dit niet vanuit de zetel aanpassen. 
 
-Ook was 1 respondent deels kleurenblind en om de bloem ook voor mensen die kleurenblind zijn goed zichtbaar te maken, wordt voorzien dat de kleuren van het luchtkwaliteitsignaal (bijv. rood voor slechte lucht, groen voor goede lucht) aanpasbaar zijn. Gebruikers kunnen zo een kleurenschema kiezen dat voor hen intuïtief en duidelijk is, zonder dat de kernfeedback verloren gaat.
+Ook was 1 respondent deels kleurenblind en om de bloem ook voor mensen die kleurenblind zijn goed zichtbaar te maken, wordt voorzien dat de kleuren van het luchtkwaliteitsignaal aanpasbaar zijn. Gebruikers kunnen zo een kleurenschema kiezen dat voor hen intuïtief en duidelijk is, zonder dat de kernfeedback verloren gaat.
 
 ### Bewegende bladeren 
 De meerderheid van de respondenten zei dat ze de bewegende bladeren wel een leuke feature vonden. Het brengt de bloem meer tot leven en het blijft rust uitstralen.
