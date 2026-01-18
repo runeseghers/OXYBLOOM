@@ -75,12 +75,11 @@ De bloem scoort het hoogst op bereidheid tot actie (gem. 6/7) en wordt vooral do
 
 De bloem combineert esthetiek, begrijpelijkheid en acceptatie het meest succesvol en heeft daardoor de grootste kans op langdurig gebruik in de woning. Voor kinderen blijkt de parkiet activerender, wat wijst op de noodzaak om het bloemconcept speelser te maken, bijvoorbeeld via subtiele, continue bewegingen zoals “ademende” bladeren.
 
-Een scherm wordt niet als hoofdoplossing gezien: hoewel het extra informatie kan bieden en de datavisualisatie en beloningsmechanismen positief worden beoordeeld, ervaren gebruikers het als te druk en storend in de woonomgeving. De parkiet wekt empathie en motivatie op, maar wordt door een deel van de gebruikers als te speels of kinderlijk ervaren, wat de plaatsbaarheid in huis beperkt.
+Hoewel het scherm extra informatie kan bieden en de datavisualisatie en beloningsmechanismen positief worden beoordeeld, ervaren gebruikers het als te druk in de woonomgeving. De parkiet wekt empathie en motivatie op, maar wordt ook als te speels of kinderlijk ervaren.
 
+###Takeaways voor de tweede wave
 
-### Takeaways voor de tweede wave
-
-Wave 2 focust op het verfijnen van het bloemconcept door subtiele bladbewegingen toe te voegen om de betrokkenheid van kinderen te vergroten, zonder dat de rust van de bloem verstoord wordt. Daarnaast kan een scherm bij de bloem ondersteuning bieden voor datavisualisatie en de integratie van een beloningssysteem, mits dit volledig los kan functioneren en geen vereiste is voor het gebruik. Digitale feedback blijft zo een optionele, aanvullende laag, zonder afbreuk te doen aan de esthetiek en de kernervaring.
+Wave 2 richt zich op het verfijnen van het bloemconcept door subtiele bladbewegingen toe te voegen om de betrokkenheid van kinderen te vergroten, zonder de rust van de bloem te verstoren. Daarnaast kan een scherm bij de bloem ondersteuning bieden voor datavisualisatie en de integratie van een beloningssysteem, mits dit volledig los kan functioneren en geen vereiste is voor het gebruik. 
 
 # Wave 2 – Analyse openbare oplaadfunctie, beloningssysteem en bewegende bladeren
 ## Probleemstelling
