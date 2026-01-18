@@ -1,4 +1,7 @@
 ## Methodologie
+<p align="left">
+  <img src="../img/Triple Diamond.png" width="100%">
+</p>
 De methodologie volgt het triple diamond ontwerpmodel, bestaande uit vier fasen: discover, define, develop en deliver.
 
 In de fase discover wordt via een litteratuuronderzoek (N=11) onderzoek gedaan naar bestaande kennis en inzichten over energie-armoede en de relatie met gedrag en keuzes. Het doel was het onderwerp beter te begrijpen, trends te identificeren, en mogelijke kansen of onderbelichte aspecten te ontdekken. Daarnaast werden er ook enkele interviews uitgevoerd (N=3). Terwijl deze interviews werden afgerond werd er ook een enquëte afgelegd (N=104), dit om een goed beeld te hebben van welke problemen zich waar bevinden en of er al maatregelen werden genomen. Als laatste werd er een benchmark analyse (N=10) gedaan, hier was het belangrijk om een inzicht te krijgen over welke producten er al bestaan en waar deze in uitblinken er waar er mogelijkheden zijn voor verbetering. Al deze inzichten werden gecombineerd om dan richting de define fase te gaan.
