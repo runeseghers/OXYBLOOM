@@ -60,7 +60,7 @@ aangevuld met een voorkeur voor gebruik in de woning.
 | Kinderen(2) | 2.5 / 4.7 | 5.0 / 7.0 | 3.8 / 3.5 |
 | Totaal(13) | 5.4 / 6 | 5.7 / 5.2 | 4.4 / 4.5 |
 
-De bloem scoort het hoogst op bereidheid tot actie (gem. 6/7) en wordt vooral door vrouwen als voorkeursoplossing gekozen. De parkiet wordt door mannen en kinderen als zeer duidelijk en activerend ervaren, maar scoort lager op esthetische acceptatie. De tablet scoort het laagst op zowel duidelijkheid als bereidheid tot actie, voornamelijk door visuele drukte en schermmoeheid, ondanks de waardering voor de datavisualisatie en het beloningssysteem. Dit werd door respondenten samengevat met opmerkingen als “weer een scherm erbij”.
+De bloem scoort het hoogst op bereidheid tot actie (gem. 6/7) en wordt vooral door vrouwen gekozen. De parkiet is duidelijk en activerend, maar minder esthetisch. De tablet scoort het laagst door visuele drukte, wat respondenten samenvatten als “weer een scherm erbij”.
 
 ## Resultaten: Voorkeur voor gebruik in de woning
 
