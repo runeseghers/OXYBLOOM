@@ -58,7 +58,7 @@ Licht toe op welke manier je AI gebruikte in dit project.
   * [Protocol](https://docs.google.com/document/d/1rY86oE0Vs1P8iOJ6PyYzX7_pxgFzCAlSUU5zqiSWN3I/edit?tab=t.0)
   * [Rapport](https://docs.google.com/document/d/1wBb8zgVL7p_F-QvWJVQwW2Svkrl49Ys-igBUbI4e8e8/edit?tab=t.0)
 * User testing wave 2 (N=5)
-  * [Protocol](url)
+  * [Protocol](https://docs.google.com/document/d/1o-T7NU_5Rs0rAPHm1JbzHmHQB5fDIzvxbv1kqwsdvhM/edit?usp=sharing)
   * [Rapport](https://docs.google.com/document/d/1fPvEVBDay3pfUAcs47p9CDcH445wIs4vGXjvJl6ddqQ/edit?tab=t.0#heading=h.91kt9wm5brsg)
 
 ## Licentie
