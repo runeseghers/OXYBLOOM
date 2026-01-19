@@ -35,7 +35,7 @@ Het product werkt energiebesparend en draagt bij aan een gezonder binnenklimaat.
 5. [Bill of materials](./docs/bom.md)
 
 ## Kritische reflectie
-Max. 500 woorden
+Tijdens het eerste semester van dit project staan we momenteel redelijk goed en zijn we tevreden over wat we al verricht hebben. We zijn blij met de kwaliteit van de prototypes die we in het eerste deel van het proces hebben ontwikkeld. Deze prototypes tonen aan dat we onze ideeën stap voor stap hebben kunnen omzetten naar concrete en werkbare oplossingen. Het begin van het project was uitdagend, vooral door het aftasten van de juiste aanpak en het maken van keuzes. Gaandeweg hebben we echter geleerd om beter te plannen, te testen en bij te sturen waar nodig. Aan het einde van het eerste semester kunnen we stellen dat het project niet alleen inhoudelijk vooruitgang heeft geboekt, maar ook bijgedragen heeft aan ons leerproces. We hebben waardevolle inzichten opgedaan in prototyping, samenwerking en probleemoplossend denken, wat dit project tot een leerrijke ervaring maakt.
 
 ## Noot inzake het gebruik van AI
 Licht toe op welke manier je AI gebruikte in dit project.
