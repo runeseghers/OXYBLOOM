@@ -71,7 +71,7 @@ Voor het ontwerp van ons product nemen we de beste elementen uit de huidige mark
 
 Vernieuwing en Toevoegingen
 
-In plaats van een scherm krijgt ons product bewegende elementen die de luchtkwaliteit visueel maken. Het product werkt volledig zelfstandig zonder verplichte app-afhankelijkheid, wat de drempel voor ouderen en minder technisch aangelegden verlaagt. De gebruiker leert op een begrijpelijke manier hoe vochtbeheersing direct leidt tot lagere stookkosten. ([rapport](https://docs.google.com/document/d/12xce8BJE52bgFbQwACKA-BeoK-U8daDStCAenrfK3ME/edit?tab=t.0))
+Ons product zal bewegende elementen hebben die de luchtkwaliteit visueel maken. Het bijkomende scherm is enkel ter informatie en niet als hoofdoplossing om de lucktkwaliteit te visualiseren. Het product werkt volledig zelfstandig zonder verplichte app-afhankelijkheid, wat de drempel voor ouderen en minder technisch aangelegden verlaagt. De gebruiker leert op een begrijpelijke manier hoe vochtbeheersing direct leidt tot lagere stookkosten. ([rapport](https://docs.google.com/document/d/12xce8BJE52bgFbQwACKA-BeoK-U8daDStCAenrfK3ME/edit?tab=t.0))
 
 ### Enquête
 Uit de enquête kwamen enkele opvallende resultaten, de drie belangrijkste worden hieronder kort besproken.
