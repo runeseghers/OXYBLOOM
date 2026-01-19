@@ -102,6 +102,10 @@ Een ruime meerderheid van 79,8% staat open voor de oplossing, en meer dan een kw
 Verder zijn er nog andere vragen gesteld. ([rapport](https://docs.google.com/document/d/1lkF2mxv8E-GvEGbEEImv3dyBfMGQf3W1utyAzGHfSRQ/edit?tab=t.0))
 
 ## Doelgroep
+<p align="left">
+  <img src="../img/survey 1 jpg.jpg" width="50%">
+  <img src="../img/survey 1 jpg.jpg" width="50%">
+</p>
 Uit de enquëte is gebleken dat 40,4% van de mensen doorluchters zijn en 34,6% energiebespaarders. Hieruit is dus besloten dat de doelgroepen waarop er zal gefocust worden huishoudens zijn die overventileren en daardoor continu warmte en enrgie verliezen en huishoudens die energie willen besparen.
 
 ## Conclusies & implicaties
