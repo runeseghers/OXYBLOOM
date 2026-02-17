@@ -1,5 +1,5 @@
 # Oxybloom
-Een slimme bloem die huishoudens helpt om de luchtkwaliteit te verbeteren
+Een slimme bloem die huishoudens helpt om de luchtkwaliteit te verbeteren.
 
 🛠️ Built by ``Dré Devaere`` & ``Rune Seghers``   
 🔥 Supervised by ``prof. dr. Bas Baccarne``, ``Yannick Christiaens`` & ``Wouter Devriese``    
