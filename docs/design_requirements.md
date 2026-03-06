@@ -4,11 +4,10 @@
 |:---|:---|:---|:---:|
 |**Algemeen**|
 |1|Het product kan de luchtkwaliteit in een binnenruimte meten.|[Literatuuronderzoek](https://docs.google.com/document/d/1AfcCo7FvvEoZ-1zk95RXVjzMou38a-mL8L6_zgns-Gg/edit?tab=t.0)|✅|
-|2|Het product kan real-time feedback geven op luchtkwaliteit. |[Literatuuronderzoek](https://docs.google.com/document/d/1AfcCo7FvvEoZ-1zk95RXVjzMou38a-mL8L6_zgns-Gg/edit?tab=t.0)|⚠️|
-|3|Het product kan gas kunnen meten.|[Interviews](https://docs.google.com/document/d/1SwhVlLS8_lIYlqKu6CdZsSIWJLKw36k-8GklZlpGox8/edit?usp=sharing)|❌|
-|4|Het product moet betaalbaar zijn.|[Interviews](https://docs.google.com/document/d/1SwhVlLS8_lIYlqKu6CdZsSIWJLKw36k-8GklZlpGox8/edit?usp=sharing), [Enquête](https://docs.google.com/forms/d/e/1FAIpQLSccWiVOp48grHZ2cQGmuoxTeAmDsEP0Rcj8K9Pg0Ig58J9OUA/viewform), [Rapport](https://docs.google.com/document/d/12xce8BJE52bgFbQwACKA-BeoK-U8daDStCAenrfK3ME/edit?tab=t.0)|❌|
-|5|De bloem is esthetisch aanvaardbaar om permanent zichtbaar te zijn in een woonruimte.|[Interviews](https://docs.google.com/document/d/1SwhVlLS8_lIYlqKu6CdZsSIWJLKw36k-8GklZlpGox8/edit?usp=sharing)|⚠️|
-|6|Het product kan stand-alone functioneren zonder verplichte app.|[Interviews](https://docs.google.com/document/d/1SwhVlLS8_lIYlqKu6CdZsSIWJLKw36k-8GklZlpGox8/edit?usp=sharing)|⚠️|
+|2|Het product kan onmiddellijk feedback geven wanneer de luchtkwaliteit verandert. |[Literatuuronderzoek](https://docs.google.com/document/d/1AfcCo7FvvEoZ-1zk95RXVjzMou38a-mL8L6_zgns-Gg/edit?tab=t.0)|⚠️|
+|3|Het product heeft een kostprijs die geschikt is voor consumentenproducten voor thuisgebruik.|[Interviews](https://docs.google.com/document/d/1SwhVlLS8_lIYlqKu6CdZsSIWJLKw36k-8GklZlpGox8/edit?usp=sharing), [Enquête](https://docs.google.com/forms/d/e/1FAIpQLSccWiVOp48grHZ2cQGmuoxTeAmDsEP0Rcj8K9Pg0Ig58J9OUA/viewform), [Rapport](https://docs.google.com/document/d/12xce8BJE52bgFbQwACKA-BeoK-U8daDStCAenrfK3ME/edit?tab=t.0)|❌|
+|4|De bloem is esthetisch aanvaardbaar om permanent zichtbaar te zijn in een woonruimte.|[Interviews](https://docs.google.com/document/d/1SwhVlLS8_lIYlqKu6CdZsSIWJLKw36k-8GklZlpGox8/edit?usp=sharing)|⚠️|
+|5|Het product kan stand-alone functioneren zonder verplichte app.|[Interviews](https://docs.google.com/document/d/1SwhVlLS8_lIYlqKu6CdZsSIWJLKw36k-8GklZlpGox8/edit?usp=sharing)|⚠️|
 |**Deelaspect**|
 |1.1|Het product kan de luchtvochtigheid meten.|[Interviews](https://docs.google.com/document/d/1SwhVlLS8_lIYlqKu6CdZsSIWJLKw36k-8GklZlpGox8/edit?usp=sharing)|✅|
 |1.2|Het product kan het CO₂-gehalte meten.|[Interviews](https://docs.google.com/document/d/1SwhVlLS8_lIYlqKu6CdZsSIWJLKw36k-8GklZlpGox8/edit?usp=sharing)|✅|
@@ -25,8 +24,8 @@
 |1|Het product kan een bloem gebruiken als metafoor om luchtkwaliteit te communiceren.|[Interviews](https://docs.google.com/document/d/1SwhVlLS8_lIYlqKu6CdZsSIWJLKw36k-8GklZlpGox8/edit?usp=sharing)|✅|
 |2|Het product kan een beloningssysteem bevatten.|[Interviews](https://docs.google.com/document/d/1SwhVlLS8_lIYlqKu6CdZsSIWJLKw36k-8GklZlpGox8/edit?usp=sharing)|✅|
 |3|Het product kan speels zijn zodat het aantrekkelijk is voor kinderen.|[Interviews](https://docs.google.com/document/d/1SwhVlLS8_lIYlqKu6CdZsSIWJLKw36k-8GklZlpGox8/edit?usp=sharing)|❌|
-|4|Het product kan via zonnepanelen en interne batterij zelfvoorzienend zijn.|[Interviews](https://docs.google.com/document/d/1SwhVlLS8_lIYlqKu6CdZsSIWJLKw36k-8GklZlpGox8/edit?usp=sharing)|⚠️|
-|5|Er kunnen knoppen op de bloem komen: aan/uit, helderheid en geluidssignaal.|[Interviews](https://docs.google.com/document/d/1SwhVlLS8_lIYlqKu6CdZsSIWJLKw36k-8GklZlpGox8/edit?usp=sharing)|✅|
+|4|Het product kan functioneren zonder constante externe stroomvoorziening.|[Interviews](https://docs.google.com/document/d/1SwhVlLS8_lIYlqKu6CdZsSIWJLKw36k-8GklZlpGox8/edit?usp=sharing)|⚠️|
+|5|De gebruiker kan het product aan- en uitzetten en instellingen aanpassen.|[Interviews](https://docs.google.com/document/d/1SwhVlLS8_lIYlqKu6CdZsSIWJLKw36k-8GklZlpGox8/edit?usp=sharing)|✅|
 |6|De bloem kan te bedienen zijn via een app en via de knoppen op de bloem zelf.|[Interviews](https://docs.google.com/document/d/1SwhVlLS8_lIYlqKu6CdZsSIWJLKw36k-8GklZlpGox8/edit?usp=sharing)|✅|
 |7|Er kan een scherm op de bloem komen.|[Interviews](https://docs.google.com/document/d/1SwhVlLS8_lIYlqKu6CdZsSIWJLKw36k-8GklZlpGox8/edit?usp=sharing)|❌|
 |8|Er kan een app beschikbaar zijn.|[Interviews](https://docs.google.com/document/d/1SwhVlLS8_lIYlqKu6CdZsSIWJLKw36k-8GklZlpGox8/edit?usp=sharing)|✅|
@@ -35,5 +34,5 @@
 |2.1|Streak-systeem: visualisatie van voortgang via stengelgroei.|[Interviews](https://docs.google.com/document/d/1SwhVlLS8_lIYlqKu6CdZsSIWJLKw36k-8GklZlpGox8/edit?usp=sharing)|✅|
 |2.2|Bloemetjes & kleuren vrijspelen: motivatie en personalisatie.|[Interviews](https://docs.google.com/document/d/1SwhVlLS8_lIYlqKu6CdZsSIWJLKw36k-8GklZlpGox8/edit?usp=sharing)|✅|
 |2.3|Wallet: inzicht in theoretische energie- of geldbesparing.|[Interviews](https://docs.google.com/document/d/1SwhVlLS8_lIYlqKu6CdZsSIWJLKw36k-8GklZlpGox8/edit?usp=sharing)|✅|
-|3.1|De bloem moet een ruistige continu beweging maken.|[Interviews](https://docs.google.com/document/d/1SwhVlLS8_lIYlqKu6CdZsSIWJLKw36k-8GklZlpGox8/edit?usp=sharing)|⚠️|
+|3.1|De bloem maakt een rustige, continue beweging.|[Interviews](https://docs.google.com/document/d/1SwhVlLS8_lIYlqKu6CdZsSIWJLKw36k-8GklZlpGox8/edit?usp=sharing)|⚠️|
 |8.1|Op de app kunnen de beloningssystemen ter beschikking komen.|[Interviews](https://docs.google.com/document/d/1SwhVlLS8_lIYlqKu6CdZsSIWJLKw36k-8GklZlpGox8/edit?usp=sharing)|✅|
