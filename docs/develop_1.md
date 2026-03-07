@@ -5,11 +5,13 @@
 - Testen of de bloem primair gezien wordt als een gezondheidsmonitor.
 ##Materiaal & methoden
 Tijdens deze fases worden verschillende methodologieën toegepast, waaronder:
-- Storyboarding
+  ###Storyboarding
   <p align="left">
   <img src="../img/storyboard.png" width="50%">
 </p>
   
 - Brainstorming
 - Prototyping
-- Gebruikerstesten(WOz)
+###Gebruikerstesten(WOz)
+Het doel van deze test is te onderzoeken of voice feedback geschikt is om de status van een woning weer te geven en hoe deze het beste kan worden aangeboden. We kijken of voice feedback op zichzelf voldoende is of beter werkt in combinatie met een visuele interface. Daarnaast vergelijken we een neutrale stem met een meer persoonlijke stem en beoordelen we of extra kosten voor batterij en zonnepanelen de moeite waard zijn. Tot slot toetsen we of gebruikers het primaire doel van het product – het tonen van de gezondheid van het huis – ondersteunen of dat energiebesparing en financiële voordelen belangrijker worden gevonden.
+Dit werd gedaan met het nieuwe prototype met de WOz methode
