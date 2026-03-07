@@ -6,6 +6,9 @@
 ##Materiaal & methoden
 Tijdens deze fases worden verschillende methodologieën toegepast, waaronder:
 - Storyboarding
+  <p align="left">
+  <img src="../img/storyboard.png" width="50%">
+</p>
   
 - Brainstorming
 - Prototyping
