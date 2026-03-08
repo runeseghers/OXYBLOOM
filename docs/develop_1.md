@@ -4,7 +4,7 @@
 - Is de kost van de batterij en de zonnepanelen de moeite waard?
 - Wordt de bloem primair gezien als: gezondheidsmonitor
 ## Materiaal & methoden
-Tijdens deze fases worden verschillende methodologieën toegepast, waaronder:
+Om de werking van het product en de interacties ervan inzichtelijk te maken, werden verschillende analyse- en ontwerpbenaderingen toegepast. We begonnen met het opstellen van storyboards om typische gebruiksscenario’s te visualiseren en de interacties in kaart te brengen. Daarnaast is een morfologische kaart opgesteld om mogelijke variaties in functies, componenten en interacties systematisch te onderzoeken. Op basis hiervan zijn diverse structuren uitgewerkt die de logica en onderliggende redenering van het product verduidelijken.
 
 ### Storyboarding
   <p align="left">
