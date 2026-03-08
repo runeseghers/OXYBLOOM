@@ -31,8 +31,9 @@ Het product werkt energiebesparend en draagt bij aan een gezonder binnenklimaat.
 1. [Methodologie](./docs/methodologie.md)
 2. [Discovery](./docs/discovery.md)
 3. [Defintion](./docs/definition.md)
-4. [Design Requirements](./docs/design_requirements.md)
-5. [Bill of materials](./docs/bom.md)
+4. [Defintion](./docs/develop_1.md)
+5. [Design Requirements](./docs/design_requirements.md)
+6. [Bill of materials](./docs/bom.md)
 
 ## Kritische reflectie
 Tijdens het eerste semester van dit project staan we momenteel redelijk goed en zijn we tevreden over wat we al verricht hebben. We zijn blij met de kwaliteit van de prototypes die we in het eerste deel van het proces hebben ontwikkeld. Deze prototypes tonen aan dat we onze ideeën stap voor stap hebben kunnen omzetten naar concrete en werkbare oplossingen. Het begin van het project was uitdagend, vooral door het aftasten van de juiste aanpak en het maken van keuzes. Gaandeweg hebben we echter geleerd om beter te plannen, te testen en bij te sturen waar nodig. Aan het einde van het eerste semester kunnen we stellen dat het project niet alleen inhoudelijk vooruitgang heeft geboekt, maar ook bijgedragen heeft aan ons leerproces. We hebben waardevolle inzichten opgedaan in prototyping, samenwerking en probleemoplossend denken, wat dit project tot een leerrijke ervaring maakt.
