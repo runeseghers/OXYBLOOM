@@ -1,12 +1,12 @@
 # Develop 1
 ## Onderzoeksvragen
-- Kan ons product de status van je huis tonen doormiddel van voice feedback na aandacht trekken?
+- Kan ons product de status van je huis tonen door middel van voice feedback na aandacht trekken?
 - Is de kost van de batterij en de zonnepanelen de moeite waard?
-- Wordt de bloem primair gezien als gezondheidsmonitor
+- Wordt de bloem primair gezien als een gezondheidsmonitor
 ## Materiaal & methoden
 Om de werking van het product en de interacties inzichtelijk te maken, werden verschillende analyse- en ontwerpbenaderingen toegepast. We begonnen met het opstellen van storyboards om typische gebruiksscenario’s te visualiseren en de interacties in kaart te brengen. Daarnaast is een morfologische kaart opgesteld om mogelijke variaties in functies, componenten en interacties systematisch te onderzoeken. Op basis hiervan zijn diverse structuren uitgewerkt die de logica en onderliggende redenering van het product verduidelijken.
 
-Extra uitleg over onderstaande methoden is te vinden in de [Figma](https://www.figma.com/board/dso4iWV8H6f9n6ebzgw1lw/Les-2?node-id=0-1&p=f&t=9HAwHbptUp6RO2Ts-0).
+Extra uitleg over onderstaande methoden is te vinden in [Figma](https://www.figma.com/board/dso4iWV8H6f9n6ebzgw1lw/Les-2?node-id=0-1&p=f&t=9HAwHbptUp6RO2Ts-0).
 
 ### Storyboarding
   <p align="left">
@@ -17,7 +17,7 @@ Extra uitleg over onderstaande methoden is te vinden in de [Figma](https://www.f
 Voor ons Minimum Viable Product focussen we op: 
 1. De bloem kan de luchtkwaliteit meten.
 2. De bloem kan aandacht trekken en visueel feedback geven.
-3. Het kan de gebruiker activeren
+3. De bloem kan de gebruiker activeren
 
 ### Morfologische kaart
 | Functie                                       | Variant 1                  | Variant 2                      | Variant 3                     | Variant 4                                | Variant 5          |
@@ -77,7 +77,7 @@ Daarnaast gaf dit nieuwe prototype ons ook de mogelijkheid om al verder na te de
   <img src="../img/prototype 2 bloem 4.png" width="24%">
 </p>
 
-Er werd gestart met een standaard bloempot waarin een speaker werd geplaatst. De bladeren werden gelasercut en bevestigd aan een 3D-geprint scharnier. De bladen bewegen door het touwtje dat word samen getrokken. Daarnaast werden LED’s toegevoegd aan de binnenkant van de pot en aan de bovenste bladeren om extra visuele feedback te creëren.
+Er werd gestart met een standaard bloempot waarin een speaker werd geplaatst. De bladeren werden gelasercut en bevestigd aan een 3D-geprint scharnier. De bladen bewegen door het touwtje dat wordt samen getrokken. Daarnaast werden LED’s toegevoegd aan de binnenkant van de pot en aan de bovenste bladeren om extra visuele feedback te creëren.
 ### Gebruikerstesten(WOz)
 Met het nieuwe prototype zijn testen uitgevoerd volgens de Wizard of Oz-methode, waarbij vijf respondenten hebben deelgenomen. Het doel was onderzoeken of voice feedback geschikt is om de status van een woning of de luchtkwaliteit weer te geven en op welke wijze deze het beste kan worden aangeboden. We hebben gekeken of voice feedback op zichzelf voldoende is, of dat het beter werkt in combinatie met een visuele interface. Daarnaast is een neutrale stem vergeleken met een meer persoonlijke stem.
 
@@ -102,7 +102,7 @@ Minder knoppen verhoogt gebruiksgemak.
 Twee knoppen werden soms als verwarrend ervaren. Volgens de meeste testpersonen is één knop voldoende om informatie op te vragen. Extra informatie kan via de app worden gegeven.
 
 Flexibele stroomvoorziening heeft de voorkeur.
-Veel gebruikers verkiezen een oplaadbare batterij, eventueel met zonnepanelen. Dit maakt het product flexibeler en energiezuinig. Anderen verkiezen een stekker vanwege de betrouwbaarheid. Gebruiksgemak en flexibiliteit blijken belangrijker dan de laagste kostprijs. En omdat je zonnepanelen niet overal in huis even goed werken wordt de flexibiliteit weer minder dus zal gekozen worden voor enkel een oplaadbare batterij.
+Veel gebruikers verkiezen een oplaadbare batterij, eventueel met zonnepanelen. Dit maakt het product flexibeler en energiezuinig. Anderen verkiezen een stekker vanwege de betrouwbaarheid. Gebruiksgemak en flexibiliteit blijken belangrijker dan de laagste kostprijs. Omdat zonnepanelen niet overal in huis even goed werken, wordt de flexibiliteit kleiner. Daarom wordt gekozen voor enkel een oplaadbare batterij.
 
 Testpersonen gaven aan dat gezondheid belangrijker is dan financiële besparing. Het product wordt dus vooral gezien als een gezondheidsmonitor voor de woning, waarbij energiebesparing een bijkomend voordeel is.
 
