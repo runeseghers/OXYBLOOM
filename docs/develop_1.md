@@ -40,7 +40,12 @@ Om de werking van het product en de interacties inzichtelijk te maken, werden ve
 <p align="left">
   <img src="../img/Productarchitectuur.png" width="100%">
 </p>
-  
+
+### User flow
+<p align="left">
+  <img src="../img/Schermafbeelding 2026-03-08 204633.png" width="100%">
+</p>
+
 ### Brainstorming
 Na de feedback op de tweede deelopdracht is besloten om de focus niet langer op kinderen te leggen. Onze job to be done is duidelijker geworden: het product richt zich nu op het behouden van een gezonde luchtkwaliteit. Hierdoor is ook de doelgroep gewijzigd. Voorheen richtten we ons op mensen zonder ventilatiesysteem die geld willen besparen; nu kan ook iemand met een ventilatiesysteem het product begrijpen en gebruiken.
 Om dit te ondersteunen is de app-interface aangepast: de lay-out is grotendeels vernieuwd, de prioriteit ligt nu op gezonde luchtkwaliteit, en gebruikers kunnen hun ventilatie koppelen aan het product.
