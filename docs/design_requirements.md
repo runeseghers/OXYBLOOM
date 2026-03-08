@@ -39,13 +39,13 @@
 |ID|Design Requirement Develop 1|Source|Status|
 |:---|:---|:---|:---:|
 |**Algemeen**|
-|1|Het product moet de status van het huis kunnen communiceren via voice feedback.|[Analyse Test Develop 1](https://docs.google.com/document/d/18PjJ0K22VwaZccacPXWkhhGwo1DeL2UdXLAWv1GZMLM/edit?tab=t.0)|✅|
+|1|Het product kan de status van de luchtkwaliteit kunnen communiceren via voice feedback.|[Analyse Test Develop 1](https://docs.google.com/document/d/18PjJ0K22VwaZccacPXWkhhGwo1DeL2UdXLAWv1GZMLM/edit?tab=t.0)|✅|
 |2|Het product moet een knop bevatten waarmee de gebruiker voice feedback kan activeren.|[Analyse Test Develop 1](https://docs.google.com/document/d/18PjJ0K22VwaZccacPXWkhhGwo1DeL2UdXLAWv1GZMLM/edit?tab=t.0)|✅|
-|3|Gedetailleerde informatie moet beschikbaar zijn via een applicatie.|[Analyse Test Develop 1](https://docs.google.com/document/d/18PjJ0K22VwaZccacPXWkhhGwo1DeL2UdXLAWv1GZMLM/edit?tab=t.0)|❌|
-|4|Het product kan flexibel geplaatst worden in een woning.|[Analyse Test Develop 1](https://docs.google.com/document/d/18PjJ0K22VwaZccacPXWkhhGwo1DeL2UdXLAWv1GZMLM/edit?tab=t.0)|⚠️|
+|3|Gedetailleerde informatie kan beschikbaar zijn via een applicatie.|[Analyse Test Develop 1](https://docs.google.com/document/d/18PjJ0K22VwaZccacPXWkhhGwo1DeL2UdXLAWv1GZMLM/edit?tab=t.0)|❌|
+|4|Het product kan flexibel overal geplaatst worden in een woning.|[Analyse Test Develop 1](https://docs.google.com/document/d/18PjJ0K22VwaZccacPXWkhhGwo1DeL2UdXLAWv1GZMLM/edit?tab=t.0)|⚠️|
 |5|Het product bevat een systeem met oplaadbare batterij|[Analyse Test Develop 1](https://docs.google.com/document/d/18PjJ0K22VwaZccacPXWkhhGwo1DeL2UdXLAWv1GZMLM/edit?tab=t.0)|❌|
 |6|Het primaire doel van het product kan het tonen van de gezondheid van de woning zijn.|[Analyse Test Develop 1](https://docs.google.com/document/d/18PjJ0K22VwaZccacPXWkhhGwo1DeL2UdXLAWv1GZMLM/edit?tab=t.0)|✅|
-|7|Energiebesparing moet worden gepresenteerd als een bijkomend voordeel.|[Analyse Test Develop 1](https://docs.google.com/document/d/18PjJ0K22VwaZccacPXWkhhGwo1DeL2UdXLAWv1GZMLM/edit?tab=t.0)|✅|
+|7|Energiebesparing kan worden gepresenteerd als een bijkomend voordeel.|[Analyse Test Develop 1](https://docs.google.com/document/d/18PjJ0K22VwaZccacPXWkhhGwo1DeL2UdXLAWv1GZMLM/edit?tab=t.0)|✅|
 |**Deelaspect**|
 |1.1|De voice feedback kan kort, duidelijk en neutraal geformuleerd zijn.|[Analyse Test Develop 1](https://docs.google.com/document/d/18PjJ0K22VwaZccacPXWkhhGwo1DeL2UdXLAWv1GZMLM/edit?tab=t.0)|✅|
 |1.2|De voice feedback kan voldoende informatie geven om een actie te kunnen uitvoeren.|[Analyse Test Develop 1](https://docs.google.com/document/d/18PjJ0K22VwaZccacPXWkhhGwo1DeL2UdXLAWv1GZMLM/edit?tab=t.0)|✅|
