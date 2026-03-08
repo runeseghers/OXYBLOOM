@@ -9,6 +9,7 @@ Tijdens deze fases worden verschillende methodologieën toegepast, waaronder:
 <p align="left">
   <img src="../img/Human Product interaction.png" width="100%">
 </p>
+
 ### Storyboarding
   <p align="left">
   <img src="../img/storyboard.png" width="50%">
