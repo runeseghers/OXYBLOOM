@@ -24,7 +24,7 @@ Daarnaast gaf dit nieuwe prototype ons ook de mogelijkheid om al verder na te de
 
 Er werd gestart met een standaard bloempot waarin een speaker werd geplaatst. De bladeren werden gelasercut en bevestigd aan een 3D-geprint scharnier. De bladen bewegen door het touwtje dat word samen getrokken. Daarnaast werden LED’s toegevoegd aan de binnenkant van de pot en aan de bovenste bladeren om extra visuele feedback te creëren.
 ### Gebruikerstesten(WOz)
-Met het nieuwe prototype zijn testen uitgevoerd volgens de Wizard of Oz-methode. Het doel was te onderzoeken of voice feedback geschikt is om de status van een woning weer te geven en op welke wijze deze het beste kan worden aangeboden. We hebben gekeken of voice feedback op zichzelf voldoende is, of dat het beter werkt in combinatie met een visuele interface. Daarnaast is een neutrale stem vergeleken met een meer persoonlijke stem.
+Met het nieuwe prototype zijn testen uitgevoerd volgens de Wizard of Oz-methode, waarbij vijf respondenten hebben deelgenomen. Het doel was onderzoeken of voice feedback geschikt is om de status van een woning of de luchtkwaliteit weer te geven en op welke wijze deze het beste kan worden aangeboden. We hebben gekeken of voice feedback op zichzelf voldoende is, of dat het beter werkt in combinatie met een visuele interface. Daarnaast is een neutrale stem vergeleken met een meer persoonlijke stem.
 
 Tijdens de test vroegen we gebruikers om de twee nieuwe knoppen te bedienen die de voice feedback activeren. De speaker werd vervolgens via een laptop aangestuurd met vooraf ingestelde zinnen. Na afloop onderzochten we via interviews hoe de gebruikers de feedback hebben ervaren.
 
