@@ -11,6 +11,10 @@ Tijdens deze fases worden verschillende methodologieën toegepast, waaronder:
 </p>
   
 ### Brainstorming
+Focus op kinderen verleggen...
+Job to be done anders definieren ...
+interface wat aanpassen maar niet testen omdat het niet de hoofd prioritijd is ...
+
 ### Prototyping
 In plaats van het eerste prototype verder aan te passen, werd ervoor gekozen om een nieuw prototype te maken. Het eerste prototype was vooral bedoeld om het basisidee te verkennen, maar bleek minder geschikt om terug gebruikstesten mee uit te voeren.
 Met het nieuwe prototype konden deelnemers zich beter inbeelden hoe het uiteindelijke product zou functioneren in een echte situatie.
