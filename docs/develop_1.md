@@ -6,12 +6,15 @@
 ## Materiaal & methoden
 Om de werking van het product en de interacties inzichtelijk te maken, werden verschillende analyse- en ontwerpbenaderingen toegepast. We begonnen met het opstellen van storyboards om typische gebruiksscenario’s te visualiseren en de interacties in kaart te brengen. Daarnaast is een morfologische kaart opgesteld om mogelijke variaties in functies, componenten en interacties systematisch te onderzoeken. Op basis hiervan zijn diverse structuren uitgewerkt die de logica en onderliggende redenering van het product verduidelijken.
 
-Extra uitleg over onderstaande methoden is te vinden in de [Figma](https://www.figma.com/board/dso4iWV8H6f9n6ebzgw1lw/Les-2?node-id=0-1&p=f&t=9HAwHbptUp6RO2Ts-0)
+Extra uitleg over onderstaande methoden is te vinden in de [Figma](https://www.figma.com/board/dso4iWV8H6f9n6ebzgw1lw/Les-2?node-id=0-1&p=f&t=9HAwHbptUp6RO2Ts-0).
 
 ### Storyboarding
   <p align="left">
   <img src="../img/storyboard.png" width="50%">
 </p>
+
+### MVP-defenitie
+Voor ons Minimum Viable Product (MVP) focussen we op de kernfunctionaliteiten die nodig zijn om het concept van de “Gezond Huis Bloem” te testen. Het prototype kan de luchtkwaliteit meten en deze informatie op een begrijpelijke manier communiceren naar de gebruiker. De bloem trekt de aandacht van de gebruiker en geeft visuele feedback via kleur en beweging van de bladeren. Op deze manier wordt de gebruiker bewust gemaakt van de luchtkwaliteit in huis en gestimuleerd om actie te ondernemen wanneer dit nodig is.
 
 ### Morfologische kaart
 | Functie                                       | Variant 1                  | Variant 2                      | Variant 3                     | Variant 4                                | Variant 5          |
