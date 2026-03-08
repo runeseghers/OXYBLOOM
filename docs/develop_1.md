@@ -67,3 +67,4 @@ Testpersonen gaven aan dat gezondheid belangrijker is dan financiële besparing.
 
 7. Extra observaties
 Suggesties uit de tests zijn onder andere lichtsignalen voor extra aandacht, meldingen bij een lege batterij en speelse interacties zoals water geven aan de bloem.
+### Conclusies
