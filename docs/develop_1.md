@@ -26,6 +26,11 @@ Tijdens deze fases worden verschillende methodologieën toegepast, waaronder:
 | Lichtfeedback     | RGB LED                    | LED ring                  | Zonnepanelen+ batterij        | Zonnepanelen + oplaadbare batterij       | Wegwerp batterijen |
 | Gebruikers input  | Drukknoppen                | Draaiknop                 | Touch oppervlak               | App                                      |                    |
 | Connectiviteit    | Bluetooth                  | Wifi                      |                               |                                          |                    |
+### HTA
+<p align="left">
+  <img src="../img/HTA.png" width="100%">
+</p>
+
 ### Human Product Interaction
 <p align="left">
   <img src="../img/Human Product interaction.png" width="100%">
