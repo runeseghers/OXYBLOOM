@@ -14,7 +14,10 @@ Extra uitleg over onderstaande methoden is te vinden in de [Figma](https://www.f
 </p>
 
 ### MVP-defenitie
-Voor ons Minimum Viable Product focussen we op de kernfunctionaliteiten die nodig zijn om het concept van de “Gezond Huis Bloem” te testen. Het prototype kan de luchtkwaliteit meten en deze informatie op een begrijpelijke manier communiceren naar de gebruiker. De bloem trekt de aandacht van de gebruiker en geeft visuele feedback via kleur en beweging van de bladeren. Op deze manier wordt de gebruiker bewust gemaakt van de luchtkwaliteit in huis en gestimuleerd om actie te ondernemen wanneer dit nodig is.
+Voor ons Minimum Viable Product focussen we op: 
+1. De bloem kan de luchtkwaliteit meten.
+2. De bloem kan aandacht trekken en visueel feedback geven.
+3. Het kan de gebruiker activeren
 
 ### Morfologische kaart
 | Functie                                       | Variant 1                  | Variant 2                      | Variant 3                     | Variant 4                                | Variant 5          |
