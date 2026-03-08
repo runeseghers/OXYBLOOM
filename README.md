@@ -62,7 +62,7 @@ AI werd gebruikt om inspiratie te verkrijgen over bestaande apparaten, zodat dez
   * [Rapport](https://docs.google.com/document/d/1fPvEVBDay3pfUAcs47p9CDcH445wIs4vGXjvJl6ddqQ/edit?tab=t.0#heading=h.91kt9wm5brsg)
 
 ### Develop 1
-* User testing (N=6)
+* User testing (N=5)
   *  [Protocol]()
   *  [Rapport](https://docs.google.com/document/d/18PjJ0K22VwaZccacPXWkhhGwo1DeL2UdXLAWv1GZMLM/edit?tab=t.0)
 
