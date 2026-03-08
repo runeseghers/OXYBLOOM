@@ -6,6 +6,8 @@
 ## Materiaal & methoden
 Om de werking van het product en de interacties inzichtelijk te maken, werden verschillende analyse- en ontwerpbenaderingen toegepast. We begonnen met het opstellen van storyboards om typische gebruiksscenario’s te visualiseren en de interacties in kaart te brengen. Daarnaast is een morfologische kaart opgesteld om mogelijke variaties in functies, componenten en interacties systematisch te onderzoeken. Op basis hiervan zijn diverse structuren uitgewerkt die de logica en onderliggende redenering van het product verduidelijken.
 
+Extra uitleg over onderstaande methoden is te vinden in de [Figma](https://www.figma.com/board/dso4iWV8H6f9n6ebzgw1lw/Les-2?node-id=0-1&p=f&t=9HAwHbptUp6RO2Ts-0)
+
 ### Storyboarding
   <p align="left">
   <img src="../img/storyboard.png" width="50%">
