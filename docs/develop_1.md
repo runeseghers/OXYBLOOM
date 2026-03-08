@@ -100,3 +100,8 @@ Suggesties uit de tests zijn onder andere lichtsignalen voor extra aandacht, mel
 
 
 ### Conclusies
+De onderzoeken en tests tonen aan dat het product zijn doel kan vervullen als gezondheidsmonitor voor de woning. Voice feedback blijkt een effectieve manier om gebruikers te informeren over de status van hun huis en de luchtkwaliteit. Korte, neutrale meldingen werken het best, terwijl een scherm niet noodzakelijk is.
+
+Gebruikers geven de voorkeur aan een eenvoudige bediening met één knop en een flexibele stroomvoorziening, zoals een oplaadbare batterij. De nadruk ligt duidelijk op het behouden van een gezonde leefomgeving, terwijl energiebesparing een secundair voordeel vormt.
+
+Daarnaast geven de testresultaten waardevolle inzichten voor verdere ontwikkeling: lichte visuele signalen, meldingen bij een lege batterij. Het prototype en de methoden (storyboards, morfologische kaart, Wizard of Oz-testen) hebben geholpen om de logica van het product te begrijpen en de ontwerpbeslissingen te onderbouwen.
