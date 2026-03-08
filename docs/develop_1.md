@@ -58,7 +58,6 @@ Om dit te ondersteunen is de app-interface aangepast: de lay-out is grotendeels 
 
 [app](https://www.figma.com/make/fhidNDvgxg0OYUNvX4qFZW/Interface-met-knoppen-en-kleuren?p=f&t=GiYPhHDJfWDRmSYa-0)
 
-
 ### Prototyping
 In plaats van het eerste prototype verder aan te passen, werd ervoor gekozen om een nieuw prototype te maken. Het eerste prototype was vooral bedoeld om het basisidee te verkennen, maar bleek minder geschikt om terug gebruikstesten mee uit te voeren.
 Met het nieuwe prototype konden deelnemers zich beter inbeelden hoe het uiteindelijke product zou functioneren in een echte situatie.
