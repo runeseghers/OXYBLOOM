@@ -41,7 +41,7 @@ Na de feedback op de tweede deelopdracht is besloten om de focus niet langer op 
 Om dit te ondersteunen is de app-interface aangepast: de lay-out is grotendeels vernieuwd, de prioriteit ligt nu op gezonde luchtkwaliteit, en gebruikers kunnen hun ventilatie koppelen aan het product.
   <p align="left">
   <img src="../img/Schermafbeelding 2026-03-08 151541.png" width="50%">
-  <img src="../img/Schermafbeelding 2026-03-08 151623.png" width="45%">
+  <img src="../img/Schermafbeelding 2026-03-08 151623.png" width="40%">
   <img src="../img/Schermafbeelding 2026-03-08 151650.png" width="50%">
   <img src="../img/Schermafbeelding 2026-03-08 151610.png" width="45%">
 </p>
