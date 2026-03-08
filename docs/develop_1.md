@@ -33,3 +33,27 @@ Verder zijn verschillende voedingsmogelijkheden en de bijbehorende kosten (zoals
   <img src="../img/user testing d3 1.png" width="45%">
   <img src="../img/user testing d3 2.png" width="45%">
 </p>
+
+### Resultaten
+
+
+1. Voice feedback is een bruikbare manier om informatie te geven
+Uit de tests blijkt dat voice feedback geschikt is om de status van de woning te communiceren. Vier van de vijf testpersonen konden op basis van de boodschap een actie ondernemen, zoals verluchten. De feedback moet wel kort, duidelijk en eenvoudig zijn.
+
+2. Korte en neutrale voice feedback werkt het best
+Alle testpersonen gaven de voorkeur aan korte en neutrale feedback. Een langere en meer persoonlijke stem werd minder positief ervaren omdat dit minder efficiënt aanvoelt en soms als “bepamperend”.
+
+3. Een scherm op het product is niet nodig
+De meeste testpersonen vonden een scherm overbodig. Het kan esthetisch storend zijn en moeilijk leesbaar in zonlicht. Voice feedback gecombineerd met een app wordt als voldoende gezien.
+
+4. Minder knoppen verhoogt gebruiksgemak
+Twee knoppen werden soms als verwarrend ervaren. Volgens de meeste testpersonen is één knop voldoende om informatie op te vragen. Extra informatie kan via de app worden gegeven.
+
+5. Flexibele stroomvoorziening heeft de voorkeur
+Veel gebruikers verkiezen een oplaadbare batterij, eventueel met zonnepanelen. Dit maakt het product flexibeler en energiezuinig. Anderen verkiezen een stekker vanwege de betrouwbaarheid. Gebruiksgemak en flexibiliteit blijken belangrijker dan de laagste kostprijs. En omdat je zonnepanelen niet overal in huis even goed werken wordt de flexibiliteit weer minder dus zal gekozen worden voor een oplaadbare batterij.
+
+6. De ontwerpvisie klopt
+Testpersonen gaven aan dat gezondheid belangrijker is dan financiële besparing. Het product wordt dus vooral gezien als een gezondheidsmonitor voor de woning, waarbij energiebesparing een bijkomend voordeel is.
+
+7. Extra observaties
+Suggesties uit de tests zijn onder andere lichtsignalen voor extra aandacht, meldingen bij een lege batterij en speelse interacties zoals water geven aan de bloem.
