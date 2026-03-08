@@ -73,4 +73,20 @@ Testpersonen gaven aan dat gezondheid belangrijker is dan financiële besparing.
 
 7. Extra observaties
 Suggesties uit de tests zijn onder andere lichtsignalen voor extra aandacht, meldingen bij een lege batterij en speelse interacties zoals water geven aan de bloem.
+
+### Morfologische kaart
+| Functie                                       | Variant 1                  | Variant 2                      | Variant 3                     | Variant 4                                | Variant 5          |
+|-----------------------------------------------|----------------------------|--------------------------------|-------------------------------|------------------------------------------|--------------------|
+| Meten van luchtkwaliteit                      | CO2 sensor                 | CO2 en luchtvochtigheid sensor | Multisensor(CO2, vocht, temp) | Modulaire sensor                         |                    |
+| Hoofdfeedback(luchtkwaliteit zichtbaar maken) | Kleurverandering           | Openen/sluiten bloem           | Combinatie: kleur en beweging | Pushmelding in app                       | Haptische feedback |
+| Activering                                    | Voice feedback             | Tekst in app                   | Tekst op scherm               |                                          |                    |
+| Motivatie                                     | Wallet(besparing van geld) | Streak-systeem                 | Unlockbare kleuren            | Combinatie van wallet, streak en kleuren |                    |
+| Energie voorziening                           | Kabel met stekker          | Interne batterij               | Zonnepanelen+ batterij        | Zonnepanelen + oplaadbare batterij       | Wegwerp batterijen |
+| CO2 meting        | infrarood sensor           | chemische gassensor       | Multigas sensor               | Externe sensor unit                      |                    |
+| Vocht meting      | Capacitatieve sensor       | Resistieve sensor         | Combinatie: kleur en beweging | Pushmelding in app                       | Haptische feedback |
+| Temperatuurmeting | Digitale temperatuursensor | analoge temperatuursensor | infrarood topmeting           |                                          |                    |
+| Motor             | Servo motor                | Stappen motor             | Unlockbare kleuren            | Combinatie van wallet, streak en kleuren |                    |
+| Lichtfeedback     | RGB LED                    | LED ring                  | Zonnepanelen+ batterij        | Zonnepanelen + oplaadbare batterij       | Wegwerp batterijen |
+| Gebruikers input  | Drukknoppen                | Draaiknop                 | Touch oppervlak               | App                                      |                    |
+| Connectiviteit    | Bluetooth                  | Wifi                      |                               |                                          |                    |
 ### Conclusies
