@@ -55,6 +55,8 @@ Om dit te ondersteunen is de app-interface aangepast: de lay-out is grotendeels 
   <img src="../img/Schermafbeelding 2026-03-08 151650.png" width="50%">
   <img src="../img/Schermafbeelding 2026-03-08 151610.png" width="47%">
 </p>
+[app](https://www.figma.com/make/fhidNDvgxg0OYUNvX4qFZW/Interface-met-knoppen-en-kleuren?p=f&t=GiYPhHDJfWDRmSYa-0)
+[Interviewprotocol – Test Develop 1](https://docs.google.com/document/d/14uV6BEjJ6iHEM_Fh3N6zzjam72_YUCfdtqbi0Aa-V18/edit?tab=t.0)
 
 ### Prototyping
 In plaats van het eerste prototype verder aan te passen, werd ervoor gekozen om een nieuw prototype te maken. Het eerste prototype was vooral bedoeld om het basisidee te verkennen, maar bleek minder geschikt om terug gebruikstesten mee uit te voeren.
