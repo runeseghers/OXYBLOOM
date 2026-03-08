@@ -16,10 +16,11 @@ Tijdens deze fases worden verschillende methodologieën toegepast, waaronder:
 </p>
   
 ### Brainstorming
-Focus op kinderen verleggen...
-Job to be done anders definieren ... en daardoor doelgroep aanpassen ...
-interface wat aanpassen maar niet testen omdat het niet de hoofd prioritijd is ...
-
+Na de feedback op de tweede deelopdracht is besloten om de focus niet langer op kinderen te leggen. Onze job to be done is duidelijker geworden: het product richt zich nu op het behouden van een gezonde luchtkwaliteit. Hierdoor is ook de doelgroep gewijzigd. Voorheen richtten we ons op mensen zonder ventilatiesysteem die geld willen besparen; nu kan ook iemand met een ventilatiesysteem het product begrijpen en gebruiken.
+Om dit te ondersteunen is de app-interface aangepast: de lay-out is grotendeels vernieuwd, de prioriteit ligt nu op gezonde luchtkwaliteit, en gebruikers kunnen hun ventilatie koppelen aan het product.
+  <p align="left">
+  <img src="../img/" width="50%">
+</p>
 
 ### Prototyping
 In plaats van het eerste prototype verder aan te passen, werd ervoor gekozen om een nieuw prototype te maken. Het eerste prototype was vooral bedoeld om het basisidee te verkennen, maar bleek minder geschikt om terug gebruikstesten mee uit te voeren.
