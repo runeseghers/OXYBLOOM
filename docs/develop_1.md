@@ -29,3 +29,7 @@ Met het nieuwe prototype zijn testen uitgevoerd volgens de Wizard of Oz-methode,
 Tijdens de test vroegen we gebruikers om de twee nieuwe knoppen te bedienen die de voice feedback activeren. De speaker werd vervolgens via een laptop aangestuurd met vooraf ingestelde zinnen. Na afloop onderzochten we via interviews hoe de gebruikers de feedback hebben ervaren.
 
 Verder zijn verschillende voedingsmogelijkheden en de bijbehorende kosten (zoals batterijen en zonnepanelen) besproken om de voorkeur van de gebruiker te bepalen. Tot slot is de nieuwe 'Job to be Done' geëvalueerd om te bepalen of gebruikers de 'gezondheid' van het huis als belangrijkste doel zien, of dat zij meer waarde hechten aan energiebesparing en financiële voordelen.
+<p align="left">
+  <img src="../img/user testing d3 1.png" width="45%">
+  <img src="../img/user testing d3 2.png" width="45%">
+</p>
