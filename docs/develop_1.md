@@ -5,6 +5,10 @@
 - Testen of de bloem primair gezien wordt als een gezondheidsmonitor.
 ## Materiaal & methoden
 Tijdens deze fases worden verschillende methodologieën toegepast, waaronder:
+### Human Product Interaction
+<p align="left">
+  <img src="../img/storyboard.png" width="100%">
+</p>
 ### Storyboarding
   <p align="left">
   <img src="../img/storyboard.png" width="50%">
