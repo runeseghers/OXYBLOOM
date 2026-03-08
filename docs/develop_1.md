@@ -28,7 +28,7 @@ Om de werking van het product en de interacties inzichtelijk te maken, werden ve
 | Connectiviteit    | Bluetooth                  | Wifi                      |                               |                                          |                    |
 ### HTA
 <p align="left">
-  <img src="../img/Schermafbeelding 2026-03-08 194015.png" width="100%">
+  <img src="../img/Schermafbeelding 2026-03-08 195621.png" width="100%">
 </p>
 
 ### Human Product Interaction
