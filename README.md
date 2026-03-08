@@ -31,7 +31,7 @@ Het product werkt energiebesparend en draagt bij aan een gezonder binnenklimaat.
 1. [Methodologie](./docs/methodologie.md)
 2. [Discovery](./docs/discovery.md)
 3. [Defintion](./docs/definition.md)
-4. [Defintion](./docs/develop_1.md)
+4. [Develop 1](./docs/develop_1.md)
 5. [Design Requirements](./docs/design_requirements.md)
 6. [Bill of materials](./docs/bom.md)
 
