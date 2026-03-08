@@ -40,7 +40,10 @@ Tijdens deze fases worden verschillende methodologieën toegepast, waaronder:
 Na de feedback op de tweede deelopdracht is besloten om de focus niet langer op kinderen te leggen. Onze job to be done is duidelijker geworden: het product richt zich nu op het behouden van een gezonde luchtkwaliteit. Hierdoor is ook de doelgroep gewijzigd. Voorheen richtten we ons op mensen zonder ventilatiesysteem die geld willen besparen; nu kan ook iemand met een ventilatiesysteem het product begrijpen en gebruiken.
 Om dit te ondersteunen is de app-interface aangepast: de lay-out is grotendeels vernieuwd, de prioriteit ligt nu op gezonde luchtkwaliteit, en gebruikers kunnen hun ventilatie koppelen aan het product.
   <p align="left">
-  <img src="../img/" width="50%">
+  <img src="../img/Schermafbeelding 2026-03-08 151541.png" width="40%">
+  <img src="../img/Schermafbeelding 2026-03-08 151610.png" width="40%">
+  <img src="../img/Schermafbeelding 2026-03-08 151623.png" width="40%">
+  <img src="../img/Schermafbeelding 2026-03-08 151650.png" width="40%">
 </p>
 
 ### Prototyping
