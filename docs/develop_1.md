@@ -4,7 +4,7 @@
 - Is de kost van de batterij en de zonnepanelen de moeite waard?
 - Wordt de bloem primair gezien als gezondheidsmonitor
 ## Materiaal & methoden
-Om de werking van het product en de interacties ervan inzichtelijk te maken, werden verschillende analyse- en ontwerpbenaderingen toegepast. We begonnen met het opstellen van storyboards om typische gebruiksscenario’s te visualiseren en de interacties in kaart te brengen. Daarnaast is een morfologische kaart opgesteld om mogelijke variaties in functies, componenten en interacties systematisch te onderzoeken. Op basis hiervan zijn diverse structuren uitgewerkt die de logica en onderliggende redenering van het product verduidelijken.
+Om de werking van het product en de interacties inzichtelijk te maken, werden verschillende analyse- en ontwerpbenaderingen toegepast. We begonnen met het opstellen van storyboards om typische gebruiksscenario’s te visualiseren en de interacties in kaart te brengen. Daarnaast is een morfologische kaart opgesteld om mogelijke variaties in functies, componenten en interacties systematisch te onderzoeken. Op basis hiervan zijn diverse structuren uitgewerkt die de logica en onderliggende redenering van het product verduidelijken.
 
 ### Storyboarding
   <p align="left">
@@ -76,31 +76,25 @@ Verder zijn verschillende voedingsmogelijkheden en de bijbehorende kosten (zoals
 
 ### Resultaten
 
-
-1. Voice feedback is een bruikbare manier om informatie te geven
 Uit de tests blijkt dat voice feedback geschikt is om de status van de woning te communiceren. Vier van de vijf testpersonen konden op basis van de boodschap een actie ondernemen, zoals verluchten. De feedback moet wel kort, duidelijk en eenvoudig zijn.
 
-2. Korte en neutrale voice feedback werkt het best
 Alle testpersonen gaven de voorkeur aan korte en neutrale feedback. Een langere en meer persoonlijke stem werd minder positief ervaren omdat dit minder efficiënt aanvoelt en soms als “bepamperend”.
 
-3. Een scherm op het product is niet nodig
 De meeste testpersonen vonden een scherm overbodig. Het kan esthetisch storend zijn en moeilijk leesbaar in zonlicht. Voice feedback gecombineerd met een app wordt als voldoende gezien.
 
-4. Minder knoppen verhoogt gebruiksgemak
+Minder knoppen verhoogt gebruiksgemak.
 Twee knoppen werden soms als verwarrend ervaren. Volgens de meeste testpersonen is één knop voldoende om informatie op te vragen. Extra informatie kan via de app worden gegeven.
 
-5. Flexibele stroomvoorziening heeft de voorkeur
-Veel gebruikers verkiezen een oplaadbare batterij, eventueel met zonnepanelen. Dit maakt het product flexibeler en energiezuinig. Anderen verkiezen een stekker vanwege de betrouwbaarheid. Gebruiksgemak en flexibiliteit blijken belangrijker dan de laagste kostprijs. En omdat je zonnepanelen niet overal in huis even goed werken wordt de flexibiliteit weer minder dus zal gekozen worden voor een oplaadbare batterij.
+Flexibele stroomvoorziening heeft de voorkeur.
+Veel gebruikers verkiezen een oplaadbare batterij, eventueel met zonnepanelen. Dit maakt het product flexibeler en energiezuinig. Anderen verkiezen een stekker vanwege de betrouwbaarheid. Gebruiksgemak en flexibiliteit blijken belangrijker dan de laagste kostprijs. En omdat je zonnepanelen niet overal in huis even goed werken wordt de flexibiliteit weer minder dus zal gekozen worden voor enkel een oplaadbare batterij.
 
-6. De ontwerpvisie klopt
 Testpersonen gaven aan dat gezondheid belangrijker is dan financiële besparing. Het product wordt dus vooral gezien als een gezondheidsmonitor voor de woning, waarbij energiebesparing een bijkomend voordeel is.
 
-7. Extra observaties
 Suggesties uit de tests zijn onder andere lichtsignalen voor extra aandacht, meldingen bij een lege batterij en speelse interacties zoals water geven aan de bloem.
 
 
 ### Conclusies
-De onderzoeken en tests tonen aan dat het product zijn doel kan vervullen als gezondheidsmonitor voor de woning. Voice feedback blijkt een effectieve manier om gebruikers te informeren over de status van hun huis en de luchtkwaliteit. Korte, neutrale meldingen werken het best, terwijl een scherm niet noodzakelijk is.
+De onderzoeken en tests tonen aan dat het product zijn doel kan vervullen als gezondheidsmonitor voor de woning. Voice feedback blijkt een effectieve manier om gebruikers te informeren over de status van hun huis en de luchtkwaliteit. Korte, neutrale boodschappen werken het best, terwijl een scherm niet noodzakelijk is.
 
 Gebruikers geven de voorkeur aan een eenvoudige bediening met één knop en een flexibele stroomvoorziening, zoals een oplaadbare batterij. De nadruk ligt duidelijk op het behouden van een gezonde leefomgeving, terwijl energiebesparing een secundair voordeel vormt.
 
