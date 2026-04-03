@@ -5,7 +5,7 @@ const int stepsPerRevolution = 2048;
 Stepper myStepper(stepsPerRevolution, 8, 10, 9, 11);
 
 void setup() {
-  myStepper.setSpeed(15);
+  myStepper.setSpeed(10);
   Serial.begin(9600);
   
   Serial.println("Systeem start op... Kalibreren.");
