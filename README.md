@@ -69,6 +69,10 @@ AI werd gebruikt om inspiratie te verkrijgen over bestaande apparaten, zodat dez
   *  [Protocol](https://docs.google.com/document/d/14uV6BEjJ6iHEM_Fh3N6zzjam72_YUCfdtqbi0Aa-V18/edit?tab=t.0)
   *  [Rapport](https://docs.google.com/document/d/18PjJ0K22VwaZccacPXWkhhGwo1DeL2UdXLAWv1GZMLM/edit?tab=t.0)
 
+### Develop 2
+* [Antropometrische Analyse](https://docs.google.com/document/d/1EPGG9i6jSZKGZ7VrqN3QsUSug69F0fZezZaDpOkvLG0/edit?tab=t.0)
+* [Enquête](https://docs.google.com/document/d/19_CdSDRdH0FaFUVYFXiZnsAKY0Y2GnrCZgDpmhAUXtg/edit?tab=t.0)
+  
 ## Licentie
 
 This repository contains both software and design materials created as part of an industrial design energineering project at Ghent University.
