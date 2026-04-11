@@ -1,4 +1,7 @@
 # Develop 2
+## Antropometrische Analyse
+De afmetingen van het product werden bepaald op basis van antropometrische gegevens (DINED) en volgen zowel design for the small als design for the mean. De bloempot werd compacter gemaakt zodat ook gebruikers met kleinere handen deze comfortabel met twee handen kunnen vastnemen. De rand werd geoptimaliseerd voor een precision grip (duim en wijsvinger), wat zorgt voor betere controle en comfort. De knoppen zijn afgestemd op de gemiddelde vingerdikte, waardoor ze nauwkeurig en zonder fouten bediend kunnen worden. Deze combinatie resulteert in een ergonomisch en gebruiksvriendelijk ontwerp voor een brede doelgroep. De volledige analyse is te vinden in [antropometrische analyse](https://docs.google.com/document/d/1EPGG9i6jSZKGZ7VrqN3QsUSug69F0fZezZaDpOkvLG0/edit?tab=t.0).
+Hieronder zijn ook nog enkele afbeeldingen van de touch points te vinden.
 ## Enquête
 De enquête biedt duidelijke inzichten in de voorkeuren van gebruikers op vlak van esthetiek en functionaliteit van een bloempot. In het algemeen blijkt dat er een sterke voorkeur is voor eenvoudige, strakke en moderne ontwerpen. Hoewel ook organische vormen enige interesse opwekken, blijven minimalistische designs duidelijk dominant.
 
