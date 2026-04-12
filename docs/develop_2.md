@@ -48,3 +48,12 @@ Tot slot blijkt dat er interesse is in het concept, maar dat eenvoud en gebruiks
 Samengevat moet het ontwerp inzetten op minimalisme, neutrale kleuren, gebruiksvriendelijkheid en integratie in het interieur om optimaal aan te sluiten bij de verwachtingen van de gebruiker.
 
 De volledige analyse van de enquête is te vinden in [analyse enquête](https://docs.google.com/document/d/19_CdSDRdH0FaFUVYFXiZnsAKY0Y2GnrCZgDpmhAUXtg/edit?tab=t.0).
+## Gebruikerstest 
+We hebben gebruikerstests gedaan om de gebruiksvriendelijkheid te verbeteren. Hierbij stonden het type knoppen en hun positie centraal. Ook hebben we de nieuwe luchtbevochtiger-functie bevraagd. Het idee hiervoor ontstond tijdens het programmeren van de Arduino en het bouwen van de hardware, toen we merkten dat de luchtvochtigheid vaak te laag was. Omdat de meeste mensen geen luchtbevochtiger in huis hebben, stelden we voor om deze in de pot te verwerken.
+### Doel
+Het doel van deze test is het evalueren en bepalen van:
+- Welke positie van knoppen het meest gebruiksvriendelijk is 
+- Voorkeur druk of draaiknoppen
+- Welke soort drukknoppen de voorkeur krijgt
+- Of een luchtbevochtiger een eventuele frustratie van de gebruiker kan verhelpen
+
