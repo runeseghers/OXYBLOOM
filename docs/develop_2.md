@@ -29,24 +29,25 @@ Door een enquête uit te voeren kon duidelijke inzichten in de voorkeuren van ge
   <p align="left">
   <img src="../img/KLEUR.png" width="50%">
 </p>
-Op vlak van kleurgebruik scoren neutrale en zachte tinten het best. Kleuren zoals soft sandstone, wit en zwart worden als veelzijdig ervaren en passen in verschillende interieurs. Dit wordt versterkt door het feit dat een meerderheid van de respondenten het belangrijk vindt dat de bloempot visueel aansluit bij hun bestaande inrichting.
+Op vlak van kleurgebruik scoren neutrale en zachte tinten het best. Kleuren zoals soft sandstone en marmerwit worden als veelzijdig ervaren en passen in verschillende interieurs. Dit wordt versterkt door het feit dat een meerderheid van de respondenten het belangrijk vindt dat de bloempot visueel aansluit bij hun bestaande inrichting.
 
   <p align="left">
   <img src="../img/TEXTUUR.png" width="50%">
 </p>
-Wat betreft vorm en textuur blijkt dat simpele geometrische vormen, zoals cilindrische en conische bloempotten, het meest aanspreken. Daarnaast is er een duidelijke voorkeur voor matte afwerkingen en subtiele texturen, zoals ribbelstructuren. Dit toont aan dat gebruikers detail waarderen, zolang het niet te opvallend of storend is.
+Wat betreft vorm en textuur blijkt dat simpele geometrische vormen, zoals cilindrische, conische bloempotten en vaas vormige bloempotten het meest aanspreken. Daarnaast is er een duidelijke voorkeur voor matte afwerkingen en subtiele texturen, zoals ribbelstructuren.
 
   <p align="left">
   <img src="../img/GROOTTE.png" width="50%">
 </p>
-De bloempot wordt voornamelijk gezien als een functioneel en subtiel object, eerder dan een eyecatcher. De meeste respondenten geven de voorkeur aan een formaat dat geschikt is voor kleinere planten en dat eenvoudig geplaatst kan worden op een kast, tafel of vensterbank.
+De bloempot wordt voornamelijk gezien als een functioneel en subtiel object, eerder dan een eyecatcher. De meeste respondenten geven de voorkeur aan een formaat dat geschikt is voor middelgrote planten en dat eenvoudig geplaatst kan worden op een kast, tafel of vensterbank.
 
   <p align="left">
   <img src="../img/CONCEPT.png" width="50%">
 </p>
 Tot slot blijkt dat er interesse is in het concept, maar dat eenvoud en gebruiksgemak centraal blijven staan. Gebruikers verkiezen een afgewerkt product boven een modulair systeem en zijn bereid een nieuwe bloempot aan te schaffen wanneer ze verandering willen.
 
-Samengevat moet het ontwerp inzetten op minimalisme, neutrale kleuren, gebruiksvriendelijkheid en integratie in het interieur om optimaal aan te sluiten bij de verwachtingen van de gebruiker.
+Uit deze resulaten worden 3 concepten gevormd waaruit gebruikers kunnen kiezen tijdens de aankoop.
+
 
 De volledige analyse van de enquête is te vinden in [analyse enquête](https://docs.google.com/document/d/19_CdSDRdH0FaFUVYFXiZnsAKY0Y2GnrCZgDpmhAUXtg/edit?tab=t.0).
 ## Gebruikerstesten
