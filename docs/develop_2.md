@@ -72,7 +72,14 @@ Uit de gebruikerstesten blijkt dat:
 - Ingewerkte knoppen het meest aansluiten bij het gewenste design
 - De positie van knoppen een evenwicht moet zijn tussen esthetiek en gebruiksgemak
 
- |Knop   |Positie   |Reden |
+| Knop                                       | Positie                  | Reden                      
+|-----------------------------------------------|----------------------------|--------------------------------|
+| Aan/uit                      | Zijkant van de pot, licht naar de achterzijde gericht            | Makkelijk bereikbaar maar niet zichtbaar van voren | 
+| Voice feedback | Zijkant van de pot, voorkant           | Vaak gebruikt → centraal en zichtbaar    
+| Draaiknop (geluid)                      | In de pot (zijkant, half verborgen)            | Minder gebruikt, esthetisch wegwerken | 
+| Draaiknop (licht) | In de pot (andere zijde)          | Minder gebruikt, esthetisch wegwerken   
+
+
 
 - De luchtbevochtiger een duidelijke meerwaarde biedt en inspeelt op een reëel probleem
 
