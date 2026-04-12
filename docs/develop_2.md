@@ -56,4 +56,12 @@ Het doel van deze test is het evalueren en bepalen van:
 - Voorkeur druk of draaiknoppen
 - Welke soort drukknoppen de voorkeur krijgt
 - Of een luchtbevochtiger een eventuele frustratie van de gebruiker kan verhelpen
+### Prototype
+Tijdens vorige testen in develop 1 werd vastgesteld dat het prototype die toen gebruikt werd voor sommigen verwarring veroorzaakte omdat alles handmatig moest en omdat de voicefeedback met de laptop werd aangestuurd.
+Daarom werd een nieuw prototype gemaakt waarbij alles geautomatiseerd werd. Meer info kan je vinden in ................................. .
 
+Dit is het prototype die gebruikt werd met daarop klittenband zodat de knoppen makkelijk erop en af konden.
+
+  <p align="left">
+  <img src="../img/Schermafbeelding 2026-04-09 200848.png" width="50%">
+</p>
