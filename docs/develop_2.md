@@ -65,6 +65,7 @@ Uit deze resulaten worden 3 concepten gevormd waaruit gebruikers kunnen kiezen t
   Kleur: Marmer wit
   Textuur: Glanzend marmerwit met een subtiele, gladde marmertekening en een hoge glans.
   Beschrijving: Een modern en strak statement-stuk, dat zorgt voor een luxe uitstraling.
+  Hieronder is een render te zien van de 3 concepten.
 
 
   <p align="left">
@@ -85,7 +86,7 @@ Het doel van deze test is het evalueren en bepalen van:
 Tijdens vorige testen in develop 1 werd vastgesteld dat het prototype die toen gebruikt werd voor sommigen verwarring veroorzaakte omdat alles handmatig moest en omdat de voicefeedback met de laptop werd aangestuurd.
 Daarom werd een nieuw prototype gemaakt waarbij alles geautomatiseerd werd. Meer info kan je vinden in [Prototype Develop 2](https://docs.google.com/document/d/1KZKG2nf8R3pGhrNtYaQHk-xGyXQ1loalpgCZGoeq-t4/edit?tab=t.0) .
 
-Dit is het prototype die gebruikt werd met daarop klittenband zodat de knoppen makkelijk erop en af konden.
+Op de afbeelding hieronder kan je het prototype zien die gebruikt werd met daarop klittenband zodat de knoppen makkelijk erop en af konden.
 
   <p align="left">
   <img src="../img/Schermafbeelding 2026-04-09 200848.png" width="50%">
