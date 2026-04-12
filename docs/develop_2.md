@@ -1,4 +1,6 @@
 # Develop 2
+## Doelstellingen
+In deze deelopdracht analyseren we hoe het product zich verhoudt tot de menselijke afmetingen en de gebruikerservaring.
 ## Antropometrische Analyse
 De afmetingen van het product werden bepaald op basis van antropometrische gegevens en volgen zowel design for the small als design for the mean. De bloempot werd compacter gemaakt zodat ook gebruikers met kleinere handen deze comfortabel met twee handen kunnen vastnemen. De rand werd geoptimaliseerd voor een precision grip (duim en wijsvinger), wat zorgt voor betere controle en comfort. De knoppen zijn afgestemd op de gemiddelde vingerdikte, waardoor ze nauwkeurig en zonder fouten bediend kunnen worden. Deze combinatie resulteert in een ergonomisch en gebruiksvriendelijk ontwerp voor een brede doelgroep. De volledige analyse is te vinden in [antropometrische analyse](https://docs.google.com/document/d/1EPGG9i6jSZKGZ7VrqN3QsUSug69F0fZezZaDpOkvLG0/edit?tab=t.0). Alle afmetingen zijn gevonden op [dinbelg](https://www.dinbelg.be/volwassenentotaal.htm).
 
