@@ -48,6 +48,10 @@ Tot slot blijkt dat er interesse is in het concept, maar dat eenvoud en gebruiks
 
 Uit deze resulaten worden 3 concepten gevormd waaruit gebruikers kunnen kiezen tijdens de aankoop.
 
+  <p align="left">
+  <img src="../img/Schermafbeelding 2026-04-12 202738.png" width="50%">
+</p>
+
 
 De volledige analyse van de enquête is te vinden in [analyse enquête](https://docs.google.com/document/d/19_CdSDRdH0FaFUVYFXiZnsAKY0Y2GnrCZgDpmhAUXtg/edit?tab=t.0).
 ## Gebruikerstesten
