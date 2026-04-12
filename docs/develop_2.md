@@ -67,6 +67,7 @@ Dit is het prototype die gebruikt werd met daarop klittenband zodat de knoppen m
   <img src="../img/Schermafbeelding 2026-04-09 200848.png" width="50%">
 </p>
 ### Conclusies
+
 Uit de gebruikerstesten blijkt dat:
 - Draaiknoppen de beste keuze zijn voor instelbare functies
 - Ingewerkte knoppen het meest aansluiten bij het gewenste design
