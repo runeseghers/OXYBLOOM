@@ -23,7 +23,8 @@ Hieronder zijn ook nog enkele afbeeldingen van de touch points te vinden.
 </p>
 
 ## Enquête
-De enquête biedt duidelijke inzichten in de voorkeuren van gebruikers op vlak van esthetiek en functionaliteit van een bloempot. In het algemeen blijkt dat er een sterke voorkeur is voor eenvoudige, strakke en moderne ontwerpen. Hoewel ook organische vormen enige interesse opwekken, blijven minimalistische designs duidelijk dominant.
+Door een enquête uit te voeren kon duidelijke inzichten in de voorkeuren van gebruikers op vlak van esthetiek en functionaliteit van een bloempot verkregen worden. De enquete werd opgesteld door een trendanalyse die eerst werd uitgevoerd met neutrale opties erbij.
+ [Onderzoeksrapport: Esthetische Trendanalyse 2025-2026](https://docs.google.com/document/d/1XbN4_xj7GFptLyKK2W8NfHi_5yDkYqNKcF5txezoNHw/edit?tab=t.0#heading=h.ga6rusatmwly)
 
   <p align="left">
   <img src="../img/KLEUR.png" width="50%">
