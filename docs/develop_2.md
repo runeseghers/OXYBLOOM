@@ -66,6 +66,7 @@ Dit is het prototype die gebruikt werd met daarop klittenband zodat de knoppen m
   <p align="left">
   <img src="../img/Schermafbeelding 2026-04-09 200848.png" width="50%">
 </p>
+
 ### Conclusies
 
 Uit de gebruikerstesten blijkt dat:
@@ -83,4 +84,6 @@ Uit de gebruikerstesten blijkt dat:
 
 
 - De luchtbevochtiger een duidelijke meerwaarde biedt en inspeelt op een reëel probleem
+  
+Meer info zie [Analyse test develop 2](https://docs.google.com/document/d/1LS81rWTh8fn5G55BaOMGvlZr1KS65SzYiV8W_BzbE0Y/edit?tab=t.0) .
 
