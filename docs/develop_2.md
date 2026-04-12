@@ -92,6 +92,11 @@ Op de afbeelding hieronder kan je het prototype zien die gebruikt werd met daaro
   <img src="../img/Schermafbeelding 2026-04-09 200848.png" width="50%">
 </p>
 
+Om confirmation bias te vermijden, hebben we gebruikgemaakt van variety prototyping. Door de knoppen met klittenband op verschillende posities aan te bieden, konden we objectief meten welke lay-out de kortste zoektijd en minste fouten opleverde, in plaats van slechts één vooraf bepaald concept te valideren. Ook werden verschillende drukknoppen voorgesteld.die je kan zien in het protocol.
+### Testen
+
+Tijdens de tests hebben we het Think Aloud Protocol toegepast. Hierdoor kregen we niet alleen inzicht in wat de gebruiker deed, maar ook in de frustraties of onduidelijkheden die zij ervoeren bij het eerste gebruik.
+
 ### Conclusies
 
 Uit de gebruikerstesten blijkt dat:
