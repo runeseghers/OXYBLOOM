@@ -47,6 +47,23 @@ De bloempot wordt voornamelijk gezien als een functioneel en subtiel object, eer
 Tot slot blijkt dat er interesse is in het concept, maar dat eenvoud en gebruiksgemak centraal blijven staan. Gebruikers verkiezen een afgewerkt product boven een modulair systeem en zijn bereid een nieuwe bloempot aan te schaffen wanneer ze verandering willen.
 
 Uit deze resulaten worden 3 concepten gevormd waaruit gebruikers kunnen kiezen tijdens de aankoop.
+Bloempot 1: Landelijk (Rustiek)
+Vorm: Een organische vaasvorm met een brede buik en een tuit.
+Kleur: Soft Sandstone
+Textuur: Mat zandsteen met onregelmatige, handgevormde horizontale ribbels.
+Beschrijving: Een perfecte match voor een landelijk interieur, warm en natuurlijk.
+
+Bloempot 2: Scandinavisch (Minimalistisch)
+Vorm: Een strakke, minimalistische cilinder, geïnspireerd op de pot die je mooi vond in je referentiefoto.
+Kleur: Zwart ( zwart werd niet vaak gekozen maar het is een alternatief die als kleur  in hedendaagse producten veel voorkomt)
+Textuur: Mat zwart met strakke, symmetrische verticale ribbels.
+Beschrijving: Een tijdloos en functioneel ontwerp, typerend voor de Scandinavische stijl.
+Bloempot 3: Modern (Luxueus)
+Vorm: Een strakke V-vorm die naar beneden toe smaller wordt.
+Kleur: Marmer wit
+Textuur: Glanzend marmerwit met een subtiele, gladde marmertekening en een hoge glans.
+Beschrijving: Een modern en strak statement-stuk, dat zorgt voor een luxe uitstraling.
+
 
   <p align="left">
   <img src="../img/Schermafbeelding 2026-04-12 202738.png" width="50%">
