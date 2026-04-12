@@ -23,32 +23,57 @@ Hieronder zijn ook nog enkele afbeeldingen van de touch points te vinden.
 </p>
 
 ## Enquête
-De enquête biedt duidelijke inzichten in de voorkeuren van gebruikers op vlak van esthetiek en functionaliteit van een bloempot. In het algemeen blijkt dat er een sterke voorkeur is voor eenvoudige, strakke en moderne ontwerpen. Hoewel ook organische vormen enige interesse opwekken, blijven minimalistische designs duidelijk dominant.
+Door een enquête uit te voeren kon duidelijke inzichten in de voorkeuren van gebruikers op vlak van esthetiek en functionaliteit van een bloempot verkregen worden. De enquete werd opgesteld door een trendanalyse die eerst werd uitgevoerd met neutrale opties erbij.
+ [Onderzoeksrapport: Esthetische Trendanalyse 2025-2026](https://docs.google.com/document/d/1XbN4_xj7GFptLyKK2W8NfHi_5yDkYqNKcF5txezoNHw/edit?tab=t.0#heading=h.ga6rusatmwly)
 
   <p align="left">
   <img src="../img/KLEUR.png" width="50%">
 </p>
-Op vlak van kleurgebruik scoren neutrale en zachte tinten het best. Kleuren zoals soft sandstone, wit en zwart worden als veelzijdig ervaren en passen in verschillende interieurs. Dit wordt versterkt door het feit dat een meerderheid van de respondenten het belangrijk vindt dat de bloempot visueel aansluit bij hun bestaande inrichting.
+Op vlak van kleurgebruik scoren neutrale en zachte tinten het best. Kleuren zoals soft sandstone en marmerwit worden als veelzijdig ervaren en passen in verschillende interieurs. Dit wordt versterkt door het feit dat een meerderheid van de respondenten het belangrijk vindt dat de bloempot visueel aansluit bij hun bestaande inrichting.
 
   <p align="left">
   <img src="../img/TEXTUUR.png" width="50%">
 </p>
-Wat betreft vorm en textuur blijkt dat simpele geometrische vormen, zoals cilindrische en conische bloempotten, het meest aanspreken. Daarnaast is er een duidelijke voorkeur voor matte afwerkingen en subtiele texturen, zoals ribbelstructuren. Dit toont aan dat gebruikers detail waarderen, zolang het niet te opvallend of storend is.
+Wat betreft vorm en textuur blijkt dat simpele geometrische vormen, zoals cilindrische, conische bloempotten en vaas vormige bloempotten het meest aanspreken. Daarnaast is er een duidelijke voorkeur voor matte afwerkingen en subtiele texturen, zoals ribbelstructuren.
 
   <p align="left">
   <img src="../img/GROOTTE.png" width="50%">
 </p>
-De bloempot wordt voornamelijk gezien als een functioneel en subtiel object, eerder dan een eyecatcher. De meeste respondenten geven de voorkeur aan een formaat dat geschikt is voor kleinere planten en dat eenvoudig geplaatst kan worden op een kast, tafel of vensterbank.
+De bloempot wordt voornamelijk gezien als een functioneel en subtiel object, eerder dan een eyecatcher. De meeste respondenten geven de voorkeur aan een formaat dat geschikt is voor middelgrote planten en dat eenvoudig geplaatst kan worden op een kast, tafel of vensterbank.
 
   <p align="left">
   <img src="../img/CONCEPT.png" width="50%">
 </p>
 Tot slot blijkt dat er interesse is in het concept, maar dat eenvoud en gebruiksgemak centraal blijven staan. Gebruikers verkiezen een afgewerkt product boven een modulair systeem en zijn bereid een nieuwe bloempot aan te schaffen wanneer ze verandering willen.
 
-Samengevat moet het ontwerp inzetten op minimalisme, neutrale kleuren, gebruiksvriendelijkheid en integratie in het interieur om optimaal aan te sluiten bij de verwachtingen van de gebruiker.
+Uit deze resulaten worden 3 concepten gevormd waaruit gebruikers kunnen kiezen tijdens de aankoop.
+
+- Bloempot 1: Landelijk (Rustiek)
+  Vorm: Een organische vaasvorm met een brede buik en een tuit.
+  Kleur: Soft Sandstone
+  Textuur: Mat zandsteen met onregelmatige, handgevormde horizontale ribbels.
+  Beschrijving: Een perfecte match voor een landelijk interieur, warm en natuurlijk.
+
+- Bloempot 2: Scandinavisch (Minimalistisch)
+  Vorm: Een strakke, minimalistische cilinder, geïnspireerd op de pot die je mooi vond in je referentiefoto.
+  Kleur: Zwart ( zwart werd niet vaak gekozen maar het is een alternatief die als kleur  in hedendaagse producten veel voorkomt)
+  Textuur: Mat zwart met strakke, symmetrische verticale ribbels.
+  Beschrijving: Een tijdloos en functioneel ontwerp, typerend voor de Scandinavische stijl.
+
+- Bloempot 3: Modern (Luxueus)
+  Vorm: Een strakke V-vorm die naar beneden toe smaller wordt.
+  Kleur: Marmer wit
+  Textuur: Glanzend marmerwit met een subtiele, gladde marmertekening en een hoge glans.
+  Beschrijving: Een modern en strak statement-stuk, dat zorgt voor een luxe uitstraling.
+
+
+  <p align="left">
+  <img src="../img/Schermafbeelding 2026-04-12 202738.png" width="50%">
+</p>
+
 
 De volledige analyse van de enquête is te vinden in [analyse enquête](https://docs.google.com/document/d/19_CdSDRdH0FaFUVYFXiZnsAKY0Y2GnrCZgDpmhAUXtg/edit?tab=t.0).
-## Gebruikerstest 
+## Gebruikerstesten
 We hebben gebruikerstests (met 6 respondenten) gedaan om de gebruiksvriendelijkheid te verbeteren. Hierbij stonden het type knoppen en hun positie centraal. Ook hebben we de nieuwe luchtbevochtiger-functie bevraagd. Het idee hiervoor ontstond tijdens het programmeren van de Arduino en het bouwen van de hardware, toen we merkten dat de luchtvochtigheid vaak te laag was. Omdat de meeste mensen geen luchtbevochtiger in huis hebben, stelden we voor om deze in de pot te verwerken.
 ### Doel
 Het doel van deze test is het evalueren en bepalen van:
@@ -58,10 +83,33 @@ Het doel van deze test is het evalueren en bepalen van:
 - Of een luchtbevochtiger een eventuele frustratie van de gebruiker kan verhelpen
 ### Prototype
 Tijdens vorige testen in develop 1 werd vastgesteld dat het prototype die toen gebruikt werd voor sommigen verwarring veroorzaakte omdat alles handmatig moest en omdat de voicefeedback met de laptop werd aangestuurd.
-Daarom werd een nieuw prototype gemaakt waarbij alles geautomatiseerd werd. Meer info kan je vinden in ................................. .
+Daarom werd een nieuw prototype gemaakt waarbij alles geautomatiseerd werd. Meer info kan je vinden in [Prototype Develop 2](https://docs.google.com/document/d/1KZKG2nf8R3pGhrNtYaQHk-xGyXQ1loalpgCZGoeq-t4/edit?tab=t.0) .
 
 Dit is het prototype die gebruikt werd met daarop klittenband zodat de knoppen makkelijk erop en af konden.
 
   <p align="left">
   <img src="../img/Schermafbeelding 2026-04-09 200848.png" width="50%">
 </p>
+
+### Conclusies
+
+Uit de gebruikerstesten blijkt dat:
+- Draaiknoppen de beste keuze zijn voor instelbare functies
+- Ingewerkte knoppen het meest aansluiten bij het gewenste design
+- De positie van knoppen een evenwicht moet zijn tussen esthetiek en gebruiksgemak
+
+| Knop                                       | Positie                  | Reden                      
+|-----------------------------------------------|----------------------------|--------------------------------|
+| Aan/uit                      | Zijkant van de pot, licht naar de achterzijde gericht            | Makkelijk bereikbaar maar niet zichtbaar van voren | 
+| Voice feedback | Zijkant van de pot, voorkant           | Vaak gebruikt → centraal en zichtbaar    
+| Draaiknop (geluid)                      | In de pot (zijkant, half verborgen)            | Minder gebruikt, esthetisch wegwerken | 
+| Draaiknop (licht) | In de pot (andere zijde)          | Minder gebruikt, esthetisch wegwerken   
+
+
+
+- De luchtbevochtiger een duidelijke meerwaarde biedt en inspeelt op een reëel probleem
+  Uit de testen in develop 1 gaven sommige gebruikers aan dat water geven aan de plant wel een toffe toevoeging zou zijn.
+  Doordat de plant de lucht kan bevochtigen heeft het ook water nodig en daardoor is er ook een waterreservoir nodig. Dus dit is een extra pluspunt omtrent user experience.
+  
+Meer info zie [Analyse test develop 2](https://docs.google.com/document/d/1LS81rWTh8fn5G55BaOMGvlZr1KS65SzYiV8W_BzbE0Y/edit?tab=t.0) .
+

@@ -71,7 +71,7 @@ AI werd gebruikt om inspiratie te verkrijgen over bestaande apparaten, zodat dez
 
 ### Develop 2
 * [Antropometrische Analyse](https://docs.google.com/document/d/1EPGG9i6jSZKGZ7VrqN3QsUSug69F0fZezZaDpOkvLG0/edit?tab=t.0)
-* [Enquête](https://docs.google.com/document/d/19_CdSDRdH0FaFUVYFXiZnsAKY0Y2GnrCZgDpmhAUXtg/edit?tab=t.0)
+* [Enquête Analyse](https://docs.google.com/document/d/19_CdSDRdH0FaFUVYFXiZnsAKY0Y2GnrCZgDpmhAUXtg/edit?tab=t.0)
   
 ## Licentie
 
