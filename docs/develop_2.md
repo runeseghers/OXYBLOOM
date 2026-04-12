@@ -117,6 +117,9 @@ Afbeeldingen met de knoppen op de juiste plaats kan je hieronder zien.
   <img src="../img/Schermafbeelding 2026-04-12 215053.png" width="40%">
 </p>
 
+  Hierbij hebben is er rekening gehouden met GESTALT-wetten. Wet van Nabijheid (Proximity): De draaiknoppen voor licht en geluid zijn bij elkaar geplaatst en fysiek gescheiden van de aan/uit-knop. Hierdoor herkent de gebruiker ze direct als één functionele groep (sfeer-instellingen). Wet van Gelijkenis (Similarity): Alle instelbare functies maken gebruik van draaiknoppen, terwijl de directe actie-knop een drukknop is. Deze visuele consistentie helpt bij het onmiddellijk categoriseren van functies.
+    
+  
 - De luchtbevochtiger een duidelijke meerwaarde biedt en inspeelt op een reëel probleem
   Uit de testen in develop 1 gaven sommige gebruikers aan dat water geven aan de plant wel een toffe toevoeging zou zijn.
   Omdat de luchtbevochtiger water verbruikt uit het reservoir, wordt het bijvullen een logisch onderdeel van de interactie met de plant. Dus dit is een extra pluspunt omtrent user experience.
