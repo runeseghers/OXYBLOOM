@@ -49,7 +49,7 @@ Tot slot blijkt dat er interesse is in het concept, maar dat eenvoud en gebruiks
 Samengevat moet het ontwerp inzetten op minimalisme, neutrale kleuren, gebruiksvriendelijkheid en integratie in het interieur om optimaal aan te sluiten bij de verwachtingen van de gebruiker.
 
 De volledige analyse van de enquête is te vinden in [analyse enquête](https://docs.google.com/document/d/19_CdSDRdH0FaFUVYFXiZnsAKY0Y2GnrCZgDpmhAUXtg/edit?tab=t.0).
-## Gebruikerstest 
+## Gebruikerstesten
 We hebben gebruikerstests (met 6 respondenten) gedaan om de gebruiksvriendelijkheid te verbeteren. Hierbij stonden het type knoppen en hun positie centraal. Ook hebben we de nieuwe luchtbevochtiger-functie bevraagd. Het idee hiervoor ontstond tijdens het programmeren van de Arduino en het bouwen van de hardware, toen we merkten dat de luchtvochtigheid vaak te laag was. Omdat de meeste mensen geen luchtbevochtiger in huis hebben, stelden we voor om deze in de pot te verwerken.
 ### Doel
 Het doel van deze test is het evalueren en bepalen van:
@@ -66,3 +66,13 @@ Dit is het prototype die gebruikt werd met daarop klittenband zodat de knoppen m
   <p align="left">
   <img src="../img/Schermafbeelding 2026-04-09 200848.png" width="50%">
 </p>
+### Conclusies
+Uit de gebruikerstesten blijkt dat:
+- Draaiknoppen de beste keuze zijn voor instelbare functies
+- Ingewerkte knoppen het meest aansluiten bij het gewenste design
+- De positie van knoppen een evenwicht moet zijn tussen esthetiek en gebruiksgemak
+
+
+
+- De luchtbevochtiger een duidelijke meerwaarde biedt en inspeelt op een reëel probleem
+
