@@ -10,6 +10,7 @@ Ook zijn er usability goals opgesteld:
 - Gebruikers kunnen de interface van het product zonder enige moeite bedienen.
 - Gebruikers kunnen de handelingen die bij het gebruik van de bloempot komen uitvoeren zonder frustraties.
 
+
 ## Antropometrische Analyse
 De afmetingen van het product werden bepaald op basis van antropometrische gegevens en volgen zowel design for the small als design for the mean. De bloempot werd compacter gemaakt zodat ook gebruikers met kleinere handen deze comfortabel met twee handen kunnen vastnemen. De rand werd geoptimaliseerd voor een precision grip (duim en wijsvinger), wat zorgt voor betere controle en comfort. De knoppen zijn afgestemd op de gemiddelde vingerdikte, waardoor ze nauwkeurig en zonder fouten bediend kunnen worden. Deze combinatie resulteert in een ergonomisch en gebruiksvriendelijk ontwerp voor een brede doelgroep. De volledige analyse is te vinden in [antropometrische analyse](https://docs.google.com/document/d/1EPGG9i6jSZKGZ7VrqN3QsUSug69F0fZezZaDpOkvLG0/edit?tab=t.0). Alle afmetingen zijn gevonden op [dinbelg](https://www.dinbelg.be/volwassenentotaal.htm).
 
@@ -83,7 +84,7 @@ Het doel van deze test is het evalueren en bepalen van:
 - Of een luchtbevochtiger een eventuele frustratie van de gebruiker kan verhelpen
 ### Prototype
 Tijdens vorige testen in develop 1 werd vastgesteld dat het prototype die toen gebruikt werd voor sommigen verwarring veroorzaakte omdat alles handmatig moest en omdat de voicefeedback met de laptop werd aangestuurd.
-Daarom werd een nieuw prototype gemaakt waarbij alles geautomatiseerd werd. Meer info kan je vinden in [Prototype Develop 2](https://docs.google.com/document/d/1KZKG2nf8R3pGhrNtYaQHk-xGyXQ1loalpgCZGoeq-t4/edit?tab=t.0) .
+Daarom werd een nieuw prototype gemaakt waarbij alles geautomatiseerd werd. Meer info kan je vinden in [Prototype Develop 2](https://docs.google.com/document/d/1KZKG2nf8R3pGhrNtYaQHk-xGyXQ1loalpgCZGoeq-t4/edit?tab=t.0). De arduino code is te zien bij tests.
 
 Op de afbeelding hieronder kan je het prototype zien die gebruikt werd met daarop klittenband zodat de knoppen makkelijk erop en af konden.
 
