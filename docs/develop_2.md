@@ -72,7 +72,7 @@ Uit de gebruikerstesten blijkt dat:
 - Ingewerkte knoppen het meest aansluiten bij het gewenste design
 - De positie van knoppen een evenwicht moet zijn tussen esthetiek en gebruiksgemak
 
-
+ |Knop   |Positie   |Reden |
 
 - De luchtbevochtiger een duidelijke meerwaarde biedt en inspeelt op een reëel probleem
 
