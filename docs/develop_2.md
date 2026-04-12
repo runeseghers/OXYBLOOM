@@ -1,6 +1,6 @@
 # Develop 2
 ## Doelstellingen
-In deze deelopdracht analyseren we hoe het product zich verhoudt tot de menselijke afmetingen en de gebruikerservaring. Dit doen we voor de bedieningsknoppen en pot waar de bloem in gaat. Door tests wordt bepaald welke knoppen nodig zijn en waar ze geplaatst worden.
+In deze deelopdracht analyseren we hoe het product zich verhoudt tot de menselijke afmetingen en de gebruikerservaring. Dit doen we voor de bedieningsknoppen en pot waar de bloem in gaat. Door tests wordt bepaald:
 - Welke positie van knoppen het meest gebruiksvriendelijk is 
 - Wordt voorkeur gegeven aan druk of draaiknoppen
 - Welke soort drukknoppen krijgt de voorkeur 
