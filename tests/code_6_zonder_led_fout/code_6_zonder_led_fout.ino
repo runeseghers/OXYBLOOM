@@ -52,7 +52,7 @@ void loop() {
   // logica op basis van ppm en vochtigheid
   // goed: Vochtigheid tussen 40 en 60 en CO2 onder 800 ppm
   if (h >= 40 && h <= 60 && ppm < 800 && Positie == 0) {
-    Serial.println("-> STATUS: Lucht is fris. Motor naar stand 1.");
+    Serial.println("Lucht is fris.");
     myStepper.step(-500);
     digitalWrite(redPin, LOW);
     digitalWrite(greenPin, HIGH);
@@ -61,7 +61,7 @@ void loop() {
 
   // niet goed: Vochtigheid onder 40 of boven 60 of CO2 boven 1200 ppm
   else if ((h < 40 || h > 60 || ppm > 1200) && Positie == 1) {
-    Serial.println("-> WAARSCHUWING: Grens overschreden! Terug naar stand 0.");
+    Serial.println("Grens overschreden!");
     myStepper.step(800);
     digitalWrite(redPin, HIGH);
     digitalWrite(greenPin, LOW);
