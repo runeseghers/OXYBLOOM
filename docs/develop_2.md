@@ -111,7 +111,12 @@ Uit de gebruikerstesten blijkt dat:
 | Draaiknop (geluid)                      | In de pot (zijkant, half verborgen)            | Minder gebruikt, esthetisch wegwerken | 
 | Draaiknop (licht) | In de pot (andere zijde)          | Minder gebruikt, esthetisch wegwerken   
 
+Afbeeldingen met de knoppen op de juiste plaats kan je hieronder zien.
 
+  <p align="left">
+  <img src="../img/Schermafbeelding 2026-04-12 215106.png" width="40%">
+  <img src="../img/Schermafbeelding 2026-04-12 215053.png" width="40%">
+</p>
 
 - De luchtbevochtiger een duidelijke meerwaarde biedt en inspeelt op een reëel probleem
   Uit de testen in develop 1 gaven sommige gebruikers aan dat water geven aan de plant wel een toffe toevoeging zou zijn.
