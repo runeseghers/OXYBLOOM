@@ -1,12 +1,12 @@
 # Develop 2
 ## Doelstellingen
-In deze deelopdracht analyseren we hoe het product zich verhoudt tot de menselijke afmetingen en de gebruikerservaring. Dit doen we voor de bedieningsknoppen en pot waar de bloem in gaat. Door tests wordt bepaald welke knoppen nodig zijn en waar ze geplaatst worden.
+In deze deelopdracht analyseren we hoe het product zich verhoudt tot de menselijke afmetingen en de gebruikerservaring. Dit doen we voor de bedieningsknoppen en pot waar de bloem in gaat. Door tests wordt bepaald:
 - Welke positie van knoppen het meest gebruiksvriendelijk is 
 - Wordt voorkeur gegeven aan druk of draaiknoppen
 - Welke soort drukknoppen krijgt de voorkeur 
 - Kan een luchtbevochtiger een eventuele frustratie van de gebruiker kan verhelpen
 
-Usability goals:
+Ook zijn er usability goals opgesteld:
 - Gebruikers kunnen de interface van het product zonder enige moeite bedienen.
 - Gebruikers kunnen de handelingen die bij het gebruik van de bloempot komen uitvoeren zonder frustraties.
 - Een nieuwe gebruiker kan binnen 2 minuten de belangrijkste functies (zoals het instellen van een watergeefschema) begrijpen en configureren zonder de handleiding te raadplegen."
@@ -65,6 +65,7 @@ Uit deze resulaten worden 3 concepten gevormd waaruit gebruikers kunnen kiezen t
   Kleur: Marmer wit
   Textuur: Glanzend marmerwit met een subtiele, gladde marmertekening en een hoge glans.
   Beschrijving: Een modern en strak statement-stuk, dat zorgt voor een luxe uitstraling.
+  Hieronder is een render te zien van de 3 concepten.
 
 
   <p align="left">
@@ -85,11 +86,16 @@ Het doel van deze test is het evalueren en bepalen van:
 Tijdens vorige testen in develop 1 werd vastgesteld dat het prototype die toen gebruikt werd voor sommigen verwarring veroorzaakte omdat alles handmatig moest en omdat de voicefeedback met de laptop werd aangestuurd.
 Daarom werd een nieuw prototype gemaakt waarbij alles geautomatiseerd werd. Meer info kan je vinden in [Prototype Develop 2](https://docs.google.com/document/d/1KZKG2nf8R3pGhrNtYaQHk-xGyXQ1loalpgCZGoeq-t4/edit?tab=t.0) .
 
-Dit is het prototype die gebruikt werd met daarop klittenband zodat de knoppen makkelijk erop en af konden.
+Op de afbeelding hieronder kan je het prototype zien die gebruikt werd met daarop klittenband zodat de knoppen makkelijk erop en af konden.
 
   <p align="left">
   <img src="../img/Schermafbeelding 2026-04-09 200848.png" width="50%">
 </p>
+
+Om confirmation bias te vermijden, hebben we gebruikgemaakt van variety prototyping. Door de knoppen met klittenband op verschillende posities aan te bieden, konden we objectief meten welke lay-out de kortste zoektijd en minste fouten opleverde, in plaats van slechts één vooraf bepaald concept te valideren. Ook werden verschillende drukknoppen voorgesteld.die je kan zien in het protocol.
+### Testen
+
+Tijdens de tests hebben we het Think Aloud Protocol toegepast. Hierdoor kregen we niet alleen inzicht in wat de gebruiker deed, maar ook in de frustraties of onduidelijkheden die zij ervoeren bij het eerste gebruik.
 
 ### Conclusies
 
@@ -105,11 +111,16 @@ Uit de gebruikerstesten blijkt dat:
 | Draaiknop (geluid)                      | In de pot (zijkant, half verborgen)            | Minder gebruikt, esthetisch wegwerken | 
 | Draaiknop (licht) | In de pot (andere zijde)          | Minder gebruikt, esthetisch wegwerken   
 
+Afbeeldingen met de knoppen op de juiste plaats kan je hieronder zien.
 
+  <p align="left">
+  <img src="../img/Schermafbeelding 2026-04-12 215106.png" width="40%">
+  <img src="../img/Schermafbeelding 2026-04-12 215053.png" width="40%">
+</p>
 
 - De luchtbevochtiger een duidelijke meerwaarde biedt en inspeelt op een reëel probleem
   Uit de testen in develop 1 gaven sommige gebruikers aan dat water geven aan de plant wel een toffe toevoeging zou zijn.
-  Doordat de plant de lucht kan bevochtigen heeft het ook water nodig en daardoor is er ook een waterreservoir nodig. Dus dit is een extra pluspunt omtrent user experience.
+  Omdat de luchtbevochtiger water verbruikt uit het reservoir, wordt het bijvullen een logisch onderdeel van de interactie met de plant. Dus dit is een extra pluspunt omtrent user experience.
   
 Meer info zie [Analyse test develop 2](https://docs.google.com/document/d/1LS81rWTh8fn5G55BaOMGvlZr1KS65SzYiV8W_BzbE0Y/edit?tab=t.0) .
 
