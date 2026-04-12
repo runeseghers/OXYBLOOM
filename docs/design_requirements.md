@@ -54,12 +54,12 @@
 |ID|Design Requirement Develop 2|Source|Status|
 |:---|:---|:---|:---:|
 |**Algemeen**|
-|1|Het product verhoogt de luchtvochtigheid op het juiste moment in de ruimte zonder dat de gebruiker hiervoor acties hoeft te ondernemen.|[Analyse Test Develop 1](https://docs.google.com/document/d/18PjJ0K22VwaZccacPXWkhhGwo1DeL2UdXLAWv1GZMLM/edit?tab=t.0)|⚠️|
-|2|Draaiknoppen voor geluid en helderheid maken een nauwkeurige, traploze instelling mogelijk.|[Analyse Test Develop 1](https://docs.google.com/document/d/18PjJ0K22VwaZccacPXWkhhGwo1DeL2UdXLAWv1GZMLM/edit?tab=t.0)|✅|
-|3|De belangrijkste functies van het product blijven bereikbaar ongeacht de fysieke status (geopend/gesloten) van de bloem.|[Analyse Test Develop 1](https://docs.google.com/document/d/18PjJ0K22VwaZccacPXWkhhGwo1DeL2UdXLAWv1GZMLM/edit?tab=t.0)|✅|
-|4|De bedieningselementen zijn visueel geïntegreerd in het ontwerp om de esthetiek van de pot te behouden.|[Analyse Test Develop 1](https://docs.google.com/document/d/18PjJ0K22VwaZccacPXWkhhGwo1DeL2UdXLAWv1GZMLM/edit?tab=t.0)|✅|
+|1|Het product verhoogt de luchtvochtigheid op het juiste moment in de ruimte zonder dat de gebruiker hiervoor acties hoeft te ondernemen.|[Analyse test develop 2](https://docs.google.com/document/d/1LS81rWTh8fn5G55BaOMGvlZr1KS65SzYiV8W_BzbE0Y/edit?tab=t.0)|⚠️|
+|2|Draaiknoppen voor geluid en helderheid maken een nauwkeurige, traploze instelling mogelijk.|[Analyse test develop 2](https://docs.google.com/document/d/1LS81rWTh8fn5G55BaOMGvlZr1KS65SzYiV8W_BzbE0Y/edit?tab=t.0)|✅|
+|3|De belangrijkste functies van het product blijven bereikbaar ongeacht de fysieke status (geopend/gesloten) van de bloem.|[Analyse test develop 2](https://docs.google.com/document/d/1LS81rWTh8fn5G55BaOMGvlZr1KS65SzYiV8W_BzbE0Y/edit?tab=t.0)|✅|
+|4|De bedieningselementen zijn visueel geïntegreerd in het ontwerp om de esthetiek van de pot te behouden.|[Analyse test develop 2](https://docs.google.com/document/d/1LS81rWTh8fn5G55BaOMGvlZr1KS65SzYiV8W_BzbE0Y/edit?tab=t.0)|✅|
 |**Deelaspect**|
-|1.1|Het bijvullen van het waterreservoir sluit aan bij de routine van het verzorgen van een reguliere plant.|[Analyse Test Develop 1](https://docs.google.com/document/d/18PjJ0K22VwaZccacPXWkhhGwo1DeL2UdXLAWv1GZMLM/edit?tab=t.0)|✅|
+|1.1|Het bijvullen van het waterreservoir sluit aan bij de routine van het verzorgen van een reguliere plant.|[Analyse test develop 2](https://docs.google.com/document/d/1LS81rWTh8fn5G55BaOMGvlZr1KS65SzYiV8W_BzbE0Y/edit?tab=t.0)|✅|
 
 
 
