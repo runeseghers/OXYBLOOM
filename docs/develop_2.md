@@ -1,6 +1,16 @@
 # Develop 2
 ## Doelstellingen
-In deze deelopdracht analyseren we hoe het product zich verhoudt tot de menselijke afmetingen en de gebruikerservaring.
+In deze deelopdracht analyseren we hoe het product zich verhoudt tot de menselijke afmetingen en de gebruikerservaring. Dit doen we voor de bedieningsknoppen en pot waar de bloem in gaat. Door tests wordt bepaald welke knoppen nodig zijn en waar ze geplaatst worden.
+- Welke positie van knoppen het meest gebruiksvriendelijk is 
+- Wordt voorkeur gegeven aan druk of draaiknoppen
+- Welke soort drukknoppen krijgt de voorkeur 
+- Kan een luchtbevochtiger een eventuele frustratie van de gebruiker kan verhelpen
+
+Usability goals:
+- Gebruikers kunnen de interface van het product zonder enige moeite bedienen.
+- Gebruikers kunnen de handelingen die bij het gebruik van de bloempot komen uitvoeren zonder frustraties.
+- Een nieuwe gebruiker kan binnen 2 minuten de belangrijkste functies (zoals het instellen van een watergeefschema) begrijpen en configureren zonder de handleiding te raadplegen."
+
 ## Antropometrische Analyse
 De afmetingen van het product werden bepaald op basis van antropometrische gegevens en volgen zowel design for the small als design for the mean. De bloempot werd compacter gemaakt zodat ook gebruikers met kleinere handen deze comfortabel met twee handen kunnen vastnemen. De rand werd geoptimaliseerd voor een precision grip (duim en wijsvinger), wat zorgt voor betere controle en comfort. De knoppen zijn afgestemd op de gemiddelde vingerdikte, waardoor ze nauwkeurig en zonder fouten bediend kunnen worden. Deze combinatie resulteert in een ergonomisch en gebruiksvriendelijk ontwerp voor een brede doelgroep. De volledige analyse is te vinden in [antropometrische analyse](https://docs.google.com/document/d/1EPGG9i6jSZKGZ7VrqN3QsUSug69F0fZezZaDpOkvLG0/edit?tab=t.0). Alle afmetingen zijn gevonden op [dinbelg](https://www.dinbelg.be/volwassenentotaal.htm).
 
@@ -38,3 +48,20 @@ Tot slot blijkt dat er interesse is in het concept, maar dat eenvoud en gebruiks
 Samengevat moet het ontwerp inzetten op minimalisme, neutrale kleuren, gebruiksvriendelijkheid en integratie in het interieur om optimaal aan te sluiten bij de verwachtingen van de gebruiker.
 
 De volledige analyse van de enquête is te vinden in [analyse enquête](https://docs.google.com/document/d/19_CdSDRdH0FaFUVYFXiZnsAKY0Y2GnrCZgDpmhAUXtg/edit?tab=t.0).
+## Gebruikerstest 
+We hebben gebruikerstests (met 6 respondenten) gedaan om de gebruiksvriendelijkheid te verbeteren. Hierbij stonden het type knoppen en hun positie centraal. Ook hebben we de nieuwe luchtbevochtiger-functie bevraagd. Het idee hiervoor ontstond tijdens het programmeren van de Arduino en het bouwen van de hardware, toen we merkten dat de luchtvochtigheid vaak te laag was. Omdat de meeste mensen geen luchtbevochtiger in huis hebben, stelden we voor om deze in de pot te verwerken.
+### Doel
+Het doel van deze test is het evalueren en bepalen van:
+- Welke positie van knoppen het meest gebruiksvriendelijk is 
+- Voorkeur druk of draaiknoppen
+- Welke soort drukknoppen de voorkeur krijgt
+- Of een luchtbevochtiger een eventuele frustratie van de gebruiker kan verhelpen
+### Prototype
+Tijdens vorige testen in develop 1 werd vastgesteld dat het prototype die toen gebruikt werd voor sommigen verwarring veroorzaakte omdat alles handmatig moest en omdat de voicefeedback met de laptop werd aangestuurd.
+Daarom werd een nieuw prototype gemaakt waarbij alles geautomatiseerd werd. Meer info kan je vinden in ................................. .
+
+Dit is het prototype die gebruikt werd met daarop klittenband zodat de knoppen makkelijk erop en af konden.
+
+  <p align="left">
+  <img src="../img/Schermafbeelding 2026-04-09 200848.png" width="50%">
+</p>
