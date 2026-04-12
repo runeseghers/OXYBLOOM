@@ -108,6 +108,7 @@ Uit de gebruikerstesten blijkt dat:
 
 
 - De luchtbevochtiger een duidelijke meerwaarde biedt en inspeelt op een reëel probleem
+  Uit de testen in develop 1 gaven sommige gebruikers aan dat water geven aan de plant wel een toffe toevoeging zou zijn. Doordat de plant de lucht kan bevochtigen heeft het ook water nodig en        daardoor is er ook een waterreservoir nodig. Dus dit is een extra pluspunt omtrent user experience.
   
 Meer info zie [Analyse test develop 2](https://docs.google.com/document/d/1LS81rWTh8fn5G55BaOMGvlZr1KS65SzYiV8W_BzbE0Y/edit?tab=t.0) .
 
