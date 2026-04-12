@@ -59,7 +59,7 @@ Het doel van deze test is het evalueren en bepalen van:
 - Of een luchtbevochtiger een eventuele frustratie van de gebruiker kan verhelpen
 ### Prototype
 Tijdens vorige testen in develop 1 werd vastgesteld dat het prototype die toen gebruikt werd voor sommigen verwarring veroorzaakte omdat alles handmatig moest en omdat de voicefeedback met de laptop werd aangestuurd.
-Daarom werd een nieuw prototype gemaakt waarbij alles geautomatiseerd werd. Meer info kan je vinden in ................................. .
+Daarom werd een nieuw prototype gemaakt waarbij alles geautomatiseerd werd. Meer info kan je vinden in [Prototype Develop 2](https://docs.google.com/document/d/1KZKG2nf8R3pGhrNtYaQHk-xGyXQ1loalpgCZGoeq-t4/edit?tab=t.0) .
 
 Dit is het prototype die gebruikt werd met daarop klittenband zodat de knoppen makkelijk erop en af konden.
 
