@@ -6,7 +6,7 @@ In deze deelopdracht analyseren we hoe het product zich verhoudt tot de menselij
 - Welke soort drukknoppen krijgt de voorkeur 
 - Kan een luchtbevochtiger een eventuele frustratie van de gebruiker kan verhelpen
 
-Usability goals:
+Ook zijn er usability goals opgesteld:
 - Gebruikers kunnen de interface van het product zonder enige moeite bedienen.
 - Gebruikers kunnen de handelingen die bij het gebruik van de bloempot komen uitvoeren zonder frustraties.
 - Een nieuwe gebruiker kan binnen 2 minuten de belangrijkste functies (zoals het instellen van een watergeefschema) begrijpen en configureren zonder de handleiding te raadplegen."
