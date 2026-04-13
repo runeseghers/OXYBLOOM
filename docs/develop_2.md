@@ -30,8 +30,8 @@ In deze analyse werd onderzocht hoe het product intuïtief en gebruiksvriendelij
 
 Daarnaast werd via twee scenario’s (tafelhoogte en kasthoogte) de ergonomie geëvalueerd. Hieruit blijkt dat plaatsing binnen de comfortzone, zoals op tafelhoogte, zorgt voor een natuurlijke en weinig belastende interactie. Een hogere plaatsing leidt tot een minder comfortabele houding en verhoogde belasting. Deze inzichten worden meegenomen om het ontwerp verder te optimaliseren. De volledige analyse is te vinden in [analyse Cognitieve & sensoriële ergonomie](https://docs.google.com/document/d/14Tpjm_-nzv5QVpvWCTsPtru3dEhtzR4EImmXyrPd3Gk/edit?tab=t.0).
   <p align="left">
-  <img src="../img/kast scenario.png" width="50%">
-  <img src="../img/tafel scenario.png" width="50%">
+  <img src="../img/kast scenario.png" width="35%">
+  <img src="../img/tafel scenario.png" width="45%">
 </p>
 
 ## Enquête
