@@ -22,6 +22,18 @@ Hieronder zijn ook nog enkele afbeeldingen van de touch points te vinden.
   <img src="../img/TP4.jpg" width="19%">
 </p>
 
+## Cognitieve & sensoriële ergonomie
+In deze analyse werd onderzocht hoe het product intuïtief en gebruiksvriendelijk kan worden ontworpen. Door gebruik te maken van herkenbare symbolen, kleurcodering en duidelijke knopvormen wordt de cognitieve belasting van de gebruiker beperkt en kan de interface zonder uitleg begrepen worden. 
+  <p align="left">
+  <img src="../img/symbolen.png" width="50%">
+</p>
+
+Daarnaast werd via twee scenario’s (tafelhoogte en kasthoogte) de ergonomie geëvalueerd. Hieruit blijkt dat plaatsing binnen de comfortzone, zoals op tafelhoogte, zorgt voor een natuurlijke en weinig belastende interactie. Een hogere plaatsing leidt tot een minder comfortabele houding en verhoogde belasting. Deze inzichten worden meegenomen om het ontwerp verder te optimaliseren. De volledige analyse is te vinden in [analyse Cognitieve & sensoriële ergonomie](https://docs.google.com/document/d/14Tpjm_-nzv5QVpvWCTsPtru3dEhtzR4EImmXyrPd3Gk/edit?tab=t.0).
+  <p align="left">
+  <img src="../img/kast scenario.png" width="50%">
+  <img src="../img/tafel scenario.png" width="50%">
+</p>
+
 ## Enquête
 Door een enquête uit te voeren kon duidelijke inzichten in de voorkeuren van gebruikers op vlak van esthetiek en functionaliteit van een bloempot verkregen worden. De enquete werd opgesteld door een trendanalyse die eerst werd uitgevoerd met neutrale opties erbij.
  [Onderzoeksrapport: Esthetische Trendanalyse 2025-2026](https://docs.google.com/document/d/1XbN4_xj7GFptLyKK2W8NfHi_5yDkYqNKcF5txezoNHw/edit?tab=t.0#heading=h.ga6rusatmwly)
