@@ -1,6 +1,6 @@
 ## Methodologie
 <p align="left">
-  <img src="../img/Triple Diamond Develop1.png" width="100%">
+  <img src="../img/Triple Diamond Develop2.png" width="100%">
 </p>
 De methodologie volgt het triple diamond ontwerpmodel, bestaande uit vier fasen: discover, define, develop en deliver.
 
@@ -10,4 +10,4 @@ Tijdens de define-fase werden er twee waves afgelegd. Bij de eerste wave was het
 
 In de eerste develop fase werd om de werking van het product en de interacties ervan te onderzoeken, verschillende methoden toegepast. We begonnen met storyboards om gebruiksscenario’s te visualiseren en interacties te identificeren. Vervolgens is een morfologische kaart opgesteld om functies en componenten systematisch te verkennen. Op basis hiervan zijn structuren uitgewerkt en een nieuw prototype gebouwd. De Wizard of Oz-methode werd gebruikt om voice feedback te testen bij gebruikers en inzicht te krijgen in voorkeuren voor bediening en visuele signalen.
 
-In de tweede develop fase werd vooral de focus gelegd op de esthetische waarde van het product en de antropometrie. Er werd een antropometrische analyse uitgevoerd die ons verschillende inzichten gaven. Aan de hand van deze inzichten werd het prototype gemaakt die we gerbuikte in een user test (N=4). Deze test hield in waar de gerbuikers de knoppen zouden plaatsen en welke knoppen ze het liefst zouden willen. Ook werd een enquête gemaakt (N=29). Deze enquête ging over vooral de esthetische waarde van het product.
+In de tweede develop fase werd vooral de focus gelegd op de esthetische waarde van het product en de antropometrie. Er werd een antropometrische analyse uitgevoerd die ons verschillende inzichten gaven. Aan de hand van deze inzichten werd het prototype gemaakt die we gerbuikte in een user test (N=6). Deze test hield in waar de gerbuikers de knoppen zouden plaatsen en welke knoppen ze het liefst zouden willen. Ook werd een enquête gemaakt (N=29). Deze enquête ging over vooral de esthetische waarde van het product.
