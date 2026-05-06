@@ -1,7 +1,6 @@
 #include <Stepper.h>
 #include <DHT.h>
 
-#include "SoftwareSerial.h"
 #include "DFRobotDFPlayerMini.h"
 
 #define DHTPIN A3
@@ -11,23 +10,24 @@ DHT dht(DHTPIN, DHTTYPE);
 const int MQ_PIN = A0;
 const int POT_PIN = A1;
 const int BUTTON_PIN = 2;
-
-const float RO_SCHONE_LUCHT = 69.0;
+//KALIBRATIE 
+const float RO_SCHONE_LUCHT = 69.0; // gemeten waarde bij schone lucht
 const int redPin = 5;
 const int greenPin = 6;
 
 const int stepsPerRevolution = 2048;
 Stepper myStepper(stepsPerRevolution, 8, 10, 9, 11);
 
-
-int statusPositie = 0; 
+// Positie 0 = startpunt, Positie 1 = andere kant
+int Positie = 0; 
+// knipperen
 unsigned long vorigeTijd = 0;
 const long interval = 500; 
 bool ledStatus = false;
 bool systeemAan = true;      
 bool laatsteKnopStaat = LOW;
 
-SoftwareSerial mySoftwareSerial(4, 7);  // RX, TX
+
 DFRobotDFPlayerMini myDFPlayer;
 const int knopPin = A2;
 const int potPin = A5;
@@ -35,7 +35,7 @@ bool laatstStatus = HIGH;
 int laatsteVolume = -1;
 
 void setup() {
-  myStepper.setSpeed(4);
+  myStepper.setSpeed(8); //snelheid nog verlaagd
   Serial.begin(9600);
   dht.begin();
   
@@ -43,16 +43,17 @@ void setup() {
   pinMode(greenPin, OUTPUT);
   pinMode(BUTTON_PIN, INPUT);
 
+  // De motor draait 800 stappen
   myStepper.step(800);
-  statusPositie = 0;
-  Serial.println("Systeem gestart");
+  Positie = 0;
+  Serial.println("Systeem start op... Kalibreren.");
 
   pinMode(knopPin, INPUT_PULLUP);
 
-  mySoftwareSerial.begin(9600);
+  Serial1.begin(9600);
 
 
-  if (!myDFPlayer.begin(mySoftwareSerial)) {
+  if (!myDFPlayer.begin(Serial1)) {
     Serial.println("DFPlayer niet gevonden!");
   }
 
@@ -79,7 +80,11 @@ void loop() {
   laatsteKnopStaat = huidigeKnopStaat;
 
 
-  // --- KNOP ---
+
+
+
+
+  // knop
   bool knopStatus = digitalRead(knopPin);
 
   if (laatstStatus == HIGH && knopStatus == LOW) {
@@ -90,13 +95,13 @@ void loop() {
 
   laatstStatus = knopStatus;
 
-  // --- POTENTIOMETER ---
+  // potentiometer
   int potValue = analogRead(potPin);
 
   // map naar 0–30
   int volume = map(potValue, 0, 1023, 0, 30);
 
-  // alleen aanpassen als het verandert (voorkomt spam)
+  // alleen aanpassen als het verandert
   if (abs(volume - laatsteVolume) >= 1) { 
     myDFPlayer.volume(volume);
     laatsteVolume = volume;
@@ -115,7 +120,7 @@ void loop() {
 
     float ppm = map(co2Raw, RO_SCHONE_LUCHT, 1023, 400, 5000);
 
-    // Monitor (alleen als aan)
+    // Monitor
     static unsigned long lastPrint = 0;
     if(millis() - lastPrint > 800) { // Print 1x per seconde
        Serial.print("Vocht: "); Serial.print(h);
@@ -124,16 +129,16 @@ void loop() {
     }
 
     // Motor
-    if (h >= 30 && h <= 60 && ppm < 800 && statusPositie == 0) {
+    if (h >= 30 && h <= 60 && ppm < 800 && Positie == 0) {
       myStepper.step(-600);
-      statusPositie = 1;
+      Positie = 1;
     } 
-    else if ((h < 30 || h > 60 || ppm > 800) && statusPositie == 1) {
+    else if ((h < 30 || h > 60 || ppm > 800) && Positie == 1) {
       myStepper.step(800);
-      statusPositie = 0;
+      Positie = 0;
     }
 
-    // LED
+    // led 
     if (ppm > 1200) {
       unsigned long huidigeTijd = millis();
       if (huidigeTijd - vorigeTijd >= interval) {
@@ -144,7 +149,7 @@ void loop() {
       else analogWrite(redPin, 0);
       analogWrite(greenPin, 0);
     } else {
-      if (statusPositie == 0) {
+      if (Positie == 0) {
         analogWrite(redPin, helderheid);
         analogWrite(greenPin, 0);
       } else {
