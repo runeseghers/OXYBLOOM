@@ -12,3 +12,34 @@ bool knop1Getest = false;
 bool knop2Getest = false;
 bool pot1Getest = false;
 bool pot2Getest = false;
+
+void loop() {
+
+  // knop 1
+  if (!knop1Getest) {
+    Serial.println("");
+    Serial.println("DRUK OP KNOP 1");
+
+    while (digitalRead(BUTTON_PIN) == HIGH) {
+    }
+
+    Serial.println("KNOP 1 WERKT");
+    knop1Getest = true;
+
+    delay(1000);
+  }
+
+
+  // knop 2
+  if (!knop2Getest) {
+    Serial.println("");
+    Serial.println("DRUK OP KNOP 2");
+
+    while (digitalRead(knopMuziek) == HIGH) {
+    }
+
+    Serial.println("KNOP 2 WERKT");
+    knop2Getest = true;
+
+    delay(1000);
+  }
