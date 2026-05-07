@@ -47,6 +47,11 @@ void setup() {
     myDFPlayer.play(1);
 
     delay(5000);
+    
+    Serial.println("DFPLAYER SPEELT AUDIO 2");
+    myDFPlayer.play(2);
+
+    delay(5000);
   }
 
   // motor 1 test
