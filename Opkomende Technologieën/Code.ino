@@ -74,8 +74,8 @@ void setup() {
 
   Serial.println("--- SYSTEEM START OP ---");
   Serial.println("Kalibreren motoren...");
-  myStepper.step(500);
   stepper2.step(-1200);
+  myStepper.step(500);
   groeiFase = 0;
 
   if (!myDFPlayer.begin(Serial1)) {
