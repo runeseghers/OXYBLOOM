@@ -13,14 +13,14 @@ De plant kan aan/uit gezet worden door een drukknop, ook kunnen het volume van d
 
 ## Foto eindresultaat
 ## Benodigdheden
-# Software
+### Software
 - Arduino.ino
-# Microcontroller
+### Microcontroller
 - Arduino Mega 2560
-# Sensoren
+### Sensoren
 - DHT11 (vocht/temperatuursensor)
 - MQ-135 (CO2-sensor)
-# Componenten
+### Componenten
 - 2x Stappenmotor 4 fasen 5 V
 - 2x ULN2003 (stappenmotor driver)
 - 2x RGB Led
