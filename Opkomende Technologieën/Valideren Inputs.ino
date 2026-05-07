@@ -43,3 +43,35 @@ void loop() {
 
     delay(1000);
   }
+
+  // potmeter 1
+  if (!pot1Getest) {
+    Serial.println("");
+    Serial.println("DRAAI AAN POTMETER HELDERHEID");
+
+    int startWaarde = analogRead(POT_PIN);
+
+    while (abs(analogRead(POT_PIN) - startWaarde) < 50) {
+    }
+
+    Serial.println("POTMETER HELDERHEID WERKT");
+    pot1Getest = true;
+
+    delay(1000);
+  }
+
+  // potmeter 2
+  if (!pot2Getest) {
+    Serial.println("");
+    Serial.println("DRAAI AAN POTMETER VOLUME");
+
+    int startWaarde = analogRead(potVolume);
+
+    while (abs(analogRead(potVolume) - startWaarde) < 50) {
+    }
+
+    Serial.println("POTMETER VOLUME WERKT");
+    pot2Getest = true;
+
+    delay(1000);
+  }
