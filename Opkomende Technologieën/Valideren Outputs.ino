@@ -27,8 +27,8 @@ void setup() {
   }
 
 
-  motor1.setSpeed(10);
-  motor2.setSpeed(10);
+  motor1.setSpeed(5);
+  motor2.setSpeed(5);
 
   // dfplayer
   Serial.println("");
