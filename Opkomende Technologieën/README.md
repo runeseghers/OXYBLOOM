@@ -14,7 +14,16 @@ Als onderwerp hebben we gekozen voor Oéxybloom het project voor Gebruiksgericht
 - 2x ULN2003 (stappenmotor driver)
 - 2x RGB Led
 - 4x Weerstand 220 Ohm
-
-
+- 3x Weerstand 1k Ohm
+- 2x Drukknop
+- 2x Potentiometer
+- DFR 0299 (DFplayer)
+- Micro SD kaart
+- Speaker 8 Ohm
+- Kabels
+- Batterij 9V
+- 9V Batterij clip naar 2.1mm DC plug
+- Mini breadbord
+- Half breadbord
 ## Connectieschema
 
