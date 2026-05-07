@@ -13,6 +13,59 @@ bool knop2Getest = false;
 bool pot1Getest = false;
 bool pot2Getest = false;
 
+
+void setup() {
+
+ Serial.begin(9600);
+
+  pinMode(BUTTON_PIN, INPUT_PULLUP);
+  pinMode(knopMuziek, INPUT_PULLUP);
+
+  dht.begin();
+
+  Serial.println("INPUT VALIDATIE");
+  delay(1000);
+
+  // dht sensor
+  float humidity = dht.readHumidity();
+
+  Serial.println("");
+  Serial.println("DHT11 TEST");
+
+  if (!isnan(humidity)) {
+    Serial.print("Vochtigheid: ");
+    Serial.print(humidity);
+    Serial.println(" %");
+
+    Serial.println("DHT11 WERKT");
+  } else {
+    Serial.println("DHT11 FOUT");
+  }
+
+  delay(1500);
+
+  // mq sensor
+  int mq = analogRead(MQ_PIN);
+
+  Serial.println("");
+  Serial.println("MQ SENSOR TEST");
+
+  Serial.print("Gemeten waarde: ");
+  Serial.println(mq);
+
+  if (mq > 0) {
+    Serial.println("MQ SENSOR WERKT");
+  } else {
+    Serial.println("MQ SENSOR FOUT");
+  }
+
+  delay(1500);
+
+  Serial.println("");
+  Serial.println("START MANUELE TESTS");
+}
+
+
 void loop() {
 
   // knop 1
@@ -26,7 +79,7 @@ void loop() {
     Serial.println("KNOP 1 WERKT");
     knop1Getest = true;
 
-    delay(1000);
+    delay(1500);
   }
 
 
@@ -41,7 +94,7 @@ void loop() {
     Serial.println("KNOP 2 WERKT");
     knop2Getest = true;
 
-    delay(1000);
+    delay(1500);
   }
 
   // potmeter 1
@@ -57,7 +110,7 @@ void loop() {
     Serial.println("POTMETER HELDERHEID WERKT");
     pot1Getest = true;
 
-    delay(1000);
+    delay(1500);
   }
 
   // potmeter 2
@@ -73,5 +126,13 @@ void loop() {
     Serial.println("POTMETER VOLUME WERKT");
     pot2Getest = true;
 
-    delay(1000);
+    delay(1500);
   }
+    if (knop1Getest && knop2Getest && pot1Getest && pot2Getest) {
+
+    Serial.println("");
+    Serial.println("ALLE INPUTS WERKEN");
+    while(true);
+    
+}
+}
