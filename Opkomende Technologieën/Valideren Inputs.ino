@@ -7,3 +7,8 @@ const int POT_PIN = A1;
 const int BUTTON_PIN = 2;
 const int knopMuziek = A2;
 const int potVolume = A5;
+
+bool knop1Getest = false;
+bool knop2Getest = false;
+bool pot1Getest = false;
+bool pot2Getest = false;
