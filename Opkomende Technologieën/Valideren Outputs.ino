@@ -60,8 +60,9 @@ void setup() {
 
   Serial.println("MOTOR 1 GAAT NU DRAAIEN");
 
-  motor1.step(1000);
-
+  motor1.step(-600);
+  motor1.step(600);
+  motor1.step(-600);
 
   Serial.println("MOTOR 1 WERKT");
 
@@ -73,7 +74,9 @@ void setup() {
 
   Serial.println("MOTOR 2 GAAT NU DRAAIEN");
 
-  motor2.step(1000);
+  motor2.step(-1200);
+  motor2.step(1200);
+  motor2.step(-1175);
 
   Serial.println("MOTOR 2 WERKT");
 
