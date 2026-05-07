@@ -18,7 +18,7 @@ void setup() {
 
  Serial.begin(9600);
 
-  pinMode(BUTTON_PIN, INPUT_PULLUP);
+
   pinMode(knopMuziek, INPUT_PULLUP);
 
   dht.begin();
@@ -73,7 +73,7 @@ void loop() {
     Serial.println("");
     Serial.println("DRUK OP KNOP 1");
 
-    while (digitalRead(BUTTON_PIN) == HIGH) {
+    while (digitalRead(BUTTON_PIN) == LOW) {
     }
 
     Serial.println("KNOP 1 WERKT");
