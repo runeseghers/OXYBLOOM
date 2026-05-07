@@ -41,7 +41,7 @@ void setup() {
     Serial.println("DFPLAYER GEVONDEN");
     Serial.println("DFPLAYER WENKT");
 
-    myDFPlayer.volume(20);
+    myDFPlayer.volume(30);
 
     Serial.println("DFPLAYER SPEELT AUDIO 1");
     myDFPlayer.play(1);
