@@ -12,6 +12,12 @@ Als sensorinput gebruikt de plant een vochtsensor, samen met een CO₂-sensor. A
 De plant kan aan/uit gezet worden door een drukknop, ook kunnen het volume van de speaker en de helderheid van de leds worden aangepast door twee verschillende potentiometers.
 
 ## Foto eindresultaat
+  <p align="left">
+  <img src="../img/Potopen.JPEG" width="33%">
+  <img src="../img/Pottoe.JPEG" width="33%">
+  <img src="../img/Elek.JPEG" width="33%">
+</p>
+
 ## Benodigdheden
 ### Software
 - Arduino.ino
@@ -37,4 +43,6 @@ De plant kan aan/uit gezet worden door een drukknop, ook kunnen het volume van d
 - Mini breadbord
 - Half breadbord
 ## Connectieschema
-
+<p align="left">
+  <img src="../img/Schema.png" width="100%">
+</p>
