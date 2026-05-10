@@ -39,7 +39,7 @@ void setup() {
   } else {
 
     Serial.println("DFPLAYER GEVONDEN");
-    Serial.println("DFPLAYER WENKT");
+    Serial.println("DFPLAYER WERKT");
 
     myDFPlayer.volume(30);
 
