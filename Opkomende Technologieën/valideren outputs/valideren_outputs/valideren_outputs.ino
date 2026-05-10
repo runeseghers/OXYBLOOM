@@ -131,3 +131,5 @@ void setup() {
   Serial.println(" ");
   Serial.println("ALLE OUTPUTS GETEST");
 }
+
+void loop(){}
