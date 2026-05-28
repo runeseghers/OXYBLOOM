@@ -17,6 +17,11 @@ De plant kan aan/uit gezet worden door een drukknop, ook kunnen het volume van d
 - Arduino.ino
 ### Microcontroller
 - Arduino Mega 2560
+### Libraries
+- Stepper library
+- DHT library
+- DFRobotDFPlayerMini library
+- Adafruit Unified Sensor library
 ### Sensoren
 - DHT11 (vocht/temperatuursensor)
 - MQ-135 (CO2-sensor)
