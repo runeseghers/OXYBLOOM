@@ -12,14 +12,14 @@ Als sensorinput gebruikt de plant een vochtsensor, samen met een CO₂-sensor. A
 De plant kan aan/uit gezet worden door een drukknop, ook kunnen het volume van de speaker en de helderheid van de leds worden aangepast door twee verschillende potentiometers.
 ## Proces
 We zijn gestart met verschillende tests zoals:
-De helderheid van een led kunnen aanpassen, een led aan en uit kunnen schakelen.
+De helderheid van een led kunnen aanpassen en aan en uit kunnen schakelen.
   <p align="left">
   <img src="../img/Schermafbeelding 2026-05-28 163557.png" width="30%">
   <img src="../img/Schermafbeelding 2026-05-28 163605.png" width="30%">
   <img src="../img/Schermafbeelding 2026-05-28 163615.png" width="62%">
 </p>
 
-Na een tijdje wisten we hoe de meeste componentne die we nodig hadden functioneerd, met behulp van youtube videos en datasheets.
+Na een tijdje wisten we hoe de meeste componenten die we nodig hadden functioneerd, met behulp van youtube videos en datasheets.
 
 
 Toen zijn we begonnen met de hoofdcode dat we staps gewijs hebben opgebouwd.
