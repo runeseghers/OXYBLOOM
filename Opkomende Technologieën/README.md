@@ -25,12 +25,12 @@ Na een tijdje wisten we hoe de meeste componenten die we nodig hadden functionee
 Toen zijn we begonnen met de hoofdcode dat we stapsgewijs hebben opgebouwd.
 
 1. Als eerste hebben we de motor laten kalibreren door hem naar één kant te laten roteren. Dit hebben we gedaan omdat stappenmotoren hun positie niet kunnen onthouden.( zie code ..)
-2. Dan hebben we de motor laten besturen door een luchtvochtigheidssensor(datasheet sensor)(code 2)
+2. Dan hebben we de motor laten besturen door een luchtvochtigheidssensor([datasheet sensor](https://www.mouser.com/datasheet/2/758/DHT11-Technical-Data-Sheet-Translated-Version-1143054.pdf?srsltid=AfmBOorO1tDjnJdzTmvuW-I0MY3YAzV3U6862pVDsvfQup3PF48_19x4))(code 2)
 
 3. Doordat de motor nu 2 standen heeft kan een led de status van de motor weergeven dit zie je in code_3 (code3)
 4. De motor wordt niet alleen bestuurt aan de hand van de luchtvochtigheid maar ook door de co2 waarde in een ruimte. Dit kan je zien in code_5(code 5). Ook worden de waarden continu geprint zodat het makkelijker is voor ons om te programmeren. Bij deze code hadden we een foutje opgemerkt namelijk bij het opstarten en wanneer de luchtkwaliteit slecht werd, was de led groen en die moest rood zijn.(code 6)
-5. In code_7 en code_8 (code 7 en code 8) hebben we de code aangepast zodat de helderheid van de leds bediend konden worden door een potentiometer(datasheet) en de led begint te flikkeren wanneer er een maximale grens wordt overschreden van de co2 sensor.
-6. Om geluid uit een speaker te kunnen krijgen hebben we via een YouTube-filmpje ([link](https://www.youtube.com/watch?v=UN9XPWHamHw&t=221s)) een test kunnen doen los van onze huidige code. We hebben dit gedaan met een DFPlayer(datasheet) en een 8 ohm/1W speaker. Het zijn 2 bestanden die worden afgespeeld aan de hand van de stand van de motor.
+5. In code_7 en code_8 (code 7 en code 8) hebben we de code aangepast zodat de helderheid van de leds bediend konden worden door een potentiometer([datasheet](https://www.mouser.com/datasheet/2/13/RV24AF-1658492.pdf?srsltid=AfmBOoroW_hk-SwTR9ZNtt5Is-XXlw9FjysBGhcXY1r1qHgsNOvlgD1j)) en de led begint te flikkeren wanneer er een maximale grens wordt overschreden van de co2 sensor.
+6. Om geluid uit een speaker te kunnen krijgen hebben we via een YouTube-filmpje ([link](https://www.youtube.com/watch?v=UN9XPWHamHw&t=221s)) een test kunnen doen los van onze huidige code. We hebben dit gedaan met een DFPlayer([datasheet](https://www.mouser.be/datasheet/3/1500/1/DFPlayer_Mini_Manual.pdf)) en een 8 ohm/1W speaker. Het zijn 2 bestanden die worden afgespeeld aan de hand van de stand van de motor.
 We hebben hierbij een potentiometer toegevoegd om het volume van de speaker te kunnen regelen.
   <p align="left">
   <img src="../img/Schermafbeelding 2026-05-28 162839.png" width="33%">
