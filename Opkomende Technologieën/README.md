@@ -19,24 +19,24 @@ De helderheid van een led kunnen aanpassen en aan en uit kunnen schakelen.
   <img src="../img/Schermafbeelding 2026-05-28 163615.png" width="62%">
 </p>
 
-Na een tijdje wisten we hoe de meeste componenten die we nodig hadden functioneerd, met behulp van youtube videos en datasheets.
+Na een tijdje wisten we hoe de meeste componenten die we nodig hadden functioneerden, met behulp van YouTube-video’s en datasheets.
 
 
-Toen zijn we begonnen met de hoofdcode dat we staps gewijs hebben opgebouwd.
+Toen zijn we begonnen met de hoofdcode dat we stapsgewijs hebben opgebouwd.
 
-1. Als eerste hebben we de motor laten kalibreren door hem naar 1 kant te laten roteren. Dit hebben we gedaan omdat stappenmotors hun positie niet kunnen onthouden.( zie code ..)
-2. Dan hebben we de motor laten besturen door een luchtvochtigheids sensor(datasheet sensor)(code 2)
+1. Als eerste hebben we de motor laten kalibreren door hem naar één kant te laten roteren. Dit hebben we gedaan omdat stappenmotoren hun positie niet kunnen onthouden.( zie code ..)
+2. Dan hebben we de motor laten besturen door een luchtvochtigheidssensor(datasheet sensor)(code 2)
 
-3. Doordat de motor nu 2 standen heeft kan een led dde status van de motor weergeven dit zie je in code_3 (code3)
-4. De motor wordt niet alleen bestuurt aan de hand van de luchtvochtigheid maar ook door de co2 waarde in een ruimte. Dit kan je zien in code_5(code 5). Ook worden de waarden continu geprint zodat het makkelijker is voor ons om te progerammeren. Bij deze code hadden we een foutje opgemerkt namelijk bij het opstarten en wanneer de luchtkwaliteit slecht werd, was de led groen en die moets rood zijn.(code 6)
+3. Doordat de motor nu 2 standen heeft kan een led de status van de motor weergeven dit zie je in code_3 (code3)
+4. De motor wordt niet alleen bestuurt aan de hand van de luchtvochtigheid maar ook door de co2 waarde in een ruimte. Dit kan je zien in code_5(code 5). Ook worden de waarden continu geprint zodat het makkelijker is voor ons om te programmeren. Bij deze code hadden we een foutje opgemerkt namelijk bij het opstarten en wanneer de luchtkwaliteit slecht werd, was de led groen en die moest rood zijn.(code 6)
 5. In code_7 en code_8 (code 7 en code 8) hebben we de code aangepast zodat de helderheid van de leds bediend konden worden door een potentiometer(datasheet) en de led begint te flikkeren wanneer er een maximale grens wordt overschreden van de co2 sensor.
-6. Om geluid uit een speaker te kunnen krijgen hebben we via een youtube filmpje ([link](https://www.youtube.com/watch?v=UN9XPWHamHw&t=221s)) een test kunnen doen apart van onze huidige code. We hebben dit gedaan met een DfPlayer(datasheet) en een 8 ohm/1W speaker. Het zijn 2 files die worden afgespeeld aan de hand van de stand van de motor.
+6. Om geluid uit een speaker te kunnen krijgen hebben we via een YouTube-filmpje ([link](https://www.youtube.com/watch?v=UN9XPWHamHw&t=221s)) een test kunnen doen los van onze huidige code. We hebben dit gedaan met een DFPlayer(datasheet) en een 8 ohm/1W speaker. Het zijn 2 bestanden die worden afgespeeld aan de hand van de stand van de motor.
 We hebben hierbij een potentiometer toegevoegd om het volume van de speaker te kunnen regelen.
   <p align="left">
   <img src="../img/Schermafbeelding 2026-05-28 162839.png" width="33%">
   <img src="../img/Schermafbeelding 2026-05-28 162847.png" width="33%">
 </p>
-Nadat dit werkte hebben we de 2 apparte boards samen gevoegd.
+Nadat dit werkte hebben we de 2 aparte boards samengevoegd.
   <p align="left">
   <img src="../img/Schermafbeelding 2026-05-28 162856.png" width="33%">
 </p>
@@ -44,7 +44,7 @@ Nadat dit werkte hebben we de 2 apparte boards samen gevoegd.
   <p align="left">
   <img src="../img/Schermafbeelding 2026-05-28 163647.png" width="33%">
 </p>
-7. Omdat we nog een motor en meerdere rgb leds wouden toevoegen hebben we onze aruino uno aan de kant geschoven en zijn we over gestapt naar een arduino mega.
+7. Omdat we nog een motor en meerdere rgb leds wilden toevoegen hebben we onze Arduino Uno aan de kant geschoven en zijn we overgestapt naar een Arduino Mega.
 
   <p align="left">
   <img src="../img/Schermafbeelding 2026-05-28 165702.png" width="50%">
@@ -56,7 +56,7 @@ Nadat dit werkte hebben we de 2 apparte boards samen gevoegd.
   <img src="../img/Pottoe.JPEG" width="33%">
   <img src="../img/Elek.JPEG" width="33%">
 </p>
- Dit is dan ook de uiteindelijke code.(code)
+ Dit is de uiteindelijke code.(code)
 
 ## Benodigdheden
 ### Software
