@@ -40,6 +40,7 @@ Nadat dit werkte hebben we de 2 apparte boards samen gevoegd.
   <img src="../img/Elek.JPEG" width="33%">
 </p>
  Dit is dan ook de uiteindelijke code.(code)
+
 ## Benodigdheden
 ### Software
 - Arduino.ino
