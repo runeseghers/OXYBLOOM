@@ -1,4 +1,4 @@
-## Onderwerp
+## Onderwerp - Oxybloom
 Als onderwerp hebben we gekozen voor Oxybloom, het project voor Gebruiksgericht Ontwerp. Oxybloom is een interactieve bloem die via licht, beweging en geluid de gebruiker informeert over de luchtkwaliteit in huis. Het doel van het project is om mensen op een eenvoudige en intuïtieve manier te helpen correct te verluchten.
 
 De bloem toont de status van de luchtkwaliteit door middel van bewegende bladeren. Wanneer de bladeren gesloten zijn, betekent dit dat de luchtkwaliteit slecht is. Wanneer de bladeren openstaan, is de luchtkwaliteit goed. Om deze beweging mogelijk te maken, wordt gebruikgemaakt van een mechanisch systeem dat aangestuurd wordt door een stappenmotor.
