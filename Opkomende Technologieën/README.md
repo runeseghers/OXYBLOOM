@@ -56,7 +56,8 @@ Nadat dit werkte hebben we de 2 aparte boards samengevoegd.
   <img src="../img/Pottoe.JPEG" width="33%">
   <img src="../img/Elek.JPEG" width="33%">
 </p>
- Dit is de uiteindelijke [code](https://github.com/runeseghers/OXYBLOOM/blob/main/Opkomende%20Technologie%C3%ABn/Code/Code.ino).
+
+Uiteindelijk is dit onze finale [code](https://github.com/runeseghers/OXYBLOOM/blob/main/Opkomende%20Technologie%C3%ABn/Code/Code.ino) geworden die we in het laatste prototype gebruiken.
 
 ## Benodigdheden
 ### Software
