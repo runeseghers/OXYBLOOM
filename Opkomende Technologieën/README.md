@@ -41,12 +41,14 @@ Nadat dit werkte hebben we de 2 apparte boards samen gevoegd.
   <img src="../img/Schermafbeelding 2026-05-28 162856.png" width="33%">
 </p>
   Met deze code en hardware werd de eerste prototypes getest.
-    <p align="left">
+  <p align="left">
   <img src="../img/Schermafbeelding 2026-05-28 163647.png" width="33%">
 </p>
 7. Omdat we nog een motor en meerdere rgb leds wouden toevoegen hebben we onze aruino uno aan de kant geschoven en zijn we over gestapt naar een arduino mega.
 
-
+  <p align="left">
+  <img src="../img/Schermafbeelding 2026-05-28 165702.png" width="50%">
+</p>
 
 ## Eindresultaat.
   <p align="left">
