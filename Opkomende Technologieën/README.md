@@ -10,6 +10,26 @@ Als extra beschikt Oxybloom ook over een soort beloningssysteem. Hierbij groeit 
 Als sensorinput gebruikt de plant een vochtsensor, samen met een CO₂-sensor. Alle componenten worden aangestuurd door een Arduino Mega 2560.
 
 De plant kan aan/uit gezet worden door een drukknop, ook kunnen het volume van de speaker en de helderheid van de leds worden aangepast door twee verschillende potentiometers.
+## Proces
+We zijn gestart met verschillende tests zoals:
+De helderheid van een led kunnen aanpassen, een led aan en uit kunnen schakelen.
+
+Na een tijdje wisten we hoe de meeste componentne die we nodig hadden functioneerd, met behulp van youtube videos en datasheets.
+
+
+Toen zijn we begonnen met de hoofdcode dat we staps gewijs hebben opgebouwd.
+
+1. Als eerste hebben we de motor laten kalibreren door hem naar 1 kant te laten roteren. Dit hebben we gedaan omdat stappenmotors hun positie niet kunnen onthouden.( zie code ..)
+2. Dan hebben we de motor laten besturen door een luchtvochtigheids sensor(datasheet sensor)(code 2)
+
+3. Doordat de motor nu 2 standen heeft kan een led dde status van de motor weergeven dit zie je in code_3 (code3)
+4. De motor wordt niet alleen bestuurt aan de hand van de luchtvochtigheid maar ook door de co2 waarde in een ruimte. Dit kan je zien in code_5(code 5). Ook worden de waarden continu geprint zodat het makkelijker is voor ons om te progerammeren. Bij deze code hadden we een foutje opgemerkt namelijk bij het opstarten en wanneer de luchtkwaliteit slecht werd, was de led groen en die moets rood zijn.(code 6)
+5. In code_7 en code_8 (code 7 en code 8) hebben we de code aangepast zodat de helderheid van de leds bediend konden worden door een potentiometer(datasheet) en de led begint te flikkeren wanneer er een maximale grens wordt overschreden van de co2 sensor.
+6. Om geluid uit een speaker te kunnen krijgen hebben we via een youtube filmpje (youtube link) een test kunnen doen apart van onze huidige code.
+Nadat dit werkte hebben we de 2 apparte boards samen gevoegd.
+7. Omdat we nog een motor en meerdere rgb leds wouden toevoegen hebben we onze aruino uno aan de kant geschoven en zijn we over gestapt op een arduino mega.  
+
+
 
 ## Foto eindresultaat
   <p align="left">
