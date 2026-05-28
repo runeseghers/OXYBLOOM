@@ -7,7 +7,7 @@ const int aantalLeds = 2;
 
 const int stepsPerRevolution = 2048;
 
-Stepper motor1(stepsPerRevolution, 8, 10, 9, 11);
+Stepper motor1(stepsPerRevolution, 26, 27, 28, 29);
 Stepper motor2(stepsPerRevolution, 22, 24, 23, 25);
 
 DFRobotDFPlayerMini myDFPlayer;
@@ -27,7 +27,7 @@ void setup() {
   }
 
 
-  motor1.setSpeed(5);
+  motor1.setSpeed(12);
   motor2.setSpeed(5);
 
   // dfplayer
