@@ -24,7 +24,7 @@ Na een tijdje wisten we hoe de meeste componenten die we nodig hadden functionee
 
 Toen zijn we begonnen met de hoofdcode dat we stapsgewijs hebben opgebouwd.
 
-1. Als eerste hebben we de motor laten kalibreren door hem naar één kant te laten roteren. Dit hebben we gedaan omdat stappenmotoren hun positie niet kunnen onthouden.([zie code ..](https://github.com/runeseghers/OXYBLOOM/blob/main/Opkomende%20Technologie%C3%ABn/Code/Code.ino))
+1. Als eerste hebben we de motor laten kalibreren door hem naar één kant te laten roteren. Dit hebben we gedaan omdat stappenmotoren hun positie niet kunnen onthouden.([code](https://github.com/runeseghers/OXYBLOOM/blob/main/Opkomende%20Technologie%C3%ABn/Code/Code.ino))
 2. Dan hebben we de motor laten besturen door een luchtvochtigheidssensor([datasheet sensor](https://www.mouser.com/datasheet/2/758/DHT11-Technical-Data-Sheet-Translated-Version-1143054.pdf?srsltid=AfmBOorO1tDjnJdzTmvuW-I0MY3YAzV3U6862pVDsvfQup3PF48_19x4))(code 2)
 
 3. Doordat de motor nu 2 standen heeft kan een led de status van de motor weergeven dit zie je in [code_3](https://github.com/runeseghers/OXYBLOOM/blob/main/tests/code_3_Led_erbij/code_3_Led_erbij.ino).
