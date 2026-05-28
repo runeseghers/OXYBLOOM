@@ -13,6 +13,11 @@ De plant kan aan/uit gezet worden door een drukknop, ook kunnen het volume van d
 ## Proces
 We zijn gestart met verschillende tests zoals:
 De helderheid van een led kunnen aanpassen, een led aan en uit kunnen schakelen.
+  <p align="left">
+  <img src="../img/Schermafbeelding 2026-05-28 163557.png" width="30%">
+  <img src="../img/Schermafbeelding 2026-05-28 163605.png" width="30%">
+  <img src="../img/Schermafbeelding 2026-05-28 163615.png" width="62%">
+</p>
 
 Na een tijdje wisten we hoe de meeste componentne die we nodig hadden functioneerd, met behulp van youtube videos en datasheets.
 
@@ -34,6 +39,10 @@ We hebben hierbij een potentiometer toegevoegd om het volume van de speaker te k
 Nadat dit werkte hebben we de 2 apparte boards samen gevoegd.
   <p align="left">
   <img src="../img/Schermafbeelding 2026-05-28 162856.png" width="33%">
+</p>
+  Met deze code en hardware werd de eerste prototypes getest.
+    <p align="left">
+  <img src="../img/Schermafbeelding 2026-05-28 163647.png" width="33%">
 </p>
 7. Omdat we nog een motor en meerdere rgb leds wouden toevoegen hebben we onze aruino uno aan de kant geschoven en zijn we over gestapt naar een arduino mega.
 
