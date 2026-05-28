@@ -60,6 +60,7 @@
 |4|De bedieningselementen zijn visueel geïntegreerd in het ontwerp om de esthetiek van de pot te behouden.|[Analyse test develop 2](https://docs.google.com/document/d/1LS81rWTh8fn5G55BaOMGvlZr1KS65SzYiV8W_BzbE0Y/edit?tab=t.0)|✅|
 |**Deelaspect**|
 |1.1|Het bijvullen van het waterreservoir sluit aan bij de routine van het verzorgen van een reguliere plant.|[Analyse test develop 2](https://docs.google.com/document/d/1LS81rWTh8fn5G55BaOMGvlZr1KS65SzYiV8W_BzbE0Y/edit?tab=t.0)|✅|
+|1.2|Blauwe leds wanneer het waterreservoir leeg is.|[Analyse test develop 2](https://docs.google.com/document/d/1LS81rWTh8fn5G55BaOMGvlZr1KS65SzYiV8W_BzbE0Y/edit?tab=t.0)|❌|
 
 
 

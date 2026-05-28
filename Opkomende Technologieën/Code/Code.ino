@@ -14,9 +14,9 @@ const int knopMuziek = A2;
 const int potVolume = A5;
 
 // LED Groepen 
-const int redPins[] = {5, 12, 13};
-const int greenPins[] = {6, 4, 7};
-const int aantalLeds = 4;
+const int redPins[] = {5, 13};
+const int greenPins[] = {4, 7};
+const int aantalLeds = 2;
 
 // Stepper configuratie
 const int stepsPerRevolution = 2048;
