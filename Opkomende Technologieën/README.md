@@ -25,19 +25,21 @@ Toen zijn we begonnen met de hoofdcode dat we staps gewijs hebben opgebouwd.
 3. Doordat de motor nu 2 standen heeft kan een led dde status van de motor weergeven dit zie je in code_3 (code3)
 4. De motor wordt niet alleen bestuurt aan de hand van de luchtvochtigheid maar ook door de co2 waarde in een ruimte. Dit kan je zien in code_5(code 5). Ook worden de waarden continu geprint zodat het makkelijker is voor ons om te progerammeren. Bij deze code hadden we een foutje opgemerkt namelijk bij het opstarten en wanneer de luchtkwaliteit slecht werd, was de led groen en die moets rood zijn.(code 6)
 5. In code_7 en code_8 (code 7 en code 8) hebben we de code aangepast zodat de helderheid van de leds bediend konden worden door een potentiometer(datasheet) en de led begint te flikkeren wanneer er een maximale grens wordt overschreden van de co2 sensor.
-6. Om geluid uit een speaker te kunnen krijgen hebben we via een youtube filmpje (youtube link) een test kunnen doen apart van onze huidige code.
+6. Om geluid uit een speaker te kunnen krijgen hebben we via een youtube filmpje (youtube link) een test kunnen doen apart van onze huidige code. We hebben dit gedaan met een DfPlayer(datasheet) en een 8 ohm/1W speaker. Het zijn 2 files die worden afgespeeld aan de hand van de stand van de motor.
+
+We hebben hierbij een potentiometer toegevoegd om het volume van de speaker te kunnen regelen.
 Nadat dit werkte hebben we de 2 apparte boards samen gevoegd.
-7. Omdat we nog een motor en meerdere rgb leds wouden toevoegen hebben we onze aruino uno aan de kant geschoven en zijn we over gestapt op een arduino mega.  
+7. Omdat we nog een motor en meerdere rgb leds wouden toevoegen hebben we onze aruino uno aan de kant geschoven en zijn we over gestapt naar een arduino mega.
 
 
 
-## Foto eindresultaat
+## Eindresultaat.
   <p align="left">
   <img src="../img/Potopen.JPEG" width="33%">
   <img src="../img/Pottoe.JPEG" width="33%">
   <img src="../img/Elek.JPEG" width="33%">
 </p>
-
+ Dit is dan ook de uiteindelijke code.(code)
 ## Benodigdheden
 ### Software
 - Arduino.ino
