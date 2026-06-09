@@ -61,7 +61,7 @@ void setup() {
   Serial1.begin(9600);
 
   dht.begin();
-  myStepper.setSpeed(5);
+  myStepper.setSpeed(10);
   stepper2.setSpeed(5);
   
   for(int i = 0; i < aantalLeds; i++) {
@@ -148,7 +148,7 @@ void loop() {
     Serial.print("% | CO2: "); Serial.print(ppm);
     Serial.print(" ppm | Fase: "); Serial.println(groeiFase);
  // motor logica
-    if (h >= 30 && h <= 60 && ppm < 800) {
+    if (h >= 30 && h <= 60 && ppm < 900) {
       if (groeiFase == 0) {
         myStepper.step(-400); 
         stepper2.step(600); 
