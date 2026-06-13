@@ -27,7 +27,32 @@ Modulariteit en duurzaamheid. Vervangbare onderdelen en een eventueel geïntegre
 Verdere personalisatie en toegankelijkheid. Functies zoals een trilfunctie in de app, ten behoeve van  gebruikers met een visuele beperking, of een visuele indicatie van de luchtkwaliteit aan de hand van een balkje, kunnen de toegankelijkheid van het product verder vergroten.
 Bijkomende functionaliteit. Een diffuser zou bijvoorbeeld ook ingezet kunnen worden om geuren te verspreiden, wat de meerwaarde van het product verder zou vergroten.
 
-Businessmodel en prijsbepaling. Prijs blijft een belangrijke drempel voor een breed publiek. Verder onderzoek naar een haalbaar prijspunt, en naar de manier waarop eventuele Pro-functies aangeboden kunnen worden zonder dat gebruikers van de basisversie het gevoel krijgen iets te missen, is noodzakelijk voor een succesvolle marktintroductie.
+Businessmodel en prijsbepaling. Prijs blijft een belangrijke drempel voor een breed publiek. Verder onderzoek naar een haalbaar prijspunt, en naar de manier waarop eventuele Pro-functies aangeboden kunnen worden zonder dat gebruikers van de basisversie het gevoel krijgen iets te missen, is noodzakelijk voor een succesvolle marktintroductie. Hieronder is een tabel met een schatting van wat het prototype nu kost.
+| Onderdeel | Aantal | Prijs/stuk | Totaal |
+|------------|:------:|-----------:|--------:|
+| Arduino Mega 2560 | 1 | €25,00 | €25,00 |
+| Stappenmotor 4-fase 5V (28BYJ-48) | 2 | €3,00 | €6,00 |
+| ULN2003 driver | 2 | €1,50 | €3,00 |
+| DHT11 (vocht/temp) | 1 | €1,50 | €1,50 |
+| MQ-135 (CO₂) | 1 | €3,00 | €3,00 |
+| RGB LED | 2 | €0,30 | €0,60 |
+| Weerstand 220 Ω | 4 | €0,05 | €0,20 |
+| Weerstand 1 kΩ | 3 | €0,05 | €0,15 |
+| Drukknop | 2 | €0,20 | €0,40 |
+| Potentiometer | 2 | €0,50 | €1,00 |
+| DFPlayer Mini (DFR0299) | 1 | €3,00 | €3,00 |
+| Micro SD-kaart | 1 | €5,00 | €5,00 |
+| Speaker 8 Ω | 1 | €2,00 | €2,00 |
+| Kabels | - | €2,00 | €2,00 |
+| Batterij 9V | 1 | €2,00 | €2,00 |
+| 9V batterijclip naar 2,1 mm DC | 1 | €1,50 | €1,50 |
+| Mini breadboard | 1 | €2,00 | €2,00 |
+| Half breadboard | 1 | €3,50 | €3,50 |
+| **3D-print (PLA, 700 g)** | - | €20/kg | €14,00 |
+| M3 imbusbout | 6 | €0,15 | €0,90 |
+| M3 zeskantmoer | 6 | €0,10 | €0,60 |
+| M3 sluitring | 6 | €0,05 | €0,30 |
+| **Totaal** |  |  | **≈ €77,65** |
 
 Deze elementen vormen geen onderdeel van het huidige prototype, maar bieden waardevolle aanknopingspunten voor een vervolgtraject of een volgende iteratie van Oxybloom.
 ## Evolutie Prototypes
