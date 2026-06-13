@@ -1,10 +1,10 @@
 # Develop 1
 ## Onderzoeksvragen
-- Kan ons product de status van je huis tonen door middel van voice feedback na aandacht trekken?
+- Kan het product de status van je huis tonen door middel van voice feedback na aandacht trekken?
 - Is de kost van de batterij en de zonnepanelen de moeite waard?
 - Wordt de bloem primair gezien als een gezondheidsmonitor
 ## Materiaal & methoden
-Om de werking van het product en de interacties inzichtelijk te maken, werden verschillende analyse- en ontwerpbenaderingen toegepast. We begonnen met het opstellen van storyboards om typische gebruiksscenario’s te visualiseren en de interacties in kaart te brengen. Daarnaast is een morfologische kaart opgesteld om mogelijke variaties in functies, componenten en interacties systematisch te onderzoeken. Op basis hiervan zijn diverse structuren uitgewerkt die de logica en onderliggende redenering van het product verduidelijken.
+Om de werking van het product en de interacties inzichtelijk te maken, werden verschillende analyse- en ontwerpbenaderingen toegepast. Er werd gestart met het opstellen van storyboards om typische gebruiksscenario’s te visualiseren en de interacties in kaart te brengen. Daarnaast is een morfologische kaart opgesteld om mogelijke variaties in functies, componenten en interacties systematisch te onderzoeken. Op basis hiervan zijn diverse structuren uitgewerkt die de logica en onderliggende redenering van het product verduidelijken.
 
 Extra uitleg over onderstaande methoden is te vinden in [Figma](https://www.figma.com/board/dso4iWV8H6f9n6ebzgw1lw/Les-2?node-id=0-1&p=f&t=9HAwHbptUp6RO2Ts-0).
 
@@ -13,8 +13,8 @@ Extra uitleg over onderstaande methoden is te vinden in [Figma](https://www.figm
   <img src="../img/storyboard.png" width="50%">
 </p>
 
-### MVP-defenitie
-Voor ons Minimum Viable Product focussen we op: 
+### MVP-definitie
+Voor het Minimum Viable Product ligt de focus op: 
 1. De bloem kan de luchtkwaliteit meten.
 2. De bloem kan aandacht trekken en visueel feedback geven.
 3. De bloem kan de gebruiker activeren
@@ -55,7 +55,7 @@ Voor ons Minimum Viable Product focussen we op:
 </p>
 
 ### Brainstorming
-Na de feedback op de tweede deelopdracht is besloten om de focus niet langer op kinderen te leggen. Onze job to be done is duidelijker geworden: het product richt zich nu op het behouden van een gezonde luchtkwaliteit. Hierdoor is ook de doelgroep gewijzigd. Voorheen richtten we ons op mensen zonder ventilatiesysteem die geld willen besparen; nu kan ook iemand met een ventilatiesysteem het product begrijpen en gebruiken.
+Na de feedback op de tweede deelopdracht is besloten om de focus niet langer op kinderen te leggen. De job to be done is duidelijker geworden: het product richt zich nu op het behouden van een gezonde luchtkwaliteit. Hierdoor is ook de doelgroep gewijzigd. Waar de focus voorheen lag op consumenten zonder ventilatiesysteem die geld wilden besparen, kan het product nu ook worden begrepen en gebruikt door personen met een bestaand ventilatiesysteem.
 Om dit te ondersteunen is de app-interface aangepast: de lay-out is grotendeels vernieuwd, de prioriteit ligt nu op gezonde luchtkwaliteit, en gebruikers kunnen hun ventilatie koppelen aan het product.
   <p align="left">
   <img src="../img/Schermafbeelding 2026-03-08 151541.png" width="49%">
@@ -69,7 +69,7 @@ Om dit te ondersteunen is de app-interface aangepast: de lay-out is grotendeels 
 ### Prototyping
 In plaats van het eerste prototype verder aan te passen, werd ervoor gekozen om een nieuw prototype te maken. Het eerste prototype was vooral bedoeld om het basisidee te verkennen, maar bleek minder geschikt om terug gebruikstesten mee uit te voeren.
 Met het nieuwe prototype konden deelnemers zich beter inbeelden hoe het uiteindelijke product zou functioneren in een echte situatie.
-Daarnaast gaf dit nieuwe prototype ons ook de mogelijkheid om al verder na te denken over mogelijke functies, interacties en de manier waarop de feedback van het product aan de gebruiker wordt gecommuniceerd.
+Daarnaast bood dit nieuwe prototype de mogelijkheid om al verder na te denken over mogelijke functies, interacties en de manier waarop de feedback van het product aan de gebruiker wordt gecommuniceerd.
 <p align="left">
   <img src="../img/prototype 2 bloem 1.png" width="24%">
   <img src="../img/prototype 2 bloem 2.png" width="24%">
@@ -77,11 +77,11 @@ Daarnaast gaf dit nieuwe prototype ons ook de mogelijkheid om al verder na te de
   <img src="../img/prototype 2 bloem 4.png" width="24%">
 </p>
 
-Er werd gestart met een standaard bloempot waarin een speaker werd geplaatst. De bladeren werden gelasercut en bevestigd aan een 3D-geprint scharnier. De bladen bewegen door het touwtje dat wordt samen getrokken. Daarnaast werden LED’s toegevoegd aan de binnenkant van de pot en aan de bovenste bladeren om extra visuele feedback te creëren.
+De basis bestond uit een standaard bloempot waarin een speaker werd geplaatst. De bladeren werden gelasercut en bevestigd aan een 3D-geprint scharnier. De bladen bewegen door het touwtje dat wordt samen getrokken. Daarnaast werden LED’s toegevoegd aan de binnenkant van de pot en aan de bovenste bladeren om extra visuele feedback te creëren.
 ### Gebruikerstesten(WOz)
-Met het nieuwe prototype zijn testen uitgevoerd volgens de Wizard of Oz-methode, waarbij vijf respondenten hebben deelgenomen. Het doel was onderzoeken of voice feedback geschikt is om de status van een woning of de luchtkwaliteit weer te geven en op welke wijze deze het beste kan worden aangeboden. We hebben gekeken of voice feedback op zichzelf voldoende is, of dat het beter werkt in combinatie met een visuele interface. Daarnaast is een neutrale stem vergeleken met een meer persoonlijke stem.
+Met het nieuwe prototype zijn testen uitgevoerd volgens de Wizard of Oz-methode, waarbij vijf respondenten hebben deelgenomen. Het doel was onderzoeken of voice feedback geschikt is om de status van een woning of de luchtkwaliteit weer te geven en op welke wijze deze het beste kan worden aangeboden. Er werd onderzocht of voice feedback op zichzelf voldoende is, of dat het beter werkt in combinatie met een visuele interface. Daarnaast is een neutrale stem vergeleken met een meer persoonlijke stem.
 
-Tijdens de test vroegen we gebruikers om de twee nieuwe knoppen te bedienen die de voice feedback activeren. De speaker werd vervolgens via een laptop aangestuurd met vooraf [ingestelde zinnen](https://docs.google.com/document/d/1liforW5QV1tSo8GJ6dSAICjEtZ6xmTbX-6z_Iqiovl0/edit?tab=t.0). Na afloop onderzochten we via interviews hoe de gebruikers de feedback hebben ervaren.
+Tijdens de test werden gebruikers verzocht om de twee nieuwe knoppen te bedienen die de voice feedback activeren. De speaker werd vervolgens via een laptop aangestuurd met vooraf [ingestelde zinnen](https://docs.google.com/document/d/1liforW5QV1tSo8GJ6dSAICjEtZ6xmTbX-6z_Iqiovl0/edit?tab=t.0). Na afloop werd door middel van interviews onderzocht hoe de gebruikers de feedback hebben ervaren.
 
 Verder zijn verschillende voedingsmogelijkheden en de bijbehorende kosten (zoals batterijen en zonnepanelen) besproken om de voorkeur van de gebruiker te bepalen. Tot slot is de nieuwe 'Job to be Done' geëvalueerd om te bepalen of gebruikers de 'gezondheid' van het huis als belangrijkste doel zien, of dat zij meer waarde hechten aan energiebesparing en financiële voordelen.
 [Interviewprotocol – Test Develop 1](https://docs.google.com/document/d/14uV6BEjJ6iHEM_Fh3N6zzjam72_YUCfdtqbi0Aa-V18/edit?tab=t.0)
