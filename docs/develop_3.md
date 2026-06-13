@@ -1,6 +1,6 @@
 # Develop 3
 ## Doelstellingen
-In deze deelopdracht onderzoeken we twee aspecten van het product: het waterreservoir en de CMF (Color, Material, Finish) van de verschillende onderdelen. Door tests wordt bepaald:
+In deze deelopdracht onderzoeken we twee aspecten van het product: het waterreservoir en de CMF (Color, Material, Finish) van de verschillende onderdelen. Aan de hand van tests wordt bepaald:
 
 - Wat de beste manier is om het waterreservoir te vullen en te implementeren
 - Welke CMF-keuzes de voorkeur krijgen voor de steel, de bladeren, de bodemplaat, de ventilatie en het licht
@@ -17,7 +17,7 @@ In het prototype werd onze eigen voorkeur voor het waterreservoir geïmplementee
   <img src="../img/Waterreservoir2.png" width="22%">
   <img src="../img/Waterreservoir3.png" width="18%">
 </p>
-Daarnaast is het prototype voorzien van elektronica en code, zodat de functies (zoals de verlichting) ook effectief werken. Hierdoor krijgen testpersonen een realistischer en duidelijker beeld van het uiteindelijke product, in plaats van enkel een statische maquette. De code voor de werking is te vinden src. Alle onderdelen voor het maken van dit prototype wat ook het finaal prototype is is te vinden in de Bill Of Materials. Ook is er in de Bill Of Materials een versimpeld connectieschema te vinden.
+Daarnaast is het prototype voorzien van elektronica en code, zodat de functies (zoals de verlichting) ook effectief werken. Hierdoor krijgen testpersonen een realistischer en duidelijker beeld van het uiteindelijke product, in plaats van enkel een statische maquette. De code voor de werking is te vinden src. Alle onderdelen voor het maken van dit prototype, dat ook het finale prototype is, zijn te vinden in de bill of materials. Ook is er in de Bill Of Materials een vereenvoudigd connectieschema te vinden.
 
 Voor de CMF werden via Vizcom verschillende visualisaties gegenereerd, zodat de verschillende onderdelen (bladeren, steel, ventilatie, licht en bodemplaat) in diverse kleuren, materialen en finishes konden worden voorgelegd aan testpersonen.
 ## Testen
@@ -81,7 +81,7 @@ Het alternatieve ontwerp (vulopening aan de zijkant) werd grotendeels afgewezen 
 </p>
 
 ### App
-Tijdens het testen van de verschillende mogelijkheden voor het signaallicht bleek vooral dat het rustig en subtiel moest blijven. Daarom is er teruggegrepen naar een eerdere ontwerpvereiste voor de [App](https://last-name-51594304.figma.site). Namelijk de app had de mogelijkheid om een kleur te kunnen ontgrendelen door goed te ventileren en die kleur was bedoeld als extra licht aan de onderkant van de pot. Nu met dat licht zal je wel je bloem kunnen personaliseren maar het kant te druk zijn 2 verschillende kleuren licht en het signaal licht zal minder duidelijk zijn. Ook zal het meer kosten en bijvoorbeeld oudere mensen die niet met en gsm kunnen werken kunnen het niet gebruiken.
+Tijdens het testen van de verschillende mogelijkheden voor het signaallicht bleek vooral dat het rustig en subtiel moest blijven. Daarom is er teruggegrepen naar een eerdere ontwerpvereiste voor de [App](https://last-name-51594304.figma.site). Namelijk de app had de mogelijkheid om een kleur te kunnen ontgrendelen door goed te ventileren en die kleur was bedoeld als extra licht aan de onderkant van de pot. Nu met dat licht zal je wel je bloem kunnen personaliseren maar het kan te druk en/of onduidelijk zijn, twee verschillende kleuren licht en het signaal licht zal minder duidelijk zijn. Ook zal het meer kosten en bijvoorbeeld oudere mensen die niet met een gsm kunnen werken kunnen het niet gebruiken.
 
 In plaats daarvan hebben we een systeem toegevoegd dat je je punten kan delen met vriende, familie, over heel de wereld, ... . Met mensen die ook een OXYBloom hebben. Zo is er ook motivatie. Dit zal wel nog moeten getest worden.
 
