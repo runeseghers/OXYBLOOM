@@ -80,6 +80,9 @@ Het alternatieve ontwerp (vulopening aan de zijkant) werd grotendeels afgewezen 
   <img src="../img/Bodem3.png" width="25%">
 </p>
 
+### App
+
+
 ## Eindoordeel
 De testresultaten tonen aan dat gebruikers een balans zoeken tussen technologie en natuur. De grootste winstpunten liggen in realistische detaillering van de plant (nerven, steentjes, natuurlijke vormen) gecombineerd met subtiele technologische integratie (minimalistisch licht).
 Aanbevolen definitieve keuzes
