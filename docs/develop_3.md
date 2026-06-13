@@ -17,7 +17,7 @@ In het prototype werd onze eigen voorkeur voor het waterreservoir geïmplementee
   <img src="../img/Waterreservoir2.png" width="22%">
   <img src="../img/Waterreservoir3.png" width="18%">
 </p>
-Daarnaast is het prototype voorzien van elektronica en code, zodat de functies (zoals de verlichting) ook effectief werken. Hierdoor krijgen testpersonen een realistischer en duidelijker beeld van het uiteindelijke product, in plaats van enkel een statische maquette. De code voor de werking is [hier](https://github.com/runeseghers/OXYBLOOM/blob/main/Opkomende%20Technologie%C3%ABn/Code/Code.ino) te vinden. Alle onderdelen voor het maken van dit prototype wat ook het finaal prototype is is te vinden in de [Bill Of Materials](https://github.com/runeseghers/OXYBLOOM/blob/main/docs/bom.md). Ook is er in de Bill Of Materials een versimpeld connectieschema te vinden.
+Daarnaast is het prototype voorzien van elektronica en code, zodat de functies (zoals de verlichting) ook effectief werken. Hierdoor krijgen testpersonen een realistischer en duidelijker beeld van het uiteindelijke product, in plaats van enkel een statische maquette. De code voor de werking is te vinden src. Alle onderdelen voor het maken van dit prototype wat ook het finaal prototype is is te vinden in de Bill Of Materials. Ook is er in de Bill Of Materials een versimpeld connectieschema te vinden.
 
 Voor de CMF werden via Vizcom verschillende visualisaties gegenereerd, zodat de verschillende onderdelen (bladeren, steel, ventilatie, licht en bodemplaat) in diverse kleuren, materialen en finishes konden worden voorgelegd aan testpersonen.
 ## Testen
