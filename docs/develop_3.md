@@ -82,6 +82,28 @@ Het alternatieve ontwerp (vulopening aan de zijkant) werd grotendeels afgewezen 
 
 ### App
 
+## Feedback en aanbevelingen vanuit gesprek met studenten (Gent)
+Tijdens een gesprek in Gent met enkele andere studenten over ons project, kwamen enkele waardevolle inzichten en suggesties naar voren voor de verdere ontwikkeling van het concept:
+
+Interactie en toegankelijkheid
+- Het interactieve gedeelte van het product wordt gezien als een sterk verkoopsargument
+- Trilfunctie in de bijhorende app zou een meerwaarde kunnen zijn voor gebruikers met een visuele beperking
+
+Modulariteit en duurzaamheid
+- Vervangbare onderdelen zouden de levensduur en duurzaamheid van het product verhogen
+- In combinatie met een CO2-filter zou de plant (en bijhorende functies) volledig zelfstandig kunnen functioneren
+
+Sensoren en externe uitbreiding
+- Een extern apparaat (buiten geplaatst) met aanvullende sensoren zou meer relevante informatie over de luchtkwaliteit kunnen verzamelen
+- De diffuser zou ook gebruikt kunnen worden om geuren te verspreiden, bijvoorbeeld tijdens het koken
+
+Gebruikerservaring
+- Een trager/subtieler reagerend apparaat (minder onmiddellijke feedback) wordt als positief ervaren
+- In de app zou de CO2-waarde visueel weergegeven kunnen worden via een balkje (indicatie van goed/slecht), in plaats van enkel een numerieke  waarde
+
+Business model
+- Prijsbepaling wordt als een cruciaal aspect beschouwd
+- Een Pro-versie met extra functies kan voor niet-betalende gebruikers als een gemis overkomen, omdat ze zien welke functies ze missen — dit verdient verdere overweging
 
 ## Eindoordeel
 De testresultaten tonen aan dat gebruikers een balans zoeken tussen technologie en natuur. De grootste winstpunten liggen in realistische detaillering van de plant (nerven, steentjes, natuurlijke vormen) gecombineerd met subtiele technologische integratie (minimalistisch licht).
