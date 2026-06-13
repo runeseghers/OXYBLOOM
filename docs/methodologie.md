@@ -1,6 +1,6 @@
 ## Methodologie
 <p align="left">
-  <img src="../img/Triple Diamond Develop2.png" width="100%">
+  <img src="../img/Finaal TD.png" width="100%">
 </p>
 De methodologie volgt het triple diamond ontwerpmodel, bestaande uit vier fasen: discover, define, develop en deliver.
 
