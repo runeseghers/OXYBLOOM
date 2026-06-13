@@ -54,15 +54,21 @@
 |ID|Design Requirement Develop 2|Source|Status|
 |:---|:---|:---|:---:|
 |**Algemeen**|
-|1|Het product verhoogt de luchtvochtigheid op het juiste moment in de ruimte zonder dat de gebruiker hiervoor acties hoeft te ondernemen.|[Analyse test develop 2](https://docs.google.com/document/d/1LS81rWTh8fn5G55BaOMGvlZr1KS65SzYiV8W_BzbE0Y/edit?tab=t.0)|⚠️|
-|2|Draaiknoppen voor geluid en helderheid maken een nauwkeurige, traploze instelling mogelijk.|[Analyse test develop 2](https://docs.google.com/document/d/1LS81rWTh8fn5G55BaOMGvlZr1KS65SzYiV8W_BzbE0Y/edit?tab=t.0)|✅|
-|3|De belangrijkste functies van het product blijven bereikbaar ongeacht de fysieke status (geopend/gesloten) van de bloem.|[Analyse test develop 2](https://docs.google.com/document/d/1LS81rWTh8fn5G55BaOMGvlZr1KS65SzYiV8W_BzbE0Y/edit?tab=t.0)|✅|
+|1|Het product reguleert de luchtvochtigheid automatisch op basis van de omgevingsbehoefte.|[Analyse test develop 2](https://docs.google.com/document/d/1LS81rWTh8fn5G55BaOMGvlZr1KS65SzYiV8W_BzbE0Y/edit?tab=t.0)|⚠️|
+|2|De audio- en helderheidsinstellingen zijn traploos en nauwkeurig aanpasbaar.|[Analyse test develop 2](https://docs.google.com/document/d/1LS81rWTh8fn5G55BaOMGvlZr1KS65SzYiV8W_BzbE0Y/edit?tab=t.0)|✅|
+|3|De primaire productfuncties zijn onafhankelijk van de geopende of gesloten stand van de bloem toegankelijk.|[Analyse test develop 2](https://docs.google.com/document/d/1LS81rWTh8fn5G55BaOMGvlZr1KS65SzYiV8W_BzbE0Y/edit?tab=t.0)|✅|
 |4|De bedieningselementen zijn visueel geïntegreerd in het ontwerp om de esthetiek van de pot te behouden.|[Analyse test develop 2](https://docs.google.com/document/d/1LS81rWTh8fn5G55BaOMGvlZr1KS65SzYiV8W_BzbE0Y/edit?tab=t.0)|✅|
 |**Deelaspect**|
 |1.1|Het bijvullen van het waterreservoir sluit aan bij de routine van het verzorgen van een reguliere plant.|[Analyse test develop 2](https://docs.google.com/document/d/1LS81rWTh8fn5G55BaOMGvlZr1KS65SzYiV8W_BzbE0Y/edit?tab=t.0)|✅|
-|1.2|Blauwe leds wanneer het waterreservoir leeg is.|[Analyse test develop 2](https://docs.google.com/document/d/1LS81rWTh8fn5G55BaOMGvlZr1KS65SzYiV8W_BzbE0Y/edit?tab=t.0)|❌|
+|1.2|Het product geeft een visueel signaal wanneer het waterreservoir leeg is.|[Analyse test develop 2](https://docs.google.com/document/d/1LS81rWTh8fn5G55BaOMGvlZr1KS65SzYiV8W_BzbE0Y/edit?tab=t.0)|❌|
 
-
+|ID|Design Requirement Develop 3|Source|Status|
+|:---|:---|:---|:---:|
+|**Algemeen**|
+|1|Het ontwerp van het waterreservoir waarborgt een intuïtieve en ongehinderde gebruikersinteractie.|[Analyse test develop 3](https://docs.google.com/document/d/1FLf_whq74Fe5Exia7DLtALLMpERrBxRFpvECkAxbEaY/edit?tab=t.0)|✅|
+|1.1|De sluiting van het waterreservoir en de dop voorziet de gebruiker van duidelijke feedback.|[Analyse test develop 3](https://docs.google.com/document/d/1FLf_whq74Fe5Exia7DLtALLMpERrBxRFpvECkAxbEaY/edit?tab=t.0)|✅|
+|1.2|De afmetingen van de dop zijn geoptimaliseerd voor universele fysieke toegankelijkheid.|[Analyse test develop 3](https://docs.google.com/document/d/1FLf_whq74Fe5Exia7DLtALLMpERrBxRFpvECkAxbEaY/edit?tab=t.0)|✅|
+|1.3|Het waterreservoir is eenvoudig te reinigen.|[Analyse test develop 3](https://docs.google.com/document/d/1FLf_whq74Fe5Exia7DLtALLMpERrBxRFpvECkAxbEaY/edit?tab=t.0)|✅|
 
 
 
