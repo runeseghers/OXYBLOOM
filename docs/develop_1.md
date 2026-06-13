@@ -81,7 +81,7 @@ Er werd gestart met een standaard bloempot waarin een speaker werd geplaatst. De
 ### Gebruikerstesten(WOz)
 Met het nieuwe prototype zijn testen uitgevoerd volgens de Wizard of Oz-methode, waarbij vijf respondenten hebben deelgenomen. Het doel was onderzoeken of voice feedback geschikt is om de status van een woning of de luchtkwaliteit weer te geven en op welke wijze deze het beste kan worden aangeboden. We hebben gekeken of voice feedback op zichzelf voldoende is, of dat het beter werkt in combinatie met een visuele interface. Daarnaast is een neutrale stem vergeleken met een meer persoonlijke stem.
 
-Tijdens de test vroegen we gebruikers om de twee nieuwe knoppen te bedienen die de voice feedback activeren. De speaker werd vervolgens via een laptop aangestuurd met vooraf ingestelde zinnen. Na afloop onderzochten we via interviews hoe de gebruikers de feedback hebben ervaren.
+Tijdens de test vroegen we gebruikers om de twee nieuwe knoppen te bedienen die de voice feedback activeren. De speaker werd vervolgens via een laptop aangestuurd met vooraf [ingestelde zinnen](https://docs.google.com/document/d/1liforW5QV1tSo8GJ6dSAICjEtZ6xmTbX-6z_Iqiovl0/edit?tab=t.0). Na afloop onderzochten we via interviews hoe de gebruikers de feedback hebben ervaren.
 
 Verder zijn verschillende voedingsmogelijkheden en de bijbehorende kosten (zoals batterijen en zonnepanelen) besproken om de voorkeur van de gebruiker te bepalen. Tot slot is de nieuwe 'Job to be Done' geëvalueerd om te bepalen of gebruikers de 'gezondheid' van het huis als belangrijkste doel zien, of dat zij meer waarde hechten aan energiebesparing en financiële voordelen.
 [Interviewprotocol – Test Develop 1](https://docs.google.com/document/d/14uV6BEjJ6iHEM_Fh3N6zzjam72_YUCfdtqbi0Aa-V18/edit?tab=t.0)
