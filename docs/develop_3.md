@@ -97,7 +97,7 @@ Modulariteit en duurzaamheid
 - In combinatie met een CO2-filter zou de plant (en bijhorende functies) volledig zelfstandig kunnen functioneren
 
 Sensoren en externe uitbreiding
-- Een extern apparaat (buiten geplaatst) met aanvullende sensoren zou meer relevante informatie over de luchtkwaliteit kunnen verzamelen
+- Een extern apparaat (buiten geplaatst) met aanvullende sensoren zou meer relevante informatie over de luchtkwaliteit van buiten kunnen verzamelen i.p.v een lokaal weerbericht
 - De diffuser zou ook gebruikt kunnen worden om geuren te verspreiden, bijvoorbeeld tijdens het koken
 
 Gebruikerservaring
