@@ -35,4 +35,5 @@ Deze elementen vormen geen onderdeel van het huidige prototype, maar bieden waar
 </p>
 
 ## Filmpje
-[Filmpje](https://www.youtube.com/shorts/xmFyi1Ips3s)
+
+In dit [Filmpje](https://www.youtube.com/shorts/xmFyi1Ips3s) wordt het proces die doorlopen is en het gebruik van de OXYBloom uitgelegd.
