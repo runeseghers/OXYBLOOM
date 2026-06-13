@@ -28,6 +28,12 @@
 - Mini breadbord
 - Half breadbord
 ## 3D-print
+Alle mechanische componenten zijn ge 3D print. De files zijn te vinden in (...). Alle onderdelen werden in PLA geprint. 
+## Verbindingselementen
+Om de stappen motoren en luidspreker vast te maken aan de 3d print is gebruik gemaakt van: 
+* 6 M3 imbusbouten
+* 6 M3 zeskantmoeren
+* 6 M3 sluitringen
 ## Connectieschema
 <p align="left">
   <img src="../img/Schema.png" width="100%">
