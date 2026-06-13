@@ -50,7 +50,7 @@ In de derde develop-fase lag de focus op het waterreservoir en de CMF-keuzes (Co
 ## Noot inzake het gebruik van AI
 AI werd gebruikt om inspiratie te verkrijgen over bestaande apparaten, zodat deze konden worden gebenchmarkt. Ook werd het gebruikt om een storyboard te maken na dat de verschillende situaties werden uitgeschreven. Het hero shot is ook deels gemaakt met AI. Verder werd AI ook gebruikt een interface te maken voor een toekomstige app via Figma Make om zo wat tijd te besparen.
 
-Bij develop 3 is er gebruikt gemaakt van vizcom. Vicom is een site waarop je foto's kan laten bewerken door AI. Dit werkt gebruikt om verschillende design keuzes te laten genereren door middel van kernwoorden.
+Bij develop 3 is er gebruikt gemaakt van vizcom. Vizcom is een site waarop je foto's kan laten bewerken door AI. Dit werkt gebruikt om verschillende design keuzes te laten genereren door middel van kernwoorden.
 
 ## Bijlagen
 ### Discovery
