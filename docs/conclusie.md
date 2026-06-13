@@ -15,18 +15,18 @@ De detaillering is afgestemd op wat gebruikers echt waarderen. Develop 3 toonde 
 Het concept is praktisch en functioneel uitgewerkt. Het prototype is niet enkel esthetisch, maar ook functioneel: voorzien van werkende elektronica en code, een herbruikbaar en goed te vullen waterreservoir, en een duidelijke materiaalkeuze. De volledige technische uitwerking is terug te vinden in de Bill of Materials.
 
 Kortom: OXYBloom combineert een wetenschappelijk onderbouwd probleem, een emotioneel aansprekende metafoor, een getest en gebruiksvriendelijk interactieontwerp, en een esthetisch afgewerkt eindproduct. Suggesties voor verder onderzoek en mogelijke verbeterpunten (zoals prijsbepaling, een Pro-versie, of uitbreidingen met externe sensoren) worden besproken in de kritische reflectie.
+
 ## Toekomstperspectief
 Hoewel het huidige prototype een goed onderbouwde en functionele oplossing biedt, zijn er nog verschillende richtingen waarin het concept verder kan groeien. Op basis van de feedback uit de verschillende testfases en het gesprek met studenten in Gent, zien we vooral potentieel in de volgende aspecten:
 
-Uitbreiding met externe sensoren. Een apart, buiten geplaatst apparaat zou bijkomende data (zoals buitenluchtkwaliteit) kunnen verzamelen, wat de adviezen van Oxybloom nog accurater zou maken. Ook zou het gebruik van een PCB in plaats van de arduino Mega nu een grote upgrade kunnen zijn.
+Uitbreiding met externe sensoren en hardware. Een apart, buiten geplaatst apparaat zou bijkomende data (zoals de buitenluchtkwaliteit) kunnen verzamelen, wat de adviezen van Oxybloom nog accurater zou maken. Daarnaast zou de overstap van een Arduino Mega naar een specifiek ontworpen PCB een belangrijke stap voorwaarts zijn op het vlak van compactheid en betrouwbaarheid. Ook het upgraden van componenten, zoals een stappenmotor die zijn positie nauwkeurig kan bepalen of leds die geleidelijk in helderheid en kleur veranderen in plaats van abrupt, zou bijdragen aan een vloeiendere en esthetisch verfijndere werking van het product.
 
-Modulariteit en duurzaamheid. Vervangbare onderdelen en een eventuele CO2-filter zouden de levensduur verlengen en het product op termijn volledig zelfstandig kunnen laten functioneren.
+Modulariteit en duurzaamheid. Vervangbare onderdelen en een eventueel geïntegreerd CO2-filter zouden de levensduur van het product verlengen en het op termijn volledig zelfstandig kunnen laten functioneren.
 
-Verdere personalisatie en toegankelijkheid. Functies zoals een trilfunctie in de app (voor gebruikers met een visuele beperking) of een visuele indicatie (balkje) van de luchtkwaliteit kunnen de toegankelijkheid verder vergroten.
+Verdere personalisatie en toegankelijkheid. Functies zoals een trilfunctie in de app, ten voordele van gebruikers met een visuele beperking, of een visuele indicatie van de luchtkwaliteit aan de hand van een balkje, kunnen de toegankelijkheid van het product verder vergroten.
+Bijkomende functionaliteit. Een diffuser zou bijvoorbeeld ook ingezet kunnen worden om geuren te verspreiden, wat de meerwaarde van het product verder zou vergroten.
 
-Bijkomende functionaliteit. Een diffuser zou bijvoorbeeld ook ingezet kunnen worden om geuren te verspreiden, wat de meerwaarde van het product verder kan vergroten.
-
-Businessmodel en prijsbepaling. Prijs blijft een belangrijke drempel. Verder onderzoek naar een haalbaar prijspunt, en de manier waarop eventuele Pro-functies worden aangeboden (zonder gebruikers van de basisversie het gevoel te geven iets te missen), is noodzakelijk voor een succesvolle marktintroductie.
+Businessmodel en prijsbepaling. Prijs blijft een belangrijke drempel voor een breed publiek. Verder onderzoek naar een haalbaar prijspunt, en naar de manier waarop eventuele Pro-functies aangeboden kunnen worden zonder dat gebruikers van de basisversie het gevoel krijgen iets te missen, is noodzakelijk voor een succesvolle marktintroductie.
 
 Deze elementen vormen geen onderdeel van het huidige prototype, maar bieden waardevolle aanknopingspunten voor een vervolgtraject of een volgende iteratie van Oxybloom.
 ## Evolutie Prototypes
