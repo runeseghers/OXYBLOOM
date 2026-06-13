@@ -17,7 +17,7 @@ Door dit hulpmiddel te gebruiken kunnen bewoners efficiënter ventileren, waardo
 Op deze manier helpt onze oplossing niet alleen het energieverbruik te verminderen, maar verbetert het ook het wooncomfort en de gezondheid van de bewoners. Door bewust ventilatiegedrag te stimuleren op een manier die intuïtief, esthetisch en stand-alone werkt, sluiten we de kennis- en gedragskloof en zorgen we voor een duurzamere en gezondere leefomgeving.
 
 <p align="center">
-  <img src="img/heroshot_bloem.png" width="100%">
+  <img src="img/finale heroshot.png" width="100%">
 </p>
 
 ## Introductie
