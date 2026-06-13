@@ -6,6 +6,11 @@ In deze deelopdracht onderzoeken we twee aspecten van het product: het waterrese
 - Welke CMF-keuzes de voorkeur krijgen voor de steel, de bladeren, de bodemplaat, de ventilatie en het licht
 
 ## Prototype
+
+  <p align="left">
+  <img src="../img/Schermafbeelding 2026-06-13 135523.png" width="50%">
+</p>
+
 In het prototype werd onze eigen voorkeur voor het waterreservoir geïmplementeerd: een reservoir dat via een draaibeweging kan worden losgekoppeld, met een plug om het bij te vullen. Het reservoir wordt extra vastgehouden met magneten.
 
 Daarnaast is het prototype voorzien van elektronica en code, zodat de functies (zoals de verlichting) ook effectief werken. Hierdoor krijgen testpersonen een realistischer en duidelijker beeld van het uiteindelijke product, in plaats van enkel een statische maquette. De code voor de werking is [hier](https://github.com/runeseghers/OXYBLOOM/blob/main/Opkomende%20Technologie%C3%ABn/Code/Code.ino) te vinden. Alle onderdelen voor het maken van dit prototype wat ook het finaal prototype is is te vinden in de [Bill Of Materials](https://github.com/runeseghers/OXYBLOOM/blob/main/docs/bom.md). Ook is er in de Bill Of Materials een versimpeld connectieschema te vinden.
