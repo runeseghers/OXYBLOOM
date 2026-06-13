@@ -44,7 +44,7 @@ Tijdens het eerste semester van dit project staan we momenteel redelijk goed en 
 Voor semester twee hebben we met het nieuwe prototype ons het vorige project naar een hoger niveau gebracht: gebruikers konden zich beter voorstellen hoe het product werkt, wat waardevolle inzichten opleverde. Door tijdens de tests écht door te vragen naar het “waarom” achter reacties hebben we veel dieper begrip gekregen van gebruikersbehoeften. Het gebruik van de WOz-methode bleek daarbij bijzonder effectief, omdat we zo konden observeren hoe voice feedback wordt ontvangen en meteen konden bijsturen. We zijn tevreden met deze stap vooruit.
 
 ## Noot inzake het gebruik van AI
-AI werd gebruikt om inspiratie te verkrijgen over bestaande apparaten, zodat deze konden worden gebenchmarkt. Ook werd het gebruikt om een storyboard te maken na dat de verschillende situaties werden uitgeschreven. Het hero shot is ook deels gemaakt met AI. Verder werd AI ook gebruikt een interface te maken voor een toekomstige app via Figma Make om zo wat tijd te besparen. Ook werd gebruik gemaakt van AI om excel tabellen en tabellen van word documenten om te zetten in code voor de Github.
+AI werd gebruikt om inspiratie te verkrijgen over bestaande apparaten, zodat deze konden worden gebenchmarkt. Ook werd het gebruikt om een storyboard te maken na dat de verschillende situaties werden uitgeschreven. Het hero shot is ook deels gemaakt met AI. Verder werd AI ook gebruikt een interface te maken voor een toekomstige app via Figma Make om zo wat tijd te besparen.
 
 ## Bijlagen
 ### Discovery
