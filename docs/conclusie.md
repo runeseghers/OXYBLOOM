@@ -1,5 +1,5 @@
 # Conclusie
-Op basis van alle voorgaande fases — discovery, definition en de drie develop-fases — is Oxybloom uitgegroeid tot een concept dat erin slaagt een complex en vaak onzichtbaar probleem (een slecht geventileerde, energieverslindende woning) op een laagdrempelige en aantrekkelijke manier zichtbaar en behapbaar te maken voor de gebruiker.
+Op basis van alle voorgaande fases — discovery, definition en de drie develop-fases — is OXYBloom uitgegroeid tot een concept dat erin slaagt een complex en vaak onzichtbaar probleem (een slecht geventileerde, energieverslindende woning) op een laagdrempelige en aantrekkelijke manier zichtbaar en behapbaar te maken voor de gebruiker.
 
 Het finale concept is een slimme, plantvormige luchtkwaliteitsmonitor die via een combinatie van CO₂- en vochtsensoren continu de binnenlucht opvolgt. Wanneer de luchtkwaliteit achteruitgaat, communiceert het product dit op een subtiele, niet-storende manier: via kleurveranderingen, een lichte beweging van de "bladeren" en optionele voice feedback. Een bijhorende app biedt extra diepgang voor wie dat wenst (grafieken, beloningssysteem, personalisatie), maar is nooit een vereiste — het product blijft volledig stand-alone bruikbaar. Hiermee wordt voldaan aan een groot deel van de design requirements die doorheen het traject werden opgesteld (zie Design Requirements).
 
@@ -14,7 +14,7 @@ De detaillering is afgestemd op wat gebruikers echt waarderen. Develop 3 toonde 
 
 Het concept is praktisch en functioneel uitgewerkt. Het prototype is niet enkel esthetisch, maar ook functioneel: voorzien van werkende elektronica en code, een herbruikbaar en goed te vullen waterreservoir, en een duidelijke materiaalkeuze. De volledige technische uitwerking is terug te vinden in de Bill of Materials.
 
-Kortom: Oxybloom combineert een wetenschappelijk onderbouwd probleem, een emotioneel aansprekende metafoor, een getest en gebruiksvriendelijk interactieontwerp, en een esthetisch afgewerkt eindproduct. Suggesties voor verder onderzoek en mogelijke verbeterpunten (zoals prijsbepaling, een Pro-versie, of uitbreidingen met externe sensoren) worden besproken in de kritische reflectie.
+Kortom: OXYBloom combineert een wetenschappelijk onderbouwd probleem, een emotioneel aansprekende metafoor, een getest en gebruiksvriendelijk interactieontwerp, en een esthetisch afgewerkt eindproduct. Suggesties voor verder onderzoek en mogelijke verbeterpunten (zoals prijsbepaling, een Pro-versie, of uitbreidingen met externe sensoren) worden besproken in de kritische reflectie.
 ## Toekomstperspectief
 Hoewel het huidige prototype een goed onderbouwde en functionele oplossing biedt, zijn er nog verschillende richtingen waarin het concept verder kan groeien. Op basis van de feedback uit de verschillende testfases en het gesprek met studenten in Gent, zien we vooral potentieel in de volgende aspecten:
 
