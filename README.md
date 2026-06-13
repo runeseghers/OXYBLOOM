@@ -46,7 +46,7 @@ Tijdens het eerste semester van dit project staan we momenteel redelijk goed en 
 
 Voor de eerste develop-fase hebben we, met behulp van een vernieuwd prototype, het project naar een hoger niveau kunnen tillen: gebruikers konden zich beter voorstellen hoe het product werkt, wat tot waardevolle inzichten leidde. Door tijdens de tests dieper door te vragen naar het "waarom" achter reacties, en door de Wizard of Oz-methode toe te passen, konden we observeren hoe voice feedback werd ontvangen en hierop bijsturen.
 
-Achteraf bleek onze aanpak hier te weinig genuanceerd: we gingen uit van één type feedback voor alle situaties, terwijl het beter was geweest om per parameter (CO2, vocht, status) apart te testen welke vorm het best werkt. Een belangrijk leerpunt voor verdere verfijning.
+Achteraf bleek onze aanpak hier te weinig genuanceerd: we gingen uit van één type feedback voor alle situaties. Ook was het zo dat het beter zou zijn om te testen per parameter en niet enkele parameters in één keer.
 
 Tijdens de tweede develop-fase hebben we een belangrijke les uit develop 1 in de praktijk gebracht: het belang van testen in de juiste context. Waar we in develop 1 onvoldoende rekening hielden met de omgeving waarin het product effectief gebruikt zou worden, hebben we dit in develop 2 wel meegenomen door de antropometrische tests en de gebruikerstests af te stemmen op realistische scenario's, zoals tafelhoogte en kasthoogte. Hierdoor verkregen we relevantere en bruikbaardere resultaten, die rechtstreeks bijdroegen aan de positionering van de knoppen en de algemene ergonomie van het product.
 
