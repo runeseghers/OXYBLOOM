@@ -81,7 +81,7 @@ Uit deze resulaten worden 3 concepten gevormd waaruit gebruikers kunnen kiezen t
 
 
   <p align="left">
-  <img src="../img/Schermafbeelding 2026-04-12 202738.png" width="50%">
+  <img src="../img/Schermafbeelding 2026-06-13 104433.png" width="50%">
 </p>
 
 
