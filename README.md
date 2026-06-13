@@ -39,14 +39,13 @@ Het product werkt energiebesparend en draagt bij aan een gezonder binnenklimaat.
 9. [Conclusie](./docs/conclusie.md)
 
 ## Kritische reflectie
-Tijdens het eerste semester van dit project staan we momenteel redelijk goed en zijn we tevreden over wat we al verricht hebben. We zijn blij met de kwaliteit van de prototypes die we in het eerste deel van het proces hebben ontwikkeld. Deze prototypes tonen aan dat we onze ideeën stap voor stap hebben kunnen omzetten naar concrete en werkbare oplossingen. Het begin van het project was uitdagend, vooral door het aftasten van de juiste aanpak en het maken van keuzes. Gaandeweg hebben we echter geleerd om beter te plannen, te testen en bij te sturen waar nodig. Aan het einde van het eerste semester kunnen we stellen dat het project niet alleen inhoudelijk vooruitgang heeft geboekt, maar ook bijgedragen heeft aan ons leerproces. We hebben waardevolle inzichten opgedaan in prototyping, samenwerking en probleemoplossend denken, wat dit project tot een leerrijke ervaring maakt.
+Tijdens het eerste semester van dit project staan we momenteel redelijk goed en zijn we tevreden over wat we reeds gerealiseerd hebben. We zijn verheugd over de kwaliteit van de prototypes die we in het eerste deel van het proces hebben ontwikkeld. Deze prototypes tonen aan dat we onze ideeën stap voor stap hebben kunnen omzetten naar concrete en werkbare oplossingen. Het begin van het project was uitdagend, voornamelijk door het aftasten van de juiste aanpak en het maken van weloverwogen keuzes. Gaandeweg hebben we echter geleerd om beter te plannen, te testen en bij te sturen waar nodig. Aan het einde van het eerste semester kunnen we stellen dat het project niet alleen inhoudelijk vooruitgang heeft geboekt, maar ook bijgedragen heeft aan ons leerproces. We hebben waardevolle inzichten opgedaan op het vlak van prototyping, samenwerking en probleemoplossend denken, wat dit project tot een leerrijke ervaring maakt.
 
-Voor semester twee hebben we met het nieuwe prototype ons het vorige project naar een hoger niveau gebracht: gebruikers konden zich beter voorstellen hoe het product werkt, wat waardevolle inzichten opleverde. Door tijdens de tests écht door te vragen naar het “waarom” achter reacties hebben we veel dieper begrip gekregen van gebruikersbehoeften. Het gebruik van de WOz-methode bleek daarbij bijzonder effectief, omdat we zo konden observeren hoe voice feedback wordt ontvangen en meteen konden bijsturen. We zijn tevreden met deze stap vooruit.
+Voor semester twee hebben we, met behulp van een vernieuwd prototype, het project naar een hoger niveau kunnen tillen: gebruikers konden zich beter voorstellen hoe het product werkt, wat tot waardevolle inzichten leidde. Door tijdens de tests bewust dieper door te vragen naar het "waarom" achter de reacties van gebruikers, hebben we een grondiger begrip gekregen van hun behoeften en motivaties. Het toepassen van de Wizard of Oz-methode bleek hierbij bijzonder waardevol, aangezien we hierdoor konden observeren hoe voice feedback door gebruikers werd ontvangen en op basis hiervan onmiddellijk konden bijsturen. We zijn dan ook tevreden met deze stap vooruit.
 
+Tijdens de tweede develop-fase hebben we een belangrijke les uit develop 1 in de praktijk gebracht: het belang van testen in de juiste context. Waar we in develop 1 onvoldoende rekening hielden met de omgeving waarin het product effectief gebruikt zou worden, hebben we dit in develop 2 wel meegenomen door de antropometrische tests en de gebruikerstests af te stemmen op realistische scenario's, zoals tafelhoogte en kasthoogte. Hierdoor verkregen we relevantere en bruikbaardere resultaten, die rechtstreeks bijdroegen aan de positionering van de knoppen en de algemene ergonomie van het product.
 
-- altijd testen in juiste context , dus wat we verkeerd hebben gedaan in develop 1
-- voorruitgang willen maken in prototypes maar niet te veel tijd erin spenderen wat we een beetje te veel gedaan hebben in develop 3
-- 
+In de derde develop-fase lag de focus op het waterreservoir en de CMF-keuzes (Color, Material, Finish). Hoewel deze fase waardevolle inzichten heeft opgeleverd, merken we achteraf dat we hierbij iets te veel tijd hebben gespendeerd aan het verfijnen van het prototype, ten koste van de algemene voortgang. We willen voortdurend vooruitgang boeken in onze prototypes, maar moeten hierbij beter bewaken dat dit binnen een redelijke tijdspanne gebeurt, zodat de balans tussen kwaliteit en efficiëntie behouden blijft.
 
 ## Noot inzake het gebruik van AI
 AI werd gebruikt om inspiratie te verkrijgen over bestaande apparaten, zodat deze konden worden gebenchmarkt. Ook werd het gebruikt om een storyboard te maken na dat de verschillende situaties werden uitgeschreven. Het hero shot is ook deels gemaakt met AI. Verder werd AI ook gebruikt een interface te maken voor een toekomstige app via Figma Make om zo wat tijd te besparen.
@@ -85,7 +84,9 @@ Bij develop 3 is er gebruikt gemaakt van vizcom. Vicom is een site waarop je fot
 * [User test protocool](https://docs.google.com/document/d/15RyFqs8qL6PJrg-n36wd5jC9kE5sktj_Zqppsj13D40/edit?tab=t.0#heading=h.vd45tvf1wpcx)
 * [User test analyse](https://docs.google.com/document/d/1LS81rWTh8fn5G55BaOMGvlZr1KS65SzYiV8W_BzbE0Y/edit?tab=t.0)
 ### Develop 3
-* 
+* [User test protocool](https://docs.google.com/document/d/1AFxn7SNG4gidYgDGYXC2rl6uFhPbX5SC4VyNPNwO1w4/edit?tab=t.0)
+* [User test analyse](https://docs.google.com/document/d/1FLf_whq74Fe5Exia7DLtALLMpERrBxRFpvECkAxbEaY/edit?usp=docs_web&ouid=111585377695955395127)
+
 ## Licentie
 
 This repository contains both software and design materials created as part of an industrial design energineering project at Ghent University.
