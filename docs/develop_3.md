@@ -81,6 +81,9 @@ Het alternatieve ontwerp (vulopening aan de zijkant) werd grotendeels afgewezen 
 </p>
 
 ### App
+Tijdens het testen van de verschillende mogelijkheden voor het signaallicht bleek vooral dat het rustig en subtiel moest blijven. Daarom is er teruggegrepen naar een eerdere ontwerpvereiste voor de [App](https://last-name-51594304.figma.site). Namelijk de app had de mogelijkheid om een kleur te kunnen ontgrendelen door goed te ventileren en die kleur was bedoeld als extra licht aan de onderkant van de pot. Nu met dat licht zal je wel je bloem kunnen personaliseren maar het kant te druk zijn 2 verschillende kleuren licht en het signaal licht zal minder duidelijk zijn. Ook zal het meer kosten en bijvoorbeeld oudere mensen die niet met en gsm kunnen werken kunnen het niet gebruiken.
+
+In plaats daarvan hebben we een systeem toegevoegd dat je je punten kan delen met vriende, familie, over heel de wereld, ... . Met mensen die ook een OXYBloom hebben. Zo is er ook motivatie. Dit zal wel nog moeten getest worden.
 
 ## Feedback en aanbevelingen vanuit gesprek met studenten (Gent)
 Tijdens een gesprek in Gent met enkele andere studenten over ons project, kwamen enkele waardevolle inzichten en suggesties naar voren voor de verdere ontwikkeling van het concept:
