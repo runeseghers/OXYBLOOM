@@ -12,7 +12,11 @@ In deze deelopdracht onderzoeken we twee aspecten van het product: het waterrese
 </p>
 
 In het prototype werd onze eigen voorkeur voor het waterreservoir geïmplementeerd: een reservoir dat via een draaibeweging kan worden losgekoppeld, met een plug om het bij te vullen. Het reservoir wordt extra vastgehouden met magneten.
-
+  <p align="left">
+  <img src="../img/Waterreservoir1.png" width="33%">
+  <img src="../img/Waterreservoir2.png" width="22%">
+  <img src="../img/Waterreservoir3.png" width="18%">
+</p>
 Daarnaast is het prototype voorzien van elektronica en code, zodat de functies (zoals de verlichting) ook effectief werken. Hierdoor krijgen testpersonen een realistischer en duidelijker beeld van het uiteindelijke product, in plaats van enkel een statische maquette. De code voor de werking is [hier](https://github.com/runeseghers/OXYBLOOM/blob/main/Opkomende%20Technologie%C3%ABn/Code/Code.ino) te vinden. Alle onderdelen voor het maken van dit prototype wat ook het finaal prototype is is te vinden in de [Bill Of Materials](https://github.com/runeseghers/OXYBLOOM/blob/main/docs/bom.md). Ook is er in de Bill Of Materials een versimpeld connectieschema te vinden.
 
 Voor de CMF werden via Vizcom verschillende visualisaties gegenereerd, zodat de verschillende onderdelen (bladeren, steel, ventilatie, licht en bodemplaat) in diverse kleuren, materialen en finishes konden worden voorgelegd aan testpersonen.
@@ -41,6 +45,41 @@ Het alternatieve ontwerp (vulopening aan de zijkant) werd grotendeels afgewezen 
 | Ventilatie | Optie 2 | Volgt de ribbel-lijnen van de pot, esthetisch én makkelijker schoon te maken |
 | Licht | Subtiele, geïntegreerde verlichting in blad of steel (opties 10/11) | Minimalistisch, externe lichtpunten worden als "kerstboomachtig" ervaren |
 | Bodemplaat | Optie 3 (steentjes/kiezels) | Natuurlijke, authentieke uitstraling |
+
+### Bladeren (vorm)
+  <p align="left">
+  <img src="../img/Blad2.png" width="25%">
+  <img src="../img/Blad4.png" width="23%">
+  <img src="../img/Blad6.png" width="24%">
+</p>
+
+### Bladeren (textuur)
+  <p align="left">
+  <img src="../img/Textuur6.png" width="25%">
+</p>
+
+### Steel
+  <p align="left">
+  <img src="../img/Steel5.png" width="25%">
+  <img src="../img/Steel8.png" width="21%">
+</p>
+
+### Ventilatie
+  <p align="left">
+  <img src="../img/Ventilatie2.png" width="25%">
+</p>
+
+### Licht
+  <p align="left">
+  <img src="../img/Licht10.png" width="25%">
+  <img src="../img/Licht11.png" width="25%">
+</p>
+
+### Bodemplaat
+  <p align="left">
+  <img src="../img/Bodem3.png" width="25%">
+</p>
+
 ## Eindoordeel
 De testresultaten tonen aan dat gebruikers een balans zoeken tussen technologie en natuur. De grootste winstpunten liggen in realistische detaillering van de plant (nerven, steentjes, natuurlijke vormen) gecombineerd met subtiele technologische integratie (minimalistisch licht).
 Aanbevolen definitieve keuzes
