@@ -30,7 +30,9 @@ Businessmodel en prijsbepaling. Prijs blijft een belangrijke drempel. Verder ond
 
 Deze elementen vormen geen onderdeel van het huidige prototype, maar bieden waardevolle aanknopingspunten voor een vervolgtraject of een volgende iteratie van Oxybloom.
 ## Evolutie Prototypes
-
+<p align="left">
+  <img src="../img/Prot.jpg" width="100%">
+</p>
 
 ## Filmpje
 [Filmpje](https://www.youtube.com/shorts/xmFyi1Ips3s)
