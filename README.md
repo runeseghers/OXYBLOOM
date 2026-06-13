@@ -56,6 +56,8 @@ AI werd gebruikt om inspiratie te verkrijgen over bestaande apparaten, zodat dez
 
 Bij develop 3 is er gebruikt gemaakt van vizcom. Vizcom is een site waarop je foto's kan laten bewerken door AI. Dit werkt gebruikt om verschillende design keuzes te laten genereren door middel van kernwoorden.
 
+Bij conclusie de kostprijscalculatie is gedaan aan de han van ai.
+
 ## Bijlagen
 ### Discovery
 * Literatuuronderzoek (N=11)
