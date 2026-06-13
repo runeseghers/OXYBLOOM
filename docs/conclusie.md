@@ -3,7 +3,8 @@ Op basis van alle voorgaande fases — discovery, definition en de drie develop-
 
 Het finale concept is een slimme, plantvormige luchtkwaliteitsmonitor die via een combinatie van CO₂- en vochtsensoren continu de binnenlucht opvolgt. Wanneer de luchtkwaliteit achteruitgaat, communiceert het product dit op een subtiele, niet-storende manier: via kleurveranderingen, een lichte beweging van de "bladeren" en optionele voice feedback. Een bijhorende app biedt extra diepgang voor wie dat wenst (grafieken, beloningssysteem, personalisatie), maar is nooit een vereiste — het product blijft volledig stand-alone bruikbaar. Hiermee wordt voldaan aan een groot deel van de design requirements die doorheen het traject werden opgesteld (zie Design Requirements).
 
-We zijn ervan overtuigd dat dit de best mogelijke oplossing is voor het geschetste probleem, en dit om verschillende redenen:
+Dit concept vormt een sterk onderbouwde oplossing voor het geschetste probleem, om verschillende redenen:
+
 Het sluit aan bij een reëel en aangetoond probleem. Uit de discovery-fase bleek dat ongeveer de helft van de respondenten zich niet bewust is van het verband tussen ventilatiegedrag en energieverbruik. Een product dat dit verband op een tastbare manier zichtbaar maakt, speelt direct in op die kennis- en gedragskloof.
 
 De metafoor van de bloem werkt. Waar bestaande oplossingen op de markt vaak technisch, klinisch en weinig "gezellig" aanvoelen (zoals bleek uit de benchmarking), kiest Oxybloom voor een vorm die mensen graag permanent in hun leefruimte plaatsen. Uit de testen in de definition-fase en develop 1 bleek dat de bloem zowel qua esthetiek als qua "bereidheid tot actie" beter scoorde dan alternatieve metaforen (zoals de parkiet) of een digitale interface.
@@ -23,7 +24,7 @@ Uitbreiding met externe sensoren en hardware. Een apart, buiten geplaatst appara
 
 Modulariteit en duurzaamheid. Vervangbare onderdelen en een eventueel geïntegreerd CO2-filter zouden de levensduur van het product verlengen en het op termijn volledig zelfstandig kunnen laten functioneren.
 
-Verdere personalisatie en toegankelijkheid. Functies zoals een trilfunctie in de app, ten voordele van gebruikers met een visuele beperking, of een visuele indicatie van de luchtkwaliteit aan de hand van een balkje, kunnen de toegankelijkheid van het product verder vergroten.
+Verdere personalisatie en toegankelijkheid. Functies zoals een trilfunctie in de app, ten behoeve van  gebruikers met een visuele beperking, of een visuele indicatie van de luchtkwaliteit aan de hand van een balkje, kunnen de toegankelijkheid van het product verder vergroten.
 Bijkomende functionaliteit. Een diffuser zou bijvoorbeeld ook ingezet kunnen worden om geuren te verspreiden, wat de meerwaarde van het product verder zou vergroten.
 
 Businessmodel en prijsbepaling. Prijs blijft een belangrijke drempel voor een breed publiek. Verder onderzoek naar een haalbaar prijspunt, en naar de manier waarop eventuele Pro-functies aangeboden kunnen worden zonder dat gebruikers van de basisversie het gevoel krijgen iets te missen, is noodzakelijk voor een succesvolle marktintroductie.
