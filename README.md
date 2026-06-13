@@ -5,7 +5,7 @@ Een slimme bloem die huishoudens helpt om de luchtkwaliteit te verbeteren.
 🔥 Supervised by ``prof. dr. Bas Baccarne``, ``Yannick Christiaens`` & ``Wouter Devriese``    
 🌱 Grown at ``Ghent University`` 🏛️ ``Industrial Design Engineering`` ([project overview](https://github.com/basbaccarne/human-centered-design))       
 
-12/04/2026  
+13/06/2026  
 
 ## Samenvatting
 Veel mensen ventileren hun huis niet op de juiste manier, of doen dit te weinig, vaak uit onwetendheid. Dit kan leiden tot een onnodig energieverbruik, slechtere luchtkwaliteit en vochtproblemen. Om inzicht te krijgen in dit probleem hebben we een enquête afgenomen bij ongeveer 100 respondenten. Daaruit bleek dat 50% van de deelnemers zich niet bewust is van het verband tussen duurzaamheid en correcte ventilatie. Dit wijst duidelijk op een kennis- en gedragskloof: veel mensen weten niet wanneer en hoe ze hun woning optimaal kunnen ventileren.
