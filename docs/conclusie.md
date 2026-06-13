@@ -18,13 +18,13 @@ Kortom: OXYBloom combineert een wetenschappelijk onderbouwd probleem, een emotio
 ## Toekomstperspectief
 Hoewel het huidige prototype een goed onderbouwde en functionele oplossing biedt, zijn er nog verschillende richtingen waarin het concept verder kan groeien. Op basis van de feedback uit de verschillende testfases en het gesprek met studenten in Gent, zien we vooral potentieel in de volgende aspecten:
 
-Uitbreiding met externe sensoren. Een apart, buiten geplaatst apparaat zou bijkomende data (zoals buitenluchtkwaliteit) kunnen verzamelen, wat de adviezen van Oxybloom nog accurater zou maken.
+Uitbreiding met externe sensoren. Een apart, buiten geplaatst apparaat zou bijkomende data (zoals buitenluchtkwaliteit) kunnen verzamelen, wat de adviezen van Oxybloom nog accurater zou maken. Ook zou het gebruik van een PCB in plaats van de arduino Mega nu een grote upgrade kunnen zijn.
 
 Modulariteit en duurzaamheid. Vervangbare onderdelen en een eventuele CO2-filter zouden de levensduur verlengen en het product op termijn volledig zelfstandig kunnen laten functioneren.
 
 Verdere personalisatie en toegankelijkheid. Functies zoals een trilfunctie in de app (voor gebruikers met een visuele beperking) of een visuele indicatie (balkje) van de luchtkwaliteit kunnen de toegankelijkheid verder vergroten.
 
-Bijkomende functionaliteit. De diffuser zou bijvoorbeeld ook ingezet kunnen worden om geuren te verspreiden, wat de meerwaarde van het product verder kan vergroten.
+Bijkomende functionaliteit. Een diffuser zou bijvoorbeeld ook ingezet kunnen worden om geuren te verspreiden, wat de meerwaarde van het product verder kan vergroten.
 
 Businessmodel en prijsbepaling. Prijs blijft een belangrijke drempel. Verder onderzoek naar een haalbaar prijspunt, en de manier waarop eventuele Pro-functies worden aangeboden (zonder gebruikers van de basisversie het gevoel te geven iets te missen), is noodzakelijk voor een succesvolle marktintroductie.
 
