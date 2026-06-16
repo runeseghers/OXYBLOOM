@@ -5,7 +5,7 @@
 |**Algemeen**|
 |1|Het product kan de luchtkwaliteit in een binnenruimte meten.|[Literatuuronderzoek](https://docs.google.com/document/d/1AfcCo7FvvEoZ-1zk95RXVjzMou38a-mL8L6_zgns-Gg/edit?tab=t.0)|✅|
 |2|Het product kan onmiddellijk feedback geven wanneer de luchtkwaliteit verandert. |[Literatuuronderzoek](https://docs.google.com/document/d/1AfcCo7FvvEoZ-1zk95RXVjzMou38a-mL8L6_zgns-Gg/edit?tab=t.0)|✅|
-|3|Het product heeft een kostprijs die geschikt is voor consumentenproducten voor thuisgebruik.|[Interviews](https://docs.google.com/document/d/1SwhVlLS8_lIYlqKu6CdZsSIWJLKw36k-8GklZlpGox8/edit?usp=sharing), [Enquête](https://docs.google.com/forms/d/e/1FAIpQLSccWiVOp48grHZ2cQGmuoxTeAmDsEP0Rcj8K9Pg0Ig58J9OUA/viewform), [Rapport](https://docs.google.com/document/d/12xce8BJE52bgFbQwACKA-BeoK-U8daDStCAenrfK3ME/edit?tab=t.0)|❌|
+|3|Het product heeft een kostprijs die geschikt is voor consumentenproducten voor thuisgebruik.|[Interviews](https://docs.google.com/document/d/1SwhVlLS8_lIYlqKu6CdZsSIWJLKw36k-8GklZlpGox8/edit?usp=sharing), [Enquête](https://docs.google.com/forms/d/e/1FAIpQLSccWiVOp48grHZ2cQGmuoxTeAmDsEP0Rcj8K9Pg0Ig58J9OUA/viewform), [Rapport](https://docs.google.com/document/d/12xce8BJE52bgFbQwACKA-BeoK-U8daDStCAenrfK3ME/edit?tab=t.0)|⚠️|
 |4|De bloem is esthetisch aanvaardbaar om permanent zichtbaar te zijn in een woonruimte.|[Interviews](https://docs.google.com/document/d/1SwhVlLS8_lIYlqKu6CdZsSIWJLKw36k-8GklZlpGox8/edit?usp=sharing)|✅|
 |5|Het product kan stand-alone functioneren.|[Interviews](https://docs.google.com/document/d/1SwhVlLS8_lIYlqKu6CdZsSIWJLKw36k-8GklZlpGox8/edit?usp=sharing)|✅|
 |**Deelaspect**|
